@@ -2,3 +2,4 @@
 TIL:
 1. bash functions cannot have hyphens in their function names
 2. example point
+3. example point
