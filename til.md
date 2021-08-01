@@ -11,3 +11,12 @@ database
 
 TIL:
 
+# 1 August 2021
+TODO:
+1. Prep for work tomorrow
+2. Maybe learn more about PHPUnit
+3. Get to bed EARLY so I can be first one into work tomorrow!
+
+TIL:
+1. Kinda learned how to install composer/php unit...?
+
