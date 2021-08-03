@@ -130,3 +130,9 @@ ASK:
 What are some keywords I should google in order to learn more about namespaces and autoloaders.
 check out the __ functions. they start with __. Usually __constructur and stuff like that.
 go to php, english, auloading classses , on the website. Magic methods!
+
+**Questions:**
+1. What does AC_FL_Runcontent mean?     rpt_overallranking.html line 63
+2. 
+
+support@rocksolidinternet.com
