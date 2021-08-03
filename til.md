@@ -20,3 +20,17 @@ TODO:
 TIL:
 1. Kinda learned how to install composer/php unit...?
 
+# 2 August 2021
+Setup notes:
+Questions:
+1. [ link ](https://github.com/rocksolidinternet/rsis-source/wiki/Remote-Dev-Setup#rems) 
+do I need to login to this s3 bucket or get added to the employees.json?
+2. Do we just use the PHP Debug extension or do we use also use the XDebugger?
+
+# 3 August 2021
+TODO:
+1. Finish getting my environment set up
+2. Make some serious progress (hopefully finish) my first task at Rock Solid today!
+
+TIL:
+1. 
