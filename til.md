@@ -64,4 +64,26 @@ live site.
 * select * from globalrems.serverconfig;
 ^^ this one is for knowing which db belongs to which url
 * select * from globalrems.dbconfig;
+4. How to make a new user on rems:
+1. go onto the production site for [ nexday rems ](https://nexday.rocksolidinternet.com/html/) 
+2. then hit "forgot user"
+3. enter in tst for the id, then hhemstreet for the username and hit send email
+4. Log onto the mysql database. Connect to the prod db using these creds: 
+hostname: db300.cluster-c3pmu3iwvhxe.us-east-1.rds.amazonaws.com
+port: 3306
+username: harrison.hemstreet
+password: found within the dev config file found here: ~/rsis-source/server/config-dev.cfg
+(should be connected to the prod db now)
+then use a query like this to find my user I just made:
+```sql
+select * from nxdrems.user where email like '%harrison.hemstreet%';
+```
+after connecting to the dev db, input this query into the dev db:
+```sql
+-- select * from nxdrems.user;
+-- insert into nxdrems.user
+-- (displayname, customerid, password, email, adminlevel, forcechangepw, moddate, username, id, lastchanged, phone, fax, iscollector, logindisabled, auditdate, isMigrated, isEncrypted, customerid_old, isLocked)
+-- VALUES
+-- ('Harrison Hemstreet', 'TST', '$2y$10$wdMtdDTcCStpzGy0Smb7J.o5SmCAsEreBwvQXWUzw74iU2DFdIpjC', 'harrison.hemstreet@rocksolidinternet.com', '0.5', NULL, NULL, 'hhemstreet', '9994890', NULL, NULL, NULL, '0', '0', '2021-08-03 16:35:09', '1', '1', '', '0');
+```
 TODO:
