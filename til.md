@@ -33,4 +33,10 @@ TODO:
 2. Make some serious progress (hopefully finish) my first task at Rock Solid today!
 
 TIL:
-1. 
+1. in php this opperator, known as the elvis opperator:
+```php
+:?
+```
+2. is essentially a ternary opperator. In this case though, If the left side of 
+the opperator is truthy, then the left side is returned, otherwise the right side 
+gets returned
