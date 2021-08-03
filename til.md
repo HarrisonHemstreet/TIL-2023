@@ -21,7 +21,6 @@ TIL:
 1. Kinda learned how to install composer/php unit...?
 
 # 2 August 2021
-Setup notes:
 Questions:
 1. [ link ](https://github.com/rocksolidinternet/rsis-source/wiki/Remote-Dev-Setup#rems) 
 do I need to login to this s3 bucket or get added to the employees.json?
@@ -41,3 +40,18 @@ TIL:
 2. is essentially a ternary opperator. In this case though, If the left side of 
 the opperator is truthy, then the left side is returned, otherwise the right side 
 gets returned
+
+Setup notes:
+1. Make sure that php xdebug is already installed before doing anything stupid by
+running 
+```bash
+php -v
+```
+-or-
+```
+php -i
+```
+if you run php -i, then you're going to want to go to xdebug.com (or whatever the
+website is) and then paste the output into the wizard (xdebug.com/wizard). The 
+output from the wizard should tell you if you need to install the xdebuger.
+2. 
