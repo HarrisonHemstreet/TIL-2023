@@ -55,7 +55,7 @@ if you run php -i, then you're going to want to go to xdebug.com (or whatever th
 website is) and then paste the output into the wizard (xdebug.com/wizard). The 
 output from the wizard should tell you if you need to install the xdebuger.
 2. live site for [ rems ](https://nexday.rocksolidinternet.com/). Go there and then
-hit forgot password. Enter in tst for the first field, then hhemstreet into the 
+hit forgot password. Enter in 'tst' for the first field, then hhemstreet into the 
 username and enter. Go to your email, you should get a reset. Then copy that table 
 from the live db into the dev db. Both should have the same encrypted password 
 which means I should be able to use the same unencrypted password I used on the 
