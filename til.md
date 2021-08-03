@@ -26,6 +26,7 @@ Questions:
 1. [ link ](https://github.com/rocksolidinternet/rsis-source/wiki/Remote-Dev-Setup#rems) 
 do I need to login to this s3 bucket or get added to the employees.json?
 2. Do we just use the PHP Debug extension or do we use also use the XDebugger?
+3. Where should the launch.json file be located?
 
 # 3 August 2021
 TODO:
