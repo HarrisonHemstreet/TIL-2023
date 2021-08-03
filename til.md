@@ -117,3 +117,16 @@ customer.php line 216, class DatabaseManager. Never get's required or anything. 
 bootstrap.php the includes directory gets auto implemented into each file bc of this file.
 
 first place you want to go to look at backend code for rems is rems/app/actions.
+
+mgmt in the url refers to (go to rems/html/mgmt/index.php) this file. Then look at exactly whtat it goingon.
+New place to put services and functionality is: Factory (server/common/rsis inside ehre, we are putting the majority of our new code here. If we could pause time, we would reorganize all our functioning code in there.)
+this services dir is essentially comparable to our microservices. Inside of the services, we need to put a slash in front of things. its bc we are using namespaces. Name spaces tells the code which directory we are in. Often matches the directory structure.
+Having the slash in front just means that this thing is outsdie of the current namespace. That's all it means. This thing will at times be picked up by the autoloader
+
+Anything we put into core we want to keep super clean and not related to anything specific. general tools.
+addservice.php line 9 block. basiclaly a reequire.
+
+ASK:
+What are some keywords I should google in order to learn more about namespaces and autoloaders.
+check out the __ functions. they start with __. Usually __constructur and stuff like that.
+go to php, english, auloading classses , on the website. Magic methods!
