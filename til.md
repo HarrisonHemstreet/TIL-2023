@@ -93,3 +93,27 @@ actual file down the road): globalremsReadonlyHost = db300-test-ro.rsis.io
 3. the db300-test-ro.rsis.io should be the host name for the dev db
 4. everything else is the same as the prod db 
 TODO:
+
+Notes:
+1. directories to go to:
+server, jssrc, rems, webship, common, 
+2. in common, we ahve a classes dir, with a file database manager. When we first did our
+flash, we had a client directory with all the flash in there. Years ago, we had webship and
+rems inside of client. Each of those had clients in them. When we went to our html
+version, we put it into jssrc. Jssrc has the most of the front end code. 
+the new webship is someitmes refered to as ec or e-commerce
+
+rems/html/index.php
+
+server/common.classes/appserver.php reads the configdb and configserver sql calls
+
+php tools:
+smarty (template langauge), slim, pairdb (no mysql calls in code.), 
+
+we use the auto loader, appserver.php line 28 on, that block.
+
+customer.php line 216, class DatabaseManager. Never get's required or anything. PHP knows how to find that class and gets it. Trhought the autoloader.
+
+bootstrap.php the includes directory gets auto implemented into each file bc of this file.
+
+first place you want to go to look at backend code for rems is rems/app/actions.
