@@ -86,4 +86,10 @@ after connecting to the dev db, input this query into the dev db:
 -- VALUES
 -- ('Harrison Hemstreet', 'TST', '$2y$10$wdMtdDTcCStpzGy0Smb7J.o5SmCAsEreBwvQXWUzw74iU2DFdIpjC', 'harrison.hemstreet@rocksolidinternet.com', '0.5', NULL, NULL, 'hhemstreet', '9994890', NULL, NULL, NULL, '0', '0', '2021-08-03 16:35:09', '1', '1', '', '0');
 ```
+CONNECT TO THE DEV DB:
+1. go here: /home/harrisonh/rsis-docker/webserver-dev-remote
+2. copy whatever this value is (the value is here, but maybe different in the
+actual file down the road): globalremsReadonlyHost = db300-test-ro.rsis.io 
+3. the db300-test-ro.rsis.io should be the host name for the dev db
+4. everything else is the same as the prod db 
 TODO:
