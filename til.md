@@ -54,4 +54,4 @@ php -i
 if you run php -i, then you're going to want to go to xdebug.com (or whatever the
 website is) and then paste the output into the wizard (xdebug.com/wizard). The 
 output from the wizard should tell you if you need to install the xdebuger.
-2. 
+2. live site for [ rems ](https://nexday.rocksolidinternet.com/)
