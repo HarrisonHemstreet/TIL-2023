@@ -60,3 +60,8 @@ username and enter. Go to your email, you should get a reset. Then copy that tab
 from the live db into the dev db. Both should have the same encrypted password 
 which means I should be able to use the same unencrypted password I used on the 
 live site.
+3. I need to remember these two queries:
+* select * from globalrems.serverconfig;
+^^ this one is for knowing which db belongs to which url
+* select * from globalrems.dbconfig;
+TODO:
