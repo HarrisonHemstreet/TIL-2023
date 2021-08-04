@@ -139,3 +139,10 @@ go to php, english, auloading classses , on the website. Magic methods!
 2. 
 
 support@rocksolidinternet.com
+
+# 4 August 2021
+TODO:
+1. Get next task on Jira done!
+2. Double check that my task from yesterday is good enough and gets past QA
+TIL:
+
