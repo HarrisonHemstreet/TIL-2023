@@ -146,3 +146,24 @@ TODO:
 2. Double check that my task from yesterday is good enough and gets past QA
 TIL:
 
+SYSTEM NOTES:
+1. customerid = 8 characters. first 3 correspond to the customer, then the last 
+8 correspond to the agent
+2. incoice number = customerid + Y + M + day
+V - year, H - Month, - 31 day
+
+the year is on a base 26 system (alphabet). Starts at the year 2000
+
+we skip the letter I on the month, but not the year.
+the month is simmilar, but base 12 (A - M)
+so, VH31 would = august 31 2021
+
+Search Airbills chart
+1st charge customer cost, 2nd charge franchise/agent cost, 3rd carrier cost on the charges column
+
+rate sheet for airbills M = margin, F = franchise, C = carier
+
+subcarrier is a first class object. Subcarrier is a thing that most of our clients use. Concetp that is front and center in our system. Subcarriers are very important. In our db, we added subcarriers years ago. Whoever added them, they did not add a table.
+
+postimportoperation() should be the function that sets the price of the subcarrier. 
+server/common/Ruis/Services/Buisness/CarrierEdiimporters/DHLEcommerceEDIimportservice.php
