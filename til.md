@@ -42,6 +42,7 @@ the opperator is truthy, then the left side is returned, otherwise the right sid
 gets returned
 
 Setup notes:
+Webship login: username: webship@rocksolidinternet.com password: p@ssword
 0. change the config-dev.cfg line 13 maybe, to this: webpackHmrDevUrl = http://dev19.rsis.io.
 IMPORTANT: ONLY ONLY ONLY clone down from github using ssh!!! Otherwise, permissions might be bad. If permissions are still bad, then make sure to exit your current terminal and restart appropriate processes.
 1. Make sure that php xdebug is already installed before doing anything stupid by
