@@ -183,3 +183,11 @@ this same thing can be acheived with our franchises, but having a subcarrier can
 be nice and convienient.
 
 
+# 5 August 2021
+TODO:
+1. Start on RS-8146
+2. Finish RS-8140 ASAP when they finish what they want it to look like
+TIL:
+1. php- unset() used for removing only one value from php array
+2. php- array_values() is used at times after unset() in order to rebase the 
+array positions since unset totally gets rid of indexes as well as the index's value.
