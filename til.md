@@ -167,3 +167,19 @@ subcarrier is a first class object. Subcarrier is a thing that most of our clien
 
 postimportoperation() should be the function that sets the price of the subcarrier. 
 server/common/Ruis/Services/Buisness/CarrierEdiimporters/DHLEcommerceEDIimportservice.php
+
+SELECT * FROM carriers; that's how you know which carrier id belongs to who
+
+when using the Factory class or function (whatever it is), you need to make sure that you
+are using a lowercase letter with the first letter of whatever class you're trying to
+run. Weird little tip but big
+
+subcarrier is the way we configure different rates in our system.
+subcarriers are made by us, and gives us a way to have a different set of carrier costs.
+subcarriers are made due to the needs of our customers.
+
+
+this same thing can be acheived with our franchises, but having a subcarrier can 
+be nice and convienient.
+
+
