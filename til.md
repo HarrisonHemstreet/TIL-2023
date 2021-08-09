@@ -200,4 +200,6 @@ option thing
 2. Take on new task from Karl that Tom will eventually assign me.
 
 TIL:
-1.
+1. the ratings or Rater directory in the code base is notriously an example of 
+tacticle programming instead of strategically programming. Thats what Karl told me 
+today.
