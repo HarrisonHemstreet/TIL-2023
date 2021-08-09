@@ -191,3 +191,13 @@ TIL:
 1. php- unset() used for removing only one value from php array
 2. php- array_values() is used at times after unset() in order to rebase the 
 array positions since unset totally gets rid of indexes as well as the index's value.
+3. ussaccountno = the column name for the customerIds within the customer table
+
+# 9 August 2021
+TODO:
+1. Finish both hanging tasks, RS-8146 and the one with the other settings reorder 
+option thing
+2. Take on new task from Karl that Tom will eventually assign me.
+
+TIL:
+1.
