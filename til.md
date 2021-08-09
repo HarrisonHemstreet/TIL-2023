@@ -203,3 +203,9 @@ TIL:
 1. the ratings or Rater directory in the code base is notriously an example of 
 tacticle programming instead of strategically programming. Thats what Karl told me 
 today.
+
+buildash: How to impersonate someone and use their site to test a build:
+1. go [ here ](http://clients-list.tools.rocksolidinternet.com/)
+2. impersonate someone who is an admin
+3. in the url, after 'ec', change it to 'ec_[ commit NUMBER ]' (commit number is
+found in the column of the most recent push in buildash).
