@@ -211,4 +211,10 @@ buildash: How to impersonate someone and use their site to test a build:
 found in the column of the most recent push in buildash).
 
 # 10 August 2021
+TODO:
+1. Make significant progress on my tasks today
+2. Get my rings resized
+3. Get sized for a tux
 
+TIL:
+1. my password for ssh harrisonh@dev.rsis.io is harrisonhemstreet
