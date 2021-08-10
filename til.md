@@ -209,3 +209,6 @@ buildash: How to impersonate someone and use their site to test a build:
 2. impersonate someone who is an admin
 3. in the url, after 'ec', change it to 'ec_[ commit NUMBER ]' (commit number is
 found in the column of the most recent push in buildash).
+
+# 10 August 2021
+
