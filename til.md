@@ -218,3 +218,13 @@ TODO:
 
 TIL:
 1. my password for ssh harrisonh@dev.rsis.io is harrisonhemstreet
+
+# 11 August 2021
+TODO:
+1. Make even more progress on my tasks today (RS-7847, RS-8150) 
+2. Finish RS-8140, apply changes suggested by Chris M
+3. Work on getting my mattress to NOT come tomorrow or today
+4. Create a cron job that automatically makes a github contribution daily.
+
+TIL:
+1.
