@@ -256,3 +256,7 @@ I'm going to work on the other task, RS-8150 since it is a webship task, and not
 Questions to ask:
 1. Where can I look at which adminlevels correspond to which amount of security?
 2. Where can I look at which databases correspond to which client?
+3. Where do agents go to change settings/permissions for those under them? for
+example, my current task is that Michael @ Jusda (Jusda is a franchise of Nexday, 
+I believe) is looking to change permissisions for those under him. Is there a gui 
+someplace that allows him to change these settings?
