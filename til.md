@@ -248,3 +248,7 @@ use elirems;
 
 select * from user where email = 'harrison.hemstreet@rocksolidinternet.com';
 ```
+**Notes from today**:
+1. It looks like my rems might be broken for some reason... Home page is working 
+great, but the rest is having ISSUES!!! Just the white page of death... so instead, 
+I'm going to work on the other task, RS-8150 since it is a webship task, and not rems...
