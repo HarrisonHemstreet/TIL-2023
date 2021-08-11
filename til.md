@@ -262,3 +262,5 @@ example, my current task is that Michael @ Jusda (Jusda is a franchise of Nexday
 I believe) is looking to change permissisions for those under him. Is there a gui 
 someplace that allows him to change these settings? Or does the agent just go into 
 window.settings.navSettings manually?
+4. How do the agents divy up the work between themselves and those below them 
+(accounting, sale reps, carriers, etc)?
