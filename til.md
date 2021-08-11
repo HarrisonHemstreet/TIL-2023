@@ -252,3 +252,7 @@ select * from user where email = 'harrison.hemstreet@rocksolidinternet.com';
 1. It looks like my rems might be broken for some reason... Home page is working 
 great, but the rest is having ISSUES!!! Just the white page of death... so instead, 
 I'm going to work on the other task, RS-8150 since it is a webship task, and not rems...
+
+Questions to ask:
+1. Where can I look at which adminlevels correspond to which amount of security?
+2. Where can I look at which databases correspond to which client?
