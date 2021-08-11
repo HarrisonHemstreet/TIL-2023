@@ -227,8 +227,4 @@ TODO:
 4. Create a cron job that automatically makes a github contribution daily.
 
 TIL:
-# 11 August 2021
-# 11 August 2021
-# 11 August 2021
-# 11 August 2021
-# 11 August 2021
+1. elirems is the name for England's rems database
