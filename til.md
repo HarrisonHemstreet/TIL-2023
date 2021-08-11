@@ -227,5 +227,6 @@ TODO:
 4. Create a cron job that automatically makes a github contribution daily.
 
 TIL:
-1. blah
-2. blah
+# 11 August 2021
+# 11 August 2021
+# 11 August 2021
