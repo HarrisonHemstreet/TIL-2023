@@ -228,6 +228,20 @@ TODO:
 
 TIL:
 1. elirems is the name for England's rems database
+2. How to make a new system setting for a customer:
+i. open up rems, look on the top nav bar
+ii. click on 'ADMIN', select, "system settings"
+iii. click "Add New System Setting"
+iv. in the window, you will see "Name", look for a system setting within the code,
+maybe even in WebshipBootstrapEndpoint.php specifically, and copy and paste this 
+name into the "Name" field directly.
+v. set the value to be whatever the value should be, same with Admin level, and
+the description and allow override.
+vi. THEN hit confirm
+vii. After, double tap on the new row you just made.
+viii. Look at the bottom of the popup under "Manage Overrides".
+viv. enter the data you need to, then hit confirm!
+x. Should be done now!!!!!!!!!
 
 MySQL script for creating new users for (hopefully) any rems db
 ```sql
@@ -264,3 +278,4 @@ someplace that allows him to change these settings? Or does the agent just go in
 window.settings.navSettings manually?
 4. How do the agents divy up the work between themselves and those below them 
 (accounting, sale reps, carriers, etc)?
+
