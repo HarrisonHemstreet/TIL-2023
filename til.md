@@ -297,7 +297,7 @@ not here.
 4. the heading on the popup needs to get renamed. The current name is a misnomer.
 
 
-What I learned from talking to Alex just now:
+**What I learned from talking to Alex just now:**
 1. instead of running Rems with `npm run webpack` or `npx webpack --watch` or
 any of that, I should be instead be running `npm run ww`
 2. At times, the actual rems site can be up without it seeming like it should be
