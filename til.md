@@ -310,5 +310,16 @@ interesting. You will often run across white pages of death when this happens.
 For example, this might be happening if you go to (on rems), Accounts -> Manage 
 Customers and click on Account Setup after selecting the agents and customers on
 the drop down. If ABSOLUTELY no one is showing up when you do that, then this might be
-happening to you.
+happening to you. OR (and this is the big one that got me), if you are making changes
+within the code, but ARE NOT seeings changes, then good chances are, you're in this
+situation.
 
+3. the type col needs to be looked at! Look at where we are inserting data, what 
+the default is, and what we are putting into the db
+4. a shipment can contain an http message and also a message where bookings shipment
+5. a complete record that should happens between two parties
+6. look [ here ](https://imgur.com/a/u58f6CQ) for what a manifest should look like 
+and [ here ](https://imgur.com/mTJTJAL) for what a shipment should look like (I think haha)
+
+1. the unit tests need to be updated in buildash -- also a new and good project
+2. we need to improve on the process of running unit tests on each dev's dev server.
