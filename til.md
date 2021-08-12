@@ -280,3 +280,32 @@ window.settings.navSettings manually?
 (accounting, sale reps, carriers, etc)?
 
 # 12 August 2021
+
+**Notes from Alex on changing up [ this ](http://rzs.rems.dev19.rsis.io/mgmt/shipmentTransactionLog/)
+site:**
+1. we really should be looking to add in loading feedback for the user, something 
+like a spinning ring or anything to let the user know that the page is not busted, 
+but rather just loading. This MIGHT be able to get accomplished using react state
+2. Because the MySQL keys are missing from the table, we are getting slow searches.
+This might be improved using a quick stort sorting algorithm or maybe adding in MySQL 
+keys??? IDK, check it out further.
+3. The eyeball on the left hand side, when clicked, opens up a popup window that 
+can be a little annoying to use. For example, when I hit `CTL + f`, I should be 
+able to search the text for a desired string, but because of the use of a popup 
+and not an actual separate window, this is not happening. The desired outcome is 
+not here.
+4. the heading on the popup needs to get renamed. The current name is a misnomer.
+
+
+What I learned from talking to Alex just now:
+1. instead of running Rems with `npm run webpack` or `npx webpack --watch` or
+any of that, I should be instead be running `npm run ww`
+2. At times, the actual rems site can be up without it seeming like it should be
+because of webpack failing durring an `npm run webpack` or whatnot. This is because
+the acutal files have been built and are displaying for the most part. This is very
+interesting. You will often run across white pages of death when this happens. 
+For example, this might be happening if you go to (on rems), Accounts -> Manage 
+Customers and click on Account Setup after selecting the agents and customers on
+the drop down. If ABSOLUTELY no one is showing up when you do that, then this might be
+happening to you.
+
