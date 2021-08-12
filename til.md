@@ -279,7 +279,4 @@ window.settings.navSettings manually?
 4. How do the agents divy up the work between themselves and those below them 
 (accounting, sale reps, carriers, etc)?
 
-
-# 12 August 2021
-
 # 12 August 2021
