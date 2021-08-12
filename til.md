@@ -280,6 +280,9 @@ window.settings.navSettings manually?
 (accounting, sale reps, carriers, etc)?
 
 # 12 August 2021
+TODO:
+1. RS-7478
+2. work on what direction Alex gave me for making above and beyond improvements
 
 **Notes from Alex on changing up [ this ](http://rzs.rems.dev19.rsis.io/mgmt/shipmentTransactionLog/)
 site:**
