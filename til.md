@@ -324,9 +324,10 @@ and [ here ](https://imgur.com/mTJTJAL) for what a shipment should look like (I 
 1. the unit tests need to be updated in buildash -- also a new and good project
 2. we need to improve on the process of running unit tests on each dev's dev server.
 
-#afdas
-created a test db
-it doesn't live on live
+# 13 August 2021
+Notes from Karl on BuildDash, fixing the unit tests and how we mock dbs:
+1. created a test db
+2. it doesn't live on live
 
-tests break on dev environtmnet bc the dbs we are using are different
-when we change the main db schema, we need to change them on tests too
+3. tests break on dev environtmnet bc the dbs we are using are different
+4. when we change the main db schema, we need to change them on tests too
