@@ -343,5 +343,11 @@ Airbills".
 2. screw around with the filters until I'm able to see the fields I want to change.
 3. the fields I want to change are: Chg 1 Type??? (I think)...
 
+from the task itself:
+*Dev Notes*
+- Update system to export the surcharge name and include the surcharge code in the same cell.
+- Add a system setting to manage this
+-- Name "includeSurchargeCodeInFlatView"
+
 TIL:
 1. we have videos that act as tutorials within Webship
