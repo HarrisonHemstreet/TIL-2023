@@ -342,6 +342,7 @@ Todo:
 Airbills".
 2. screw around with the filters until I'm able to see the fields I want to change.
 3. the fields I want to change are: Chg 1 Type??? (I think)...
+4. I might even just be changing EVERY Chg [ number ] Type...
 
 from the task itself:
 *Dev Notes*
