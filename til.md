@@ -339,3 +339,5 @@ Todo:
 
 TIL:
 1. we have videos that act as tutorials within Webship
+
+# 26 August 2021
