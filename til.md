@@ -352,3 +352,13 @@ from the task itself:
 
 TIL:
 1. we have videos that act as tutorials within Webship
+
+# 27 August 2021
+TODO:
+1. RS-8182 custom invoice - basically just chaning one line in what looks like 
+the receipt! Gonna try to get this done right now!
+2. RS-8117 update search airbills export - follow notes above from yesterday
+3. maybe continue to get more rustlings practice in
+
+TIL:
+1. I learned how rustlings works today
