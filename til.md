@@ -362,3 +362,5 @@ the receipt! Gonna try to get this done right now!
 
 TIL:
 1. I learned how rustlings works today
+
+# 27 August 2021
