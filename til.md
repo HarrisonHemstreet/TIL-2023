@@ -373,5 +373,11 @@ TODO:
 2. work on both RS-8182 and RS-8117
 3. I REALLY need to make significant progress on these today before this week gets
 away from me...
-TIL:
 
+TIL:
+1. inorder to see changes in REMS, we need to do a hard reload
+2. if the invoice on the HTML side is not showing some detail I need, then odds 
+are, the value is a 0, bc any values who's values are equal to 0 default to not 
+shown.
+
+# 30 August 2021
