@@ -5,6 +5,12 @@ attitude of cheerfulness and determination
 * Karl has extensively complemented my work ethic and ability to pick up the code
 base
 
+# Daily Attitudes and Goals:
+1. Be the one to both unlock the office in the morning and lock the office at 
+night
+2. Decrease Costs
+3. Increase Profits
+
 # 27 August 2021
 * C: Karl told me that I was a good guy
 
