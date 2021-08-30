@@ -364,3 +364,12 @@ TIL:
 1. I learned how rustlings works today
 
 # 27 August 2021
+
+# 30 August 2021
+TODO:
+1. write up my schedule before stand up
+2. work on both RS-8182 and RS-8117
+3. I REALLY need to make significant progress on these today before this week gets
+away from me...
+TIL:
+
