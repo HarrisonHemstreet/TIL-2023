@@ -380,4 +380,7 @@ TIL:
 are, the value is a 0, bc any values who's values are equal to 0 default to not 
 shown.
 
-# 30 August 2021
+RS-8117 notes:
+* I might be needing to create a new query. maybe something that loops through 
+the db table "extracharges" and makes both the id column and the description 
+column one column
