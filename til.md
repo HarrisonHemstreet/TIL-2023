@@ -332,6 +332,8 @@ Notes from Karl on BuildDash, fixing the unit tests and how we mock dbs:
 3. tests break on dev environtmnet bc the dbs we are using are different
 4. when we change the main db schema, we need to change them on tests too
 
+# 2021 August 2021 - 25 August 2021
+
 # 26 August 2021
 Todo:
 1. work on RS-8117
