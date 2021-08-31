@@ -4,6 +4,7 @@ of working at Rock Solid. Both Karl, Curtis and Chris W. have complemented my
 attitude of cheerfulness and determination
 * Karl has extensively complemented my work ethic and ability to pick up the code
 base
+* Karl told me that I increased profits in several of my completed tasks
 
 # Daily Attitudes and Goals:
 1. Be the one to both unlock the office in the morning and lock the office at 
