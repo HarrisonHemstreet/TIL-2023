@@ -384,3 +384,15 @@ RS-8117 notes:
 * I might be needing to create a new query. maybe something that loops through 
 the db table "extracharges" and makes both the id column and the description 
 column one column
+* I'm really needing to combine these two things together
+* I really don't know if what I need to do here is all that possible, but hey 
+we will see!
+
+# 31 August 2021
+TODO:
+1. RS-8117 - I GOTTA FIGURE THIS BOI OUT!!!!!!!!
+2. if I have time, work on other tasks
+3. maybe get tested for Covid :(
+
+TIL:
+1. the Factory in server/common/Rsis/Factory.php is a great way to access services
