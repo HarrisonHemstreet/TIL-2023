@@ -398,4 +398,9 @@ TIL:
 1. the Factory in server/common/Rsis/Factory.php is a great way to access services
 
 
-# 31 August 2021
+# 1 September 2021
+TODO:
+1. ALMOST done with RS-8117. Hopefully finish before stand up!
+2. start in on RS-8195 hopefully today!!!!
+
+TIL:
