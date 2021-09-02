@@ -405,6 +405,16 @@ TODO:
 
 TIL:
 
-# 01 September 2021
-
 # 02 September 2021
+code I want to save:
+```javascript
+        const rowData = this.props.airbillList.airbills.map((row) => {
+            let newRow = Object.assign({}, row);
+            for (let i = 0; i < 8; i++) {
+                if (newRow[`charge${i}description`]) {
+                    newRow[`charge${i}description`] += ` (${newRow[`charge${i}type`]})`;
+                }
+            }
+            return newRow;
+        });
+```
