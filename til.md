@@ -423,3 +423,37 @@ code I want to save:
 TODO:
 
 TIL:
+
+sql query to save:
+use bfsrems;
+select * from systemsetting WHERE name = "includeSurchargeCodeInFlatView";
+insert into systemsetting (id,name,value,backend_type,description,editadminlevel,allowOverride) values (
+	NULL,
+    'includeSurchargeCodeInFlatView',
+    '1',
+    'text',
+    'add the charge type to the end of the Chg Type field so that both the charge type and charge description display',
+    1.0,
+    0);
+
+insert into systemsetting (
+							id,
+                            name,
+                            value,
+                            backend_type,
+                            description,
+                            editadminlevel,
+                            allowOverride
+						)
+                        values
+                        (
+                        NULL,
+                        'includeSurchargeCodeInFlatView',
+                        '1',
+                        'text',
+                        'add the charge type to the end of the Chg Type field so that both the charge type and charge description display',
+                        1.0,
+                        0
+                        )
+
+# 03 September 2021
