@@ -421,8 +421,13 @@ code I want to save:
 # 03 September 2021
 
 TODO:
+* work on my next task after it gets assigned to me
+* if I don't get assigned another task, then just work on Rustlings
 
 TIL:
+* We are no longer implementing new Material UI. Instead we are keeping the old
+material ui, but using Bootstrap for the new cases where we would be using
+material-ui.
 
 sql query to save:
 use bfsrems;
@@ -456,4 +461,5 @@ insert into systemsetting (
                         0
                         )
 
-# 03 September 2021
+
+# 04 September 2021
