@@ -18,3 +18,8 @@ night
 # 30 August 2021
 * Took the inititive of directing a creator on Fiverr to make a video transition
 for each of our videos here
+
+# 7 September 2021
+* After their 2 o'clock meeting, Karl came out and told me that I just got assigned
+task RS-8193. He said that he was fighting for me to take this task on even though
+people in the meeting were saying it was too hard for me right now.
