@@ -477,7 +477,7 @@ it despite us already having the functionality on the page.
 
 TIL:
 
-RS-8193:
+**RS-8193:**
 * sounds like I just need to add a new FedEx surcharge (Residential Ground - 273) 
 I need to add this surcharge to all systems. I also need to update FedEx quoter 
 to quote 273 instead of 022 when the service is ground. I also need to go back 
@@ -498,3 +498,7 @@ in column "L" and if the service is "Home Delivery" set the surcharge to be 276
 instead of 022.
 - We believe right now the code just assigns anything set to "Residential" to 
 "022" but we need to break it out for Home Delivery.
+
+Plan of attack:
+1. add the new surcharge to the extracharges database
+2. then change up fedexquoter.php
