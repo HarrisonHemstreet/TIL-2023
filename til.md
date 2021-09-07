@@ -476,3 +476,16 @@ it despite us already having the functionality on the page.
 2. take care of any new tasks
 
 TIL:
+
+RS-8193:
+* sounds like I just need to add a new FedEx surcharge (Residential Ground - 273) 
+I need to add this surcharge to all systems. I also need to update FedEx quoter 
+to quote 273 instead of 022 when the service is ground. I also need to go back 
+through all the past records touched by the Standard Template Importer and run them 
+back through again, and assign each to the correct service type.
+
+What I need to do:
+1. Add new FedEx surcharge to all systems
+2. Update FedEx quoter
+3. Run past records through again with new settings, which will update some records
+to the new surcharge code when appropriate
