@@ -489,3 +489,12 @@ What I need to do:
 2. Update FedEx quoter
 3. Run past records through again with new settings, which will update some records
 to the new surcharge code when appropriate
+
+Dev Notes (from Jira task):
+*Dev Notes*
+- Update the FedEx Standard Template
+- When the surcharge name in the file is "Residential" check the service type 
+in column "L" and if the service is "Home Delivery" set the surcharge to be 276 
+instead of 022.
+- We believe right now the code just assigns anything set to "Residential" to 
+"022" but we need to break it out for Home Delivery.
