@@ -467,3 +467,11 @@ insert into systemsetting (
 # 05 September 2021
 
 # 06 September 2021
+
+TODO:
+1. talk to Karl about the current task I'm on and ask if he still wants me to do
+it despite us already having the functionality on the page.
+2. take care of any new tasks
+
+TIL:
+
