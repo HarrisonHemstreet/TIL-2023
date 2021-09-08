@@ -545,4 +545,69 @@ airbills and invoices are created based off of this file. which is an edi file.
 
 each airbill that comes throug, extracharges will be associated wiht that airbill
 
-# 08 September 2021
+go to search airbills and choose import date and carrier as my filters, should be able to test it like that.
+
+we have a broadcast query on server 301 to make global changes safer. Karl will show me.
+DBever may be used to insert a global change into everyone's extracharges table.
+
+Fedex Quoter:
+really easy, just go to the ship tab and put one through using fedex ground and 
+check if the total for the fedex ground residential charge is correct. Don't even 
+need to put the order through all the way
+
+we are making the charge for fedex ground residential be $4.80
+
+INTERESTING:
+the surcharge codes are already in the database under extracharges... that being
+said though, the defaultcharge maybe wrong...
+
+queries to save:
+-- use ehubrems;
+-- -- select * from ehubrems.user;
+-- -- select * from ehubrems.user;
+-- insert into nxdrems.user
+-- (displayname, customerid, password, email, adminlevel, forcechangepw, moddate, username, id, lastchanged, phone, fax, iscollector, logindisabled, auditdate, isMigrated, isEncrypted, customerid_old, isLocked)
+-- VALUES
+-- ('Harrison Hemstreet', 'TST', '$2y$10$wdMtdDTcCStpzGy0Smb7J.o5SmCAsEreBwvQXWUzw74iU2DFdIpjC', 'harrison.hemstreet@rocksolidinternet.com', '0.5', NULL, NULL, 'hhemstreet', '9994890', NULL, NULL, NULL, '0', '0', '2021-08-03 16:35:09', '1', '1', '', '0');
+-- -- select * from ehubrems.user where displayname = 'Harrison Hemstreet';
+
+use xpsrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+--
+-- insert
+-- (
+	-- id,
+    -- description,
+    -- moddate,
+--     type,
+--     perValue,
+--     carrier,
+--     defaultcharge,
+--     minimum,
+--     maximum,
+--     quoteable,
+--     excludeFromRDI,
+--     auditdate,
+--     fuelPart,
+--     basePart,
+--     disabled,
+--     isTax
+--     )
+-- 		values (
+-- 			   ResG,
+-- 			   FedEx new Residential Ground shipment,
+--             2021-09-07 20:47:32,
+--             fixed,
+--             0,
+--             52,
+--             defaultcharge,
+--             0.00,
+--             0.00,
+--             1,
+--             0,
+--             2021-09-07 20:47:32,
+--             1,
+--             0,
+--             0,
+--             0)
