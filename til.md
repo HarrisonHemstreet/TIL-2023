@@ -502,3 +502,7 @@ instead of 022.
 Plan of attack:
 1. add the new surcharge to the extracharges database
 2. then change up fedexquoter.php
+3. Add the conditional logic before the CSV is made. There HAS to be a location 
+within the code where the CSV file is being created from a database call. I need
+to find that query and then add some conditional logic to it (or change what logic 
+is there) in order to produce a query that actually gets the data we want
