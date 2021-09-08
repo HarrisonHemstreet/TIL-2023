@@ -514,3 +514,26 @@ TODO:
 
 TIL:
 
+### RS-8193
+1. Create a new Surcharge for Residential Ground within every database's extracharges
+table.
+2. Update Fedex Quoter to quote 273 instead of 022 when the service is Ground
+3. Update Fedex Standard Template Importer to check the service type in order to
+assign the correct surcharge code
+
+-------> what I've found so far...
+* fedexstandardedi.php line 311 contains a check for FedEx Ground Residential, 273
+already...
+
+**Questions:**
+1. How I think this whole thing is working currently:
+* a sql query builds an Invoice file in CSV format
+* the CSV file gets uploaded by the user using REMS' Import AWB Files using the
+FedEx Standard Template template (which is a set of rules specific to this situation
+that dictates how the data is uploaded)
+* Logic within the Import AWB Files is defaulting to assinging the surcharge code
+of 022 instead of 276 when FedEx Home Delivery Residential is read
+2. Why is the data made from the CSV file being manually uploaded by the user back
+into the system through Import AWB Files?
+3. Where is the sql query that builds the CSV in question?
+4. How do I look at the output from Import AWB Files?
