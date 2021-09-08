@@ -537,3 +537,12 @@ of 022 instead of 276 when FedEx Home Delivery Residential is read
 into the system through Import AWB Files?
 3. Where is the sql query that builds the CSV in question?
 4. How do I look at the output from Import AWB Files?
+
+the file is an edi file. This file is generated from fedex who gives it to our clients
+our clients then import it into their systems
+
+airbills and invoices are created based off of this file. which is an edi file.
+
+each airbill that comes throug, extracharges will be associated wiht that airbill
+
+# 08 September 2021
