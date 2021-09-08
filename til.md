@@ -617,9 +617,12 @@ update extracharges set defaultcharge = 4.80 where description = "Residential De
 TIL:
 1. save these commands for looking at PHP errors. Kind of like looking at the cake 
 logs at Younique
+
 ```php
 tail -n 200 ~/logs/php5/error_log
 ```
 ```php
 tail ~/tmp/logService.log
 ```
+
+
