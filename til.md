@@ -562,6 +562,7 @@ the surcharge codes are already in the database under extracharges... that being
 said though, the defaultcharge maybe wrong...
 
 queries to save:
+```sql
 -- use ehubrems;
 -- -- select * from ehubrems.user;
 -- -- select * from ehubrems.user;
@@ -611,6 +612,7 @@ update extracharges set defaultcharge = 4.80 where description = "Residential De
 --             0,
 --             0,
 --             0)
+```
 
 TIL:
 1. save these commands for looking at PHP errors. Kind of like looking at the cake 
