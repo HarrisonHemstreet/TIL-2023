@@ -506,3 +506,11 @@ Plan of attack:
 within the code where the CSV file is being created from a database call. I need
 to find that query and then add some conditional logic to it (or change what logic 
 is there) in order to produce a query that actually gets the data we want
+
+# 8 September 2021
+TODO:
+1. relate current understanding to Karl on RS-8193
+2. Make significant progress on RS-8193
+
+TIL:
+
