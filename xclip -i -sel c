@@ -1,0 +1,175 @@
+use xpsrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use bfs2rems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use bfs3rems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use bfs4rems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use bfsrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use bg2rems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use bgcrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use bglrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use demoesrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use dtdrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use ehubrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use elirems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use encrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use exsrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use flirems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use frzrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use gewrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use haerems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use ilsrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use isacarems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use isarems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use l5prems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use navrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use nxdrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use openrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use pglrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use prorems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use prxrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use pscrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use purorems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use rdsrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use rktrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use rrdrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use rsisrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use savrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use sglrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use sjsrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use snxrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use ss2rems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use sssrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use tmplrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use uwlrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use wlgrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
+
+use zanrems;
+update extracharges set defaultcharge = 4.80 where description = "Residential Delivery (Ground)";
+-- select * from extracharges where id = 273;
