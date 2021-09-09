@@ -630,5 +630,19 @@ I learned a lot today! I'll try to recap everything I learned tomorrow. I'm tire
 now and going to go home now.
 
 # 9 September 2021
+TODO:
+* lots of stuff to do today.
+* catch up on Chris's comments on RS-9183
+* RS-8220
+* Fix unit tests for RS-8193
+* RS-8221
 
-# 09 September 2021
+* buy new wifi router * think about how to keep the wifi router safe
+* secure new mattress
+
+TIL:
+1. WebshipUserService.php
+2. clientViews.jsx
+these two files are criticle in adding new clients
+
+HOW TO ADD A NEW FRANCHISE: RS-8220
