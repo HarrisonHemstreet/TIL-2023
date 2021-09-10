@@ -650,3 +650,8 @@ HOW TO ADD A NEW FRANCHISE: RS-8220
 
 
 # 10 September 2021
+TODO:
+RS-8213
+
+TIL:
+[Bootstrap Component Examples!!!!!!!](http://nexday.rems.dev19.rsis.io/mgmt/b/componentExamples)
