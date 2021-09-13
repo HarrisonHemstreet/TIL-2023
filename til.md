@@ -657,3 +657,10 @@ TIL:
 [Bootstrap Component Examples!!!!!!!](http://nexday.rems.dev19.rsis.io/mgmt/b/componentExamples)
 
 # 13 September 2021
+TODO:
+* RS-8213
+* figure out how to make db queries from either React or PHP and how to store that
+data in order to pass it back and forth between React and PHP
+
+TIL:
+
