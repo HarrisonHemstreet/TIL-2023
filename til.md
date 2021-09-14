@@ -887,3 +887,14 @@ this rate sheet. Make an array of all services being used
 used by both, I will be looping through each customerId, checking to see if they
 use the service being updated. If they do, then we will just be updating the costBasis
 value from within the customerCostBasis table
+
+
+we should have an output from the dropdowns be the actual services. We then should
+be able to then collect that output into an array, and run that array against
+all the entries in shipmenttypes, comparing to the descriptions of the affected
+services.
+
+we can compare the array of services affected through a query like this:
+```sql
+select code from shipmenttypes where description = 'USPS Large Flat Rate Box APO/FPO';
+```
