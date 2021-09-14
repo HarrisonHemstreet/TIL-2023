@@ -861,7 +861,6 @@ select * from customer where wfcostbasis like 'D00';
 
 * customer - [ANY 3 LETTERS]costbasis = RATE SHEET NAME, the 3 letters correlates
 to shipmenttypes - code which correlates to the description, reaveling the service
-
 * customerCostBasis - costBasisType, first 3 letters = shipmenttypes - code, which
 correlates to the description, reaveling the service
 
@@ -873,4 +872,18 @@ said rate sheet**
 How do we know when to update the table's values? Which table are we updating?
 A: I think that shipmenttypes is a dumping ground for the new Rate Sheet Importer/creator.
 we can use shipmenttypes to read/ to know whih setting we are dealing with, but otherwise, 
-I believe it is kinda useless to us right now.
+I believe it is kinda useless to us right now as far as updating the correct info
+goes.
+
+-------------------------
+
+ALL I'M DOING IS A SIMPLE RENAME OF THE SERVICES' RATE SHEET!!!!!!!!!!!!!
+
+1. loop through the old rate sheet, check which services are affected/used with
+this rate sheet. Make an array of all services being used
+2. loop through the new rate sheet, check which services are affected/used with 
+this rate sheet. Make an array of all services being used
+3. We only want the services that are being used by both. For the services being
+used by both, I will be looping through each customerId, checking to see if they
+use the service being updated. If they do, then we will just be updating the costBasis
+value from within the customerCostBasis table
