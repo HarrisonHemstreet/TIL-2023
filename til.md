@@ -871,3 +871,6 @@ said rate sheet**
 1. 
 
 How do we know when to update the table's values? Which table are we updating?
+A: I think that shipmenttypes is a dumping ground for the new Rate Sheet Importer/creator.
+we can use shipmenttypes to read/ to know whih setting we are dealing with, but otherwise, 
+I believe it is kinda useless to us right now.
