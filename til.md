@@ -716,6 +716,14 @@ or is the costBasis column also for determining which rate sheet is being used?
 seem to be a LOT of them that look similar. What are they all for?
 
 
+1. get the customerId
+2. get the costBasis where the current customer id matches the customerId within 
+customerCostBasis
+3. get the description where the costBasis matches the code within shipmenttypes
+4. get the rate sheet title where the description matches the description of the 
+rate sheet within whatever table that is
+
+the problem with this approach is that not every costBasis code is located within the shipmenttypes table
 
 now I'm thinking that we should FIRST get the customerId however we do, then go 
 to customerCostBasis, and match up the customerId with all the corresponding costBasis 
@@ -739,4 +747,22 @@ if customerCostBasis.costBais = shipmenttypes.code
 if shipmenttype.description = sometable.description
     rateSheetNames.push(sometable.ratesheetname)
 ```
+the test button will be telling us how many customers AND setting are being updated
 
+1. the entire system
+
+it really does sound like we are just working with a couple of tables. 
+```sql
+SELECT * FROM customer;
+SELECT * FROM customerCostBasis WHERE costBasisType = 'pprcostbasis' AND 
+    customerId = 'TST00002';
+SELECT * FROM shipmenttypes WHERE carrier_id ='90';
+
+SELECT * FROM shipmenttypes WHERE CODE = 'INT';
+```
+the drop down orders really don't matter on the front end in terms on knowing which
+to display first, because it really doesn't matter. how the drop downs work is that
+they say, "take the sheet from the first drop down and for all the services that
+use this rate sheet, we are going to change the sheet to the one in the second 
+drop down"
+1. query both the customer table and the customerCostBasis tables, looking for what the 
