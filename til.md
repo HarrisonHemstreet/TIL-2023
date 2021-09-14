@@ -765,4 +765,34 @@ to display first, because it really doesn't matter. how the drop downs work is t
 they say, "take the sheet from the first drop down and for all the services that
 use this rate sheet, we are going to change the sheet to the one in the second 
 drop down"
+
+If I think about the inputs and outputs of this, I think that what's clear is that
+there will be a query, really using the output from the drop down (a rate sheet)
+to look up which services need to change. 
 1. query both the customer table and the customerCostBasis tables, looking for what the 
+
+what I'm thinking now is that based on these CLEAN queries, I'll be getting back
+as output from the dropdown two rate sheets, the one we are changing, and the one
+we are changing to. let toChange = the rate sheet we are changing, let changeTo = 
+the rate sheet we are changing to.
+
+select costBasisType from customerCostBasis where costBasis = '%toChange'
+select customer from 
+
+*essentially use this query and just the first 3 letters of each to make another
+query later on BOTH the customerCostBasis tables and the customer tables*
+```sql
+    select distinct costBasisType from customerCostBasis where 
+        costBasis like '%2021 Platinum Plus%';
+```
+
+with this then, what will be a success full db change? Where are all the locations
+within the db that I need to change?
+
+*use this query to know how many %costBasis fields there are within the customer
+table*
+```sql
+show columns from customer like '%costbasis';
+```
+
+so essentially,
