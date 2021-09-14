@@ -664,3 +664,27 @@ data in order to pass it back and forth between React and PHP
 
 TIL:
 
+**RS-8213**
+The test button mirrors most of the functionality within the message after you hit 
+"Update" on the page 'Update Rate Sheets'. At the end of the process of hitting 
+the Update button, a message will pop up saying something like, "You have updated 
+0 of 0 rate sheets". (or however many rate sheets got updated). The test button 
+will mirror that functionality, without the need to waste time if 0 of 0 rate 
+sheets are updated. We want to know that something will happen to begin with.
+
+*things to plan*
+I need to really be thinking about how many queries I will need:
+1. query how many rate sheets will be affected (Test button)
+2. I will also need a query for the main table. Should be pretty easy though, just
+a select * from statement
+3. Insert statement from the Date picker (last button on the right). This will
+execute the cron job through putting it on a table, and then displaying the cron
+on the table. The table will be read and executed by AWS... maybe...
+
+**Questions for Tom**:
+1. Who is effected by the Update Rate Sheet page? Client vs Agent vs User?
+2. Where are the current rate sheets that are active on the user I am currently 
+signed into as?
+
+Look at TestJob.php to see how we make cron jobs. This folder may be where I put
+my cronjob file
