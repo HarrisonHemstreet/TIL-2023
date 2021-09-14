@@ -760,7 +760,7 @@ SELECT * FROM shipmenttypes WHERE carrier_id ='90';
 
 SELECT * FROM shipmenttypes WHERE CODE = 'INT';
 ```
-the drop down orders really don't matter on the front end in terms on knowing which
+the drop down orders really don't matter on the front end in terms of knowing which
 to display first, because it really doesn't matter. how the drop downs work is that
 they say, "take the sheet from the first drop down and for all the services that
 use this rate sheet, we are going to change the sheet to the one in the second 
