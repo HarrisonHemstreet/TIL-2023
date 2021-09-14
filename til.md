@@ -692,3 +692,51 @@ my cronjob file
 # 14 September 2021
 TODO:
 TIL:
+
+RS-8213:
+the flow for getting the rate sheet for a customer:
+1. know which customer we are currently using
+2. know which settings the user is using from rate sheets
+    * create an array of settings that are currently being applied to the customer
+3. In order to know which setting belongs to what rate sheet, we go in the db
+    * --> select code from shipmenttypes where description = "[name of setting]"
+    * use the code here: --> select costBasis from customerCostBasis where costBasis = [value from last query]
+4. 
+
+Questions for Karl:
+1. are the base rate sheet updates customer specific or are they system wide?
+2. Where is the table that contains the current customer (or just the system
+if the base rates apply to the whole system) and the customer's current systems/
+current systems affected by base rate sheets?
+3. Should the shipmenttypes table 'code' column have every single costBasis entry
+for both the customer table and the customerCostBasis table?
+4. Is the costBasis column more so for determining how much the markup will be?
+or is the costBasis column also for determining which rate sheet is being used?
+5. Which column within customer table are we going off of for costBasis? there
+seem to be a LOT of them that look similar. What are they all for?
+
+
+
+now I'm thinking that we should FIRST get the customerId however we do, then go 
+to customerCostBasis, and match up the customerId with all the corresponding costBasis 
+values, store them, then go to shipmenttypes, and make a new array for the description,
+matching the costBasis from customerCostBasis to the code column in shipmenttypes,
+we will then store the descriptions for each in an array. We will then jump over
+to where ever the rate sheets are stored, and use the newest array to match up which
+rate sheets we are using from there.
+
+
+```pseudo code
+customerIdString = customerId
+costBasisArr = array()
+description = array() // the description column in shipmenttypes
+rateSheetNames = array()
+for i = 0; i < customerCostBasis.length; i++
+    if customerIdString = customerId // this referes to if the current customer's id matches to any number within the customerId column within the customerCostBasis table, then return true
+        costBasisArr.push(customerCostBasis[i])
+if customerCostBasis.costBais = shipmenttypes.code
+    description.push(description)
+if shipmenttype.description = sometable.description
+    rateSheetNames.push(sometable.ratesheetname)
+```
+
