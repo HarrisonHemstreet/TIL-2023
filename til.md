@@ -865,3 +865,9 @@ to shipmenttypes - code which correlates to the description, reaveling the servi
 * customerCostBasis - costBasisType, first 3 letters = shipmenttypes - code, which
 correlates to the description, reaveling the service
 
+
+**In order to go from ratesheet name to knowing which service is associated with
+said rate sheet**
+1. 
+
+How do we know when to update the table's values? Which table are we updating?
