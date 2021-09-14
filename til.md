@@ -898,3 +898,10 @@ we can compare the array of services affected through a query like this:
 ```sql
 select code from shipmenttypes where description = 'USPS Large Flat Rate Box APO/FPO';
 ```
+the 3 letter code should be the only thing outputting from each query with that.
+
+then with the rate sheet name, we will run this query:
+```sql
+select distinct customerId from customerCostBasis where costBasis = 'D00';
+```
+this will output all the customerIds that are using the current rate sheet.
