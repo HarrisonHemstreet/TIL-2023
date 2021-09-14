@@ -795,4 +795,63 @@ table*
 show columns from customer like '%costbasis';
 ```
 
-so essentially,
+so essentially, what I can do is take the fisrt query directly above, and run that.
+if nothing comes back then I'll move onto the customer database by searching through
+the whole thing looking for something sort of in this way:
+
+```sql
+select * from customer where carrieriedcostbasis like 'D00';
+select * from customer where carrierindcostbasis like 'D00';
+select * from customer where ceicostbasis like 'D00';
+select * from customer where ceocostbasis like 'D00';
+select * from customer where exlcostbasis like 'D00';
+select * from customer where exp9to17costbasis like 'D00';
+select * from customer where expcostbasis like 'D00';
+select * from customer where felcostbasis like 'D00';
+select * from customer where fgh0to5costbasis like 'D00';
+select * from customer where fgh11to30costbasis like 'D00';
+select * from customer where fgh31to75costbasis like 'D00';
+select * from customer where fgh6to10costbasis like 'D00';
+select * from customer where fgh76pluscostbasis like 'D00';
+select * from customer where fgp0to5costbasis like 'D00';
+select * from customer where fgp11to30costbasis like 'D00';
+select * from customer where fgp31to75costbasis like 'D00';
+select * from customer where fgp6to10costbasis like 'D00';
+select * from customer where fgp76pluscostbasis like 'D00';
+select * from customer where gds0to5costbasis like 'D00';
+select * from customer where gds11to30costbasis like 'D00';
+select * from customer where gds31to75costbasis like 'D00';
+select * from customer where gds6to10costbasis like 'D00';
+select * from customer where gds76pluscostbasis like 'D00';
+select * from customer where gdscostbasis like 'D00';
+select * from customer where iedcostbasis like 'D00';
+select * from customer where ielcostbasis like 'D00';
+select * from customer where iescostbasis like 'D00';
+select * from customer where indcostbasis like 'D00';
+select * from customer where inlcostbasis like 'D00';
+select * from customer where intcostbasis like 'D00';
+select * from customer where ltl0to200costbasis like 'D00';
+select * from customer where ltl1501to2500costbasis like 'D00';
+select * from customer where ltl201to500costbasis like 'D00';
+select * from customer where ltl2501to5000costbasis like 'D00';
+select * from customer where ltl5001to7500costbasis like 'D00';
+select * from customer where ltl501to800costbasis like 'D00';
+select * from customer where ltl7501pluscostbasis like 'D00';
+select * from customer where ltl801to1500costbasis like 'D00';
+select * from customer where nalcostbasis like 'D00';
+select * from customer where nascostbasis like 'D00';
+select * from customer where sdlcostbasis like 'D00';
+select * from customer where sds9to17costbasis like 'D00';
+select * from customer where sdscostbasis like 'D00';
+select * from customer where ugh0to10costbasis like 'D00';
+select * from customer where ugh11to30costbasis like 'D00';
+select * from customer where ugh31to50costbasis like 'D00';
+select * from customer where ugh151pluscostbasis like 'D00';
+select * from customer where ugh51to150costbasis like 'D00';
+select * from customer where ugr0to10costbasis like 'D00';
+select * from customer where ugr11to30costbasis like 'D00';
+select * from customer where ugr151pluscostbasis like 'D00';
+select * from customer where ugr31to50costbasis like 'D00';
+select * from customer where ugr51to150costbasis like 'D00';
+select * from customer where wfcostbasis like 'D00';
+```
