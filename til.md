@@ -857,7 +857,11 @@ select * from customer where wfcostbasis like 'D00';
 ```
 
 **THINGS TO BE CLEAR ON:**
-customerCostBasis - costBasis = RATE SHEET NAME!
-customer - [ANY 3 LETTERS]costbasis = RATE SHEET NAME, the 3 letters correlates to shipmenttypes - code which correlates to the description, reaveling the service
-customerCostBasis - costBasisType, first 3 letters = shipmenttypes - code, which correlates to the description, reaveling the service
+* customerCostBasis - costBasis = RATE SHEET NAME!
+
+* customer - [ANY 3 LETTERS]costbasis = RATE SHEET NAME, the 3 letters correlates
+to shipmenttypes - code which correlates to the description, reaveling the service
+
+* customerCostBasis - costBasisType, first 3 letters = shipmenttypes - code, which
+correlates to the description, reaveling the service
 
