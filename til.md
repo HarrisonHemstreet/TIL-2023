@@ -905,3 +905,15 @@ then with the rate sheet name, we will run this query:
 select distinct customerId from customerCostBasis where costBasis = 'D00';
 ```
 this will output all the customerIds that are using the current rate sheet.
+
+what we have so far:
+* a list of customers using the Current Rate Sheet
+* a list of services that need changing due to the new rate sheet
+
+```sql
+update customerCostBasis set costBasis = [NEW RATE SHEET]
+	where
+		customerId = [CURRENT CUSTOMER BEING LOOPED THROUGH] and
+        costBasis = [CURRENT RATE SHEET] and
+        costBasisType = [CURRENT SERVICE BEING LOOPED THROUGH];
+```
