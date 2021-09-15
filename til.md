@@ -919,3 +919,5 @@ update customerCostBasis set costBasis = [NEW RATE SHEET]
         costBasis = [CURRENT RATE SHEET] and
         costBasisType = [CURRENT SERVICE BEING LOOPED THROUGH];
 ```
+
+# 15 September 2021
