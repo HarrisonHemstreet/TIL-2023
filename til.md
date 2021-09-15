@@ -899,6 +899,8 @@ we can compare the array of services affected through a query like this:
 select code from shipmenttypes where description = 'USPS Large Flat Rate Box APO/FPO';
 ```
 the 3 letter code should be the only thing outputting from each query with that.
+we then run the array, each index, through a simple function that makes each index
+lowercase and appends 'costbasis' onto it.
 
 then with the rate sheet name, we will run this query:
 ```sql
