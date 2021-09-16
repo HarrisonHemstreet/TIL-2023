@@ -926,3 +926,11 @@ TODO:
 TIL:
 
 RS-8213:
+
+I think what I really want is an array of array. One array for each customer
+comprising of all the services we need to change for said customer
+
+Today I was able to make progress, but not enough progress for my liking. I really
+need to kick it in gear more than ever tomorrow...
+
+Tomorrow it's my goal to get the Test button done.
