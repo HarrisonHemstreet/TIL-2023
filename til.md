@@ -934,3 +934,9 @@ Today I was able to make progress, but not enough progress for my liking. I real
 need to kick it in gear more than ever tomorrow...
 
 Tomorrow it's my goal to get the Test button done.
+
+# 16 September 2021
+RS-8213:
+basically, i need to get the array for all the costbasis fields from the customer
+table, put them into an array, and only take the ones also mentioned from the services
+query Karl sent me.
