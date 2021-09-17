@@ -940,3 +940,6 @@ RS-8213:
 basically, i need to get the array for all the costbasis fields from the customer
 table, put them into an array, and only take the ones also mentioned from the services
 query Karl sent me.
+
+notes for tomorrow!:
+continue the method I am working on. Make a way to check against the columns we know for sure are real and viable before going through with the rest of the code so we can prevent interuptions in the queries.
