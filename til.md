@@ -945,3 +945,8 @@ notes for tomorrow!:
 continue the method I am working on. Make a way to check against the columns we know for sure are real and viable before going through with the rest of the code so we can prevent interuptions in the queries.
 
 # 20 September 2021
+TODO:
+RS-8213:
+FRONT END AND BACK END ARE DONE!!!!!!!
+Now I just need to work on the table portion of it with creating a cron job and
+displaying the data, and we should be home free!
