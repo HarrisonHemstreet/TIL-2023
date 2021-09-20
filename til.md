@@ -943,3 +943,5 @@ query Karl sent me.
 
 notes for tomorrow!:
 continue the method I am working on. Make a way to check against the columns we know for sure are real and viable before going through with the rest of the code so we can prevent interuptions in the queries.
+
+# 20 September 2021
