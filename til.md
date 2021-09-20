@@ -950,3 +950,6 @@ RS-8213:
 FRONT END AND BACK END ARE DONE!!!!!!!
 Now I just need to work on the table portion of it with creating a cron job and
 displaying the data, and we should be home free!
+
+TIL:
+1. 
