@@ -950,6 +950,16 @@ RS-8213:
 FRONT END AND BACK END ARE DONE!!!!!!!
 Now I just need to work on the table portion of it with creating a cron job and
 displaying the data, and we should be home free!
+Cron Job needs to get done!
+How to test:
+1. make a script in dev scripts to test on the test server. We need to run this
+on the test server since cron jobs specifically only run on the live servers.
+using the test db should work well
+2. cd into the docker container to look at the logs. var/www/builds/build0001 and
+that is the base directory for all the code. Just go from there and get into the
+right directory for my code, then just run 'php [File Name]'
 
 TIL:
 1. 
+
+
