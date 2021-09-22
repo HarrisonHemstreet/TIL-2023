@@ -964,7 +964,9 @@ TIL:
 
 # 21 September 2021
 TODO:
-GO SHOOTING WITH THE GANG!
-RS-8213:
-invokeService turns out to be the wrong function to use for this task, bc it's
+* GO SHOOTING WITH THE GANG!
+* RS-8213:
+* invokeService turns out to be the wrong function to use for this task, bc it's
 too old (legacy code). So instead, we need to convert all this over to use RemsAjax
+
+
