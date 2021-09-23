@@ -970,3 +970,14 @@ TODO:
 too old (legacy code). So instead, we need to convert all this over to use RemsAjax
 
 
+# 22 September 2021
+TODO:
+TIL:
+
+I was too busy today with RS-8213 to to my usual TIL
+
+# 23 September 2021
+TODO:
+TIL:
+
+I just need to get my RS-8213 done!!!!!
