@@ -981,3 +981,15 @@ TODO:
 TIL:
 
 I just need to get my RS-8213 done!!!!!
+
+# 24 September 2021
+TODO:
+TIL:
+1. If I am adding a new page under the path /mgmt/b/[filename], then what I first
+need to do is make a file, and name it something appropriate for what I am working
+on. then we will take that name and plug it into this:
+```bash
+npx webpack --watch --filter="[ file name ]"
+```
+we will then go to the propper URL path. Forexample, Nexday's would be something
+like this: http://nexday.rems.dev19.rsis.io/mgmt/b/updateRateSheets
