@@ -984,6 +984,7 @@ I just need to get my RS-8213 done!!!!!
 
 # 24 September 2021
 TODO:
+1. Actually finish RS-8213!!!!!!!!!!!!!!  I DID IT!!!!!!!!!!!!!!!!!!!!!
 TIL:
 1. If I am adding a new page under the path /mgmt/b/[filename], then what I first
 need to do is make a file, and name it something appropriate for what I am working
