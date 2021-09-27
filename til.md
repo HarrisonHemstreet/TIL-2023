@@ -996,10 +996,21 @@ npx webpack --watch --filter="[ file name ]"
 we will then go to the propper URL path. Forexample, Nexday's would be something
 like this: http://nexday.rems.dev19.rsis.io/mgmt/b/updateRateSheets
 
-# 25 September 2021
+# 27 September 2021
 TODO:
+1. RS-8236
 TIL:
 
-# 27 September 2021
-
-# 27 September 2021
+RS-8236:
+startDate=2021-08-28&
+endDate=2021-09-27&
+startTime=&
+endTime=&
+orderErrorFilter=1&
+returnLabelFilter=&
+deliveredShipmentFilter=&
+voidedShipmentFilter=&
+shipmentStatusFilter=&
+carrierFilter=fedex&
+orderBatchIdFilter=&
+manifestId=
