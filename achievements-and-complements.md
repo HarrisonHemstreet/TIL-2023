@@ -27,3 +27,7 @@ people in the meeting were saying it was too hard for me right now.
 # 27 September 2021
 * Chris W told me I did a great job on RS-8213 Update the Update Custom Rate Sheets
 Tool and that my code was "beautiful code"
+
+* Roger pulled me into his office because he wanted to talk to me about all the
+hard work and many hours I've spent in the office in my first almost two months.
+He told me that I am far exceeding expectations and that I'm doing incredible.
