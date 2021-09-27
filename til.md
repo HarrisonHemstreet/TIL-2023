@@ -1027,9 +1027,3 @@ shipmentStatusFilter=&
 carrierFilter=&
 orderBatchIdFilter=&
 manifestId=
-
-# 27 September 2021
-
-# 27 September 2021
-
-# 27 September 2021
