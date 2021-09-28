@@ -1036,9 +1036,12 @@ TODO:
 TIL:
 1. 106 - 129, quote AHG, greater than that, quote LPR, if both are present quote LPR
 
+RS-8186:
+* I need to make it so that the money is applied to each charge in order of when
+I click on them.
+* basically, this is a problem with how we are handling the an array.
 
-# 28 September 2021
-
-# 28 September 2021
-
-# 28 September 2021
+* I need to store an array of which row was clicked in which order.
+* I then need to have that array shrink and grow when items are clicked and unclicked.
+* After that, I need to make sure that I am applying the corrent amount of money
+to it.
