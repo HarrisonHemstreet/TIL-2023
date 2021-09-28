@@ -1045,3 +1045,5 @@ I click on them.
 * I then need to have that array shrink and grow when items are clicked and unclicked.
 * After that, I need to make sure that I am applying the corrent amount of money
 to it.
+
+# 28 September 2021
