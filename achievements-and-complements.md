@@ -34,3 +34,4 @@ He told me that I am far exceeding expectations and that I'm "doing incredible."
 He told me that he has noticed me putting in 12 hour days and really appreciates
 it. That I fulfill his desire of having an employee with a good attitude, a hard
 worker, excited everyday to come into work and someone who gets good work done.
+He spoke to me for roughly 30 min at the end of the work day.
