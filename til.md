@@ -1030,4 +1030,5 @@ manifestId=
 
 # 28 September 2021
 
-106 - 129, quote AHG, greater than that, quote LPR, if both are present quote LPR
+TIL:
+1. 106 - 129, quote AHG, greater than that, quote LPR, if both are present quote LPR
