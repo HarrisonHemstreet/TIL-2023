@@ -30,4 +30,7 @@ Tool and that my code was "beautiful code"
 
 * Roger pulled me into his office because he wanted to talk to me about all the
 hard work and many hours I've spent in the office in my first almost two months.
-He told me that I am far exceeding expectations and that I'm doing incredible.
+He told me that I am far exceeding expectations and that I'm "doing incredible."
+He told me that he has noticed me putting in 12 hour days and really appreciates
+it. That I fulfill his desire of having an employee with a good attitude, a hard
+worker, excited everyday to come into work and someone who gets good work done.
