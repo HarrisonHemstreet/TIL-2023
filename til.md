@@ -1084,3 +1084,6 @@ how to run a build from BuildDash:
 1. like this: https://rkt.rocksolidinternet.com/build_50496/html/
 2. just replace that number with the build number. so it's 'build_[build number from build dash]'
 
+If I want to find which files are getting hit, one way is to go to firefox or google
+chrome's dev tools. I go to the network tab and run the button or whatver. the endpoint
+should then be exposed. Once that happens, I should be able to find the appropriate files.
