@@ -1046,30 +1046,31 @@ I click on them.
 * After that, I need to make sure that I am applying the corrent amount of money
 to it.
 
-# 28 September 2021
-
-# 28 September 2021
-
-# 29 September 2021
-
-# 29 September 2021
-
-# 29 September 2021
-
-# 29 September 2021
-
-# 29 September 2021
-
-# 29 September 2021
-
-# 29 September 2021
-
-# 29 September 2021
-
-# 29 September 2021
-
-# 29 September 2021
-
 # 30 September 2021
 
-# 30 September 2021
+HOW TO RELEASE NEW CODE!!!!!!!
+0. make sure in the webship-rems slack channel that I'm okay to release
+1. merge in the code through GitHub like how I usually do
+2. go to builddash and make sure it's building
+3. move each task INDIVIDUALLY ONE AT A TIME into the Ready For Release section.
+4. When the build finishes on BuildDash, copy the build number.
+5. click on the link button for the build. click on Webship and Rest API BOTH if
+this is Webship specific, OR the Rems button if its for Rems, or all three if this
+build has both Webship and Rems specific code.
+6. THEN type in "now" to confirm if we want it to go out now, or later if we want
+it to go out later.
+7. Then click on Link Build button
+8. go back to Jira, drag the task from Ready for Release into Released ONLY DO THIS
+ONE AT A TIME
+9. Click on the link/button above where it says, 'Release...'. It will open up a
+window that includes fields for the Version Name, Release Date, and Description.
+10. for REMS, in the version name, write, 'Rems - [build number]'
+11. for Webship, in the version name, write 'Webship - [build number]'
+12. hit release BUT ONLY IF THERE IS ONLY ONE TASK IN THE 'Released' COLUMN!!!
+NO MORE NO LESS!
+13. let everyone know in the slack channel that we are ready to release!
+
+TODO:
+RS-8272
+
+TIL:
