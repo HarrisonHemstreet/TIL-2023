@@ -44,7 +44,9 @@ gets returned
 Setup notes:
 Webship login: username: webship@rocksolidinternet.com password: p@ssword
 0. change the config-dev.cfg line 13 maybe, to this: webpackHmrDevUrl = http://dev19.rsis.io.
-IMPORTANT: ONLY ONLY ONLY clone down from github using ssh!!! Otherwise, permissions might be bad. If permissions are still bad, then make sure to exit your current terminal and restart appropriate processes.
+IMPORTANT: ONLY ONLY ONLY clone down from github using ssh!!! Otherwise, permissions 
+might be bad. If permissions are still bad, then make sure to exit your current 
+terminal and restart appropriate processes.
 1. Make sure that php xdebug is already installed before doing anything stupid by
 running 
 ```bash
@@ -1078,4 +1080,5 @@ TIL:
 default memory in the config is 314 meg
 just find the location of the commission report and change that
 
-# 30 September 2021
+how to run a build from BuildDash:
+1. like this: https://rkt.rocksolidinternet.com/build_50496/html/
