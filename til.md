@@ -1076,5 +1076,4 @@ RS-8272
 TIL:
 
 default memory in the config is 314 meg
-
-# 30 September 2021
+just find the location of the commission report and change that
