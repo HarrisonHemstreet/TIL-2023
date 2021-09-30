@@ -1088,3 +1088,5 @@ window that includes fields for the Version Name, Release Date, and Description.
 12. hit release BUT ONLY IF THERE IS ONLY ONE TASK IN THE 'Released' COLUMN!!!
 NO MORE NO LESS!
 13. let everyone know in the slack channel that we are ready to release!
+
+# 30 September 2021
