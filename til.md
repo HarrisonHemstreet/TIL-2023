@@ -1050,6 +1050,23 @@ to it.
 
 # 30 September 2021
 
+
+TODO:
+RS-8272
+
+TIL:
+
+default memory in the config is 314 meg
+just find the location of the commission report and change that
+
+how to run a build from BuildDash:
+1. like this: [ here ](https://rkt.rocksolidinternet.com/build_50496/html/)
+2. just replace that number with the build number. so it's (build*underscore*[build number from build dash])
+
+If I want to find which files are getting hit, one way is to go to firefox or google
+chrome's dev tools. I go to the network tab and run the button or whatver. the endpoint
+should then be exposed. Once that happens, I should be able to find the appropriate files.
+
 HOW TO RELEASE NEW CODE!!!!!!!
 0. make sure in the webship-rems slack channel that I'm okay to release
 1. merge in the code through GitHub like how I usually do
@@ -1071,19 +1088,3 @@ window that includes fields for the Version Name, Release Date, and Description.
 12. hit release BUT ONLY IF THERE IS ONLY ONE TASK IN THE 'Released' COLUMN!!!
 NO MORE NO LESS!
 13. let everyone know in the slack channel that we are ready to release!
-
-TODO:
-RS-8272
-
-TIL:
-
-default memory in the config is 314 meg
-just find the location of the commission report and change that
-
-how to run a build from BuildDash:
-1. like this: https://rkt.rocksolidinternet.com/build_50496/html/
-2. just replace that number with the build number. so it's 'build_[build number from build dash]'
-
-If I want to find which files are getting hit, one way is to go to firefox or google
-chrome's dev tools. I go to the network tab and run the button or whatver. the endpoint
-should then be exposed. Once that happens, I should be able to find the appropriate files.
