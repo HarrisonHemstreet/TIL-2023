@@ -43,3 +43,5 @@ I was interviewing and later when he also interviewed)
 Roger has said several times that he is excited for my progress and that he's
 planning on having me take over a piece of development so that Karl can start
 working on the higher priority tasks
+
+

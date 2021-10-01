@@ -1089,20 +1089,6 @@ window that includes fields for the Version Name, Release Date, and Description.
 NO MORE NO LESS!
 13. let everyone know in the slack channel that we are ready to release!
 
-# 30 September 2021
-
-# 30 September 2021
-
 # 01 October 2021
-
-# 01 October 2021
-
-# 01 October 2021
-
-# 01 October 2021
-
-# 01 October 2021
-
-# 01 October 2021
-
-# 01 October 2021
+TODO:
+1. 
