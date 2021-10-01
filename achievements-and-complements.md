@@ -39,3 +39,7 @@ He spoke to me for roughly 30 min at the end of the work day.
 # 30 September 2021
 Karl told me that he's glad he hired me instead of Zachary Springer (back when
 I was interviewing and later when he also interviewed)
+
+Roger has said several times that he is excited for my progress and that he's
+planning on having me take over a piece of development so that Karl can start
+working on the higher priority tasks
