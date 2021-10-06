@@ -1103,3 +1103,5 @@ mysql -u harrison.hemstreet -p93055511e9da2768 -h db300-test-ro.rsis.io
 ```
 If I want to connect to the prod db then all I need to do is switch out the -h
 value for the prod db host name
+
+# 06 October 2021
