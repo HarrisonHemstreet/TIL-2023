@@ -1111,5 +1111,10 @@ multiply the numbers together and divide by the dim divisor.
 if the new number is greater than the weight of the airbill in question, then make
 that pournd amount equal to equal to equal to equal to the dolor amount or the weight.
 The individual should be charged on that now.
+let dimDims = shipment_quote.quotedWidth * shipment_quote.quotedHeight * shipment_quote.quotedLength
+if shipment_quote.quotedWeight < (dimDims/dimDivisor)
+then use dimDims/dimDivsor
+
+# 06 October 2021
 
 # 06 October 2021
