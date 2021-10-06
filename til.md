@@ -1115,6 +1115,6 @@ let dimDims = shipment_quote.quotedWidth * shipment_quote.quotedHeight * shipmen
 if shipment_quote.quotedWeight < (dimDims/dimDivisor)
 then use dimDims/dimDivsor
 
-# 06 October 2021
+$row[30, 31, 32, 33]
+Dim Length, Dim Width, Dim Height, Dim Divisor
 
-# 06 October 2021
