@@ -1104,4 +1104,10 @@ mysql -u harrison.hemstreet -p93055511e9da2768 -h db300-test-ro.rsis.io
 If I want to connect to the prod db then all I need to do is switch out the -h
 value for the prod db host name
 
-# 06 October 2021
+RS-7410:
+1. if the dim length, width and height are not present within the imported airbill,
+then check the "shipment_quote" table and grab the length, width and height. Then
+multiply the numbers together and divide by the dim divisor.
+if the new number is greater than the weight of the airbill in question, then make
+that pournd amount equal to equal to equal to equal to the dolor amount or the weight.
+The individual should be charged on that now.
