@@ -1093,54 +1093,10 @@ NO MORE NO LESS!
 TODO:
 1. 
 
-# 01 October 2021
-
-# 01 October 2021
-
-# 01 October 2021
-
-# 04 October 2021
-
-# 04 October 2021
-
-# 04 October 2021
-
-# 04 October 2021
-
-# 04 October 2021
-
-# 04 October 2021
-
-# 04 October 2021
-
-# 04 October 2021
-
-# 04 October 2021
-
-# 04 October 2021
-
-# 05 October 2021
-
-# 05 October 2021
-
-# 05 October 2021
-
-# 05 October 2021
-
-# 05 October 2021
-
-# 05 October 2021
-
-# 05 October 2021
-
-# 05 October 2021
-
-# 05 October 2021
-
-# 05 October 2021
-
 # 06 October 2021
-
-# 06 October 2021
-
-# 06 October 2021
+TODO:
+TIL:
+1. I learned how to connect to the mysql db from the terminal!!!!!!!!!!!
+```bash
+mysql -u harrison.hemstreet -p93055511e9da2768 -h db300-test-ro.rsis.io
+```
