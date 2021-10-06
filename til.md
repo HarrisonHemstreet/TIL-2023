@@ -1095,6 +1095,7 @@ TODO:
 
 # 06 October 2021
 TODO:
+1. RS-7410
 TIL:
 1. I learned how to connect to the mysql db from the terminal!!!!!!!!!!!
 ```bash
