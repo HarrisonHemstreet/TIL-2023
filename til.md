@@ -1119,18 +1119,15 @@ $row[28, 29, 30, 31]
 Dim Length, Dim Width, Dim Height, Dim Divisor
 
 
-# 06 October 2021
+How to setup xDebugger!!!!!!!!!!
+1. go to xdebug.ini within rsis-docker/webserver-dev
+2. execute both files in the scriptes folder within rsis-docker starting with build.js
 
-# 07 October 2021
+# 7 October 2021
+TODO:
+TIL:
 
-# 07 October 2021
-
-# 07 October 2021
-
-# 07 October 2021
-
-# 07 October 2021
-
-# 07 October 2021
-
-# 07 October 2021
+if I am getting a -1 on the airbill table when I am looking up an airbill number,
+there's a good chance it's because the system does not know which user the airbill
+belongs to. There are systems in place that will eventually assign a user to this
+airbill
