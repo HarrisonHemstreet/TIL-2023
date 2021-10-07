@@ -1127,7 +1127,11 @@ How to setup xDebugger!!!!!!!!!!
 TODO:
 TIL:
 
-if I am getting a -1 on the airbill table when I am looking up an airbill number,
+RS-7410:
+1. if I am getting a -1 on the airbill table when I am looking up an airbill number,
 there's a good chance it's because the system does not know which user the airbill
 belongs to. There are systems in place that will eventually assign a user to this
 airbill
+2. In order to test this, I must first make a shipment on Webship, then take pieces
+of that data and plug it into one of the rows from Tom's CSV he sent me. I will
+need to do this so that I am replicating the issue as close as possible.
