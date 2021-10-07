@@ -44,4 +44,6 @@ Roger has said several times that he is excited for my progress and that he's
 planning on having me take over a piece of development so that Karl can start
 working on the higher priority tasks
 
-
+# 7 October 2021
+from September 7 2021 to 7 October 2021, I rank 3rd in most commits for the month.
+from 30 September 2021 to 7 October 2021, I rank 1st in most commits for the week.
