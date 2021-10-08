@@ -47,3 +47,7 @@ working on the higher priority tasks
 # 7 October 2021
 from September 7 2021 to 7 October 2021, I rank 3rd in most commits for the month.
 from 30 September 2021 to 7 October 2021, I rank 1st in most commits for the week.
+
+# 8 October 2021
+Chris W commented and made a joke that I am too productive and that I need to slow
+down and slack off more so that he has more time to review my PRs
