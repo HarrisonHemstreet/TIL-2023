@@ -1136,10 +1136,10 @@ airbill
 of that data and plug it into one of the rows from Tom's CSV he sent me. I will
 need to do this so that I am replicating the issue as close as possible.
 
-# 07 October 2021
-
-# 07 October 2021
-
-# 07 October 2021
-
 # 08 October 2021
+TODO:
+1. RS-7410
+2. RS-8279
+TIL:
+
+
