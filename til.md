@@ -1141,5 +1141,5 @@ TODO:
 1. RS-7410
 2. RS-8279
 TIL:
-
-
+If I am working on a task that involves emailing. In order to test it, I should
+be able to switch out a variable with my email.
