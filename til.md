@@ -1151,5 +1151,5 @@ TIL:
 1. I've noticed, while working on RS-7577 that I have seen this bug in different
 forms several other times before. It looks like it is an array sequence error.
 maybe I should start keeping track of what kind of bugs i run into.
-
-# 11 October 2021
+2. When changing the URL for a website, I need to change it in AppInfoService.php
+AND I need to get someone with prod db access to change the URL somewhere in globalrems
