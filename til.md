@@ -1148,4 +1148,5 @@ be able to switch out a variable with my email.
 TODO:
 1. RS-7577
 TIL:
-
+1. I've noticed, while working on RS-7577 that I have seen this bug in different
+forms several other times before. It looks like it is 
