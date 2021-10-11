@@ -1153,3 +1153,5 @@ forms several other times before. It looks like it is an array sequence error.
 maybe I should start keeping track of what kind of bugs i run into.
 2. When changing the URL for a website, I need to change it in AppInfoService.php
 AND I need to get someone with prod db access to change the URL somewhere in globalrems
+
+# 11 October 2021
