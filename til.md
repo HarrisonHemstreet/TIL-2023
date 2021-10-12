@@ -1173,6 +1173,7 @@ TIL:
 
 HOW TO CHANGE A FRANCHISE's WEBSHIP URL!!!
 * Also, need to change one file in there too
+* Change these two tables:
 * db isarems. table is hsettings. There is a setting that saves your webship URL.
 * globalrems serverConfig
 
@@ -1193,5 +1194,3 @@ then run this:
 ```
 docker exec -it harrisonh ./run-tests.sh
 ```
-
-# 12 October 2021
