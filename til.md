@@ -1171,12 +1171,7 @@ TODO:
 us a brand new UPS edi importer
 TIL:
 
-# 12 October 2021
-
-# 12 October 2021
-
-# 12 October 2021
-
-# 12 October 2021
-
-# 12 October 2021
+HOW TO CHANGE A FRANCHISE's WEBSHIP URL!!!
+* Also, need to change one file in there too
+* db isarems. table is hsettings. There is a setting that saves your webship URL.
+* globalrems serverConfig
