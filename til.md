@@ -1175,3 +1175,17 @@ HOW TO CHANGE A FRANCHISE's WEBSHIP URL!!!
 * Also, need to change one file in there too
 * db isarems. table is hsettings. There is a setting that saves your webship URL.
 * globalrems serverConfig
+
+How to run tests locally:
+1. point your local to the builddash db
+2. you do this by updating your server/config-dev.sample.cfg
+```
+; devs need to configure this one
+[mysql]
+; globalremsUsername = user.name
+; globalremsPassword = somepass
+phpunitremsUsername = phpunit
+phpunitremsPassword = 5bwqdGtVL8rBjZuG
+phpunitremsHost = 10.3.200.195
+phpunitremsReadonlyHost = 10.3.200.195
+```
