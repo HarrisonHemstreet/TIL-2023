@@ -1189,3 +1189,7 @@ phpunitremsPassword = 5bwqdGtVL8rBjZuG
 phpunitremsHost = 10.3.200.195
 phpunitremsReadonlyHost = 10.3.200.195
 ```
+then run this:
+```
+docker exec -it karlp ./run-tests.sh
+```
