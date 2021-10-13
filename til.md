@@ -1203,4 +1203,9 @@ hot water. This is so freaking messed up.
 TODO:
 1. Call Amber at Union Square's office and complain. Try to get rent reduced.
 
-# 13 October 2021
+* 1st quotes all the pieces together
+* 2nd way quotes each piece separately
+* this issue either happens in the quoter or in the functions that call the quoter
+* both in UPS and FedEx quoters
+* whether or not the piece(s) are international could be one of those dividing
+lines as to how the order is quoted
