@@ -1199,3 +1199,8 @@ docker exec -it harrisonh ./run-tests.sh
 Third time in one month that the hot water has gone out. This is beyond messed up.
 The second time was over the weekend. Friday, Saturday and Sunday we were out of
 hot water. This is so freaking messed up.
+
+TODO:
+1. Call Amber at Union Square's office and complain. Try to get rent reduced.
+
+# 13 October 2021
