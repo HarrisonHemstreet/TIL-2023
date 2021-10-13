@@ -1195,4 +1195,7 @@ then run this:
 docker exec -it harrisonh ./run-tests.sh
 ```
 
-# 12 October 2021
+# 13 October 2021
+Third time in one month that the hot water has gone out. This is beyond messed up.
+The second time was over the weekend. Friday, Saturday and Sunday we were out of
+hot water. This is so freaking messed up.
