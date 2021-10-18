@@ -1210,46 +1210,9 @@ TODO:
 * whether or not the piece(s) are international could be one of those dividing
 lines as to how the order is quoted
 
-# 14 October 2021
-
-# 14 October 2021
-
-# 14 October 2021
-
-# 14 October 2021
-
-# 14 October 2021
-
-# 14 October 2021
-
-# 14 October 2021
-
-# 15 October 2021
-
-# 15 October 2021
-
-# 15 October 2021
-
-# 15 October 2021
-
-# 15 October 2021
-
-# 15 October 2021
-
-# 15 October 2021
-
-# 15 October 2021
-
-# 15 October 2021
-
-# 17 October 2021
-
-# 17 October 2021
-
 # 18 October 2021
 
-# 18 October 2021
+TODO:
+TIL:
 
-# 18 October 2021
-
-# 18 October 2021
+AWS Login: 842137980019
