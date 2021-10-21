@@ -1228,3 +1228,10 @@ AWS Login: 842137980019
 # 21 October 2021
 
 # 21 October 2021
+TODO:
+* RS-8303
+* RS-8316
+- if I want to look at XML like in this task, I need to use the command from above
+to look at the logService. Just search through here until you find the part that
+tails the log service
+TIL:
