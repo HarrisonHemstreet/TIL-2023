@@ -1217,16 +1217,6 @@ TIL:
 
 AWS Login: 842137980019
 
-# 20 October 2021
-
-# 20 October 2021
-
-# 20 October 2021
-
-# 20 October 2021
-
-# 21 October 2021
-
 # 21 October 2021
 TODO:
 * RS-8303
@@ -1239,3 +1229,6 @@ TIL:
 # 22 October 2021
 TODO:
 TIL:
+
+
+# 22 October 2021
