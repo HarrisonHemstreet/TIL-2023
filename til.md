@@ -1319,3 +1319,41 @@ Error in parsing request XML:Error: The content of element type "Consignee" must
         </Contact>
     </Consignee>
 ```
+```
+    <Shipper>
+        <ShipperID>
+            12345
+        </ShipperID>
+        <CompanyName>
+            asdf
+        </CompanyName>
+        <SuiteDepartmentName></SuiteDepartmentName>
+        <RegisteredAccount>
+            847476400
+        </RegisteredAccount>
+        <AddressLine1>
+            adsf
+        </AddressLine1>
+        <City>
+            Lima
+        </City>
+        <Division>
+            Miraflores
+        </Division>
+        <CountryCode>
+            PE
+        </CountryCode>
+        <CountryName>
+            PERU
+        </CountryName>
+        <Contact>
+            <PersonName>
+                asdf
+            </PersonName>
+            <PhoneNumber>
+                8019219827
+            </PhoneNumber>
+            <Email></Email>
+        </Contact>
+    </Shipper>
+```
