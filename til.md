@@ -1357,3 +1357,6 @@ Error in parsing request XML:Error: The content of element type "Consignee" must
         </Contact>
     </Shipper>
 ```
+```
+Error in parsing request XML:Error: The content of element type "Consignee" must match "(CompanyName,SuiteDepartmentName?,AddressLine1,AddressLine2?,AddressLine3?,City,Division?,DivisionCode?,PostalCode?,CountryCode,CountryName,FederalTaxId?,StateTaxId?,C /var/www/builds/build_001/common/Systems/Airbill/Ship.php 639ationNumbers?,BusinessPartyTypeCode?)". at line 2, column 1125
+```
