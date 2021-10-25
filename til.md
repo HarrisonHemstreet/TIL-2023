@@ -1235,45 +1235,6 @@ TODO:
 TIL:
 
 ```
-    <Shipper>
-        <ShipperID>
-            12345
-        </ShipperID>
-        <CompanyName>
-            asdf
-        </CompanyName>
-        <RegisteredAccount>
-            847476400
-        </RegisteredAccount>
-        <AddressLine1>
-            afds
-        </AddressLine1>
-        <City>
-            Lima
-        </City>
-        <Division>
-            Miraflores
-        </Division>
-        <DivisionCode></DivisionCode>
-        <CountryCode>
-            PE
-        </CountryCode>
-        <CountryName>
-            PERU
-        </CountryName>
-        <Contact>
-            <PersonName>
-                asdf
-            </PersonName>
-            <PhoneNumber>
-                802921999
-            </PhoneNumber>
-            <Email></Email>
-        </Contact>
-    </Shipper>
-```
-
-```
 Error in parsing request XML:Error: The content of element type "Consignee" must match "(CompanyName,SuiteDepartmentName?,AddressLine1,AddressLine2?,AddressLine3?,City,Division?,DivisionCode?,PostalCode?,CountryCode,CountryName,FederalTaxId?,StateTaxId?,C /var/www/builds/build_001/common/Systems/Airbill/Ship.php 639ationNumbers?,BusinessPartyTypeCode?)". at line 2, column 1125
 ```
 
