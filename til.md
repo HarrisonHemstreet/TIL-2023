@@ -1276,3 +1276,46 @@ TIL:
 ```
 Error in parsing request XML:Error: The content of element type "Consignee" must match "(CompanyName,SuiteDepartmentName?,AddressLine1,AddressLine2?,AddressLine3?,City,Division?,DivisionCode?,PostalCode?,CountryCode,CountryName,FederalTaxId?,StateTaxId?,C /var/www/builds/build_001/common/Systems/Airbill/Ship.php 639ationNumbers?,BusinessPartyTypeCode?)". at line 2, column 1125
 ```
+
+```
+    <Consignee>
+        <CompanyName>
+            RSIS
+        </CompanyName>
+        <AddressLine1>
+            123 Main st
+        </AddressLine1>
+        <City>
+            American Fork
+        </City>
+        <Division>
+            UTAH
+        </Division>
+        <DivisionCode>
+            UT
+        </DivisionCode>
+        <Division>
+            UTAH
+        </Division>
+        <PostalCode>
+            84003
+        </PostalCode>
+        <CountryCode>
+            US
+        </CountryCode>
+        <CountryName>
+            UNITED STATES
+        </CountryName>
+        <Contact>
+            <PersonName>
+                Tom
+            </PersonName>
+            <PhoneNumber>
+                1111111111
+            </PhoneNumber>
+            <Email>
+                support@rocksolidinternet.com
+            </Email>
+        </Contact>
+    </Consignee>
+```
