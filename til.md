@@ -1325,14 +1325,13 @@ Error in parsing request XML:Error: The content of element type "Consignee" must
             12345
         </ShipperID>
         <CompanyName>
-            asdf
+            asfdfdasdf
         </CompanyName>
-        <SuiteDepartmentName></SuiteDepartmentName>
         <RegisteredAccount>
             847476400
         </RegisteredAccount>
         <AddressLine1>
-            adsf
+            12349 N Light House Dr
         </AddressLine1>
         <City>
             Lima
@@ -1340,6 +1339,8 @@ Error in parsing request XML:Error: The content of element type "Consignee" must
         <Division>
             Miraflores
         </Division>
+        <DivisionCode></DivisionCode>
+        <PostalCode></PostalCode>
         <CountryCode>
             PE
         </CountryCode>
@@ -1348,12 +1349,14 @@ Error in parsing request XML:Error: The content of element type "Consignee" must
         </CountryName>
         <Contact>
             <PersonName>
-                asdf
+                adf
             </PersonName>
             <PhoneNumber>
                 8019219827
             </PhoneNumber>
-            <Email></Email>
+            <Email>
+                harrison@gamil.com
+            </Email>
         </Contact>
     </Shipper>
 ```
