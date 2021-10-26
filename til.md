@@ -1289,35 +1289,42 @@ Error in parsing request XML:Error: The content of element type "Consignee" must
             12345
         </ShipperID>
         <CompanyName>
-            adfsadf
+            RSIS
         </CompanyName>
         <RegisteredAccount>
             847476400
         </RegisteredAccount>
         <AddressLine1>
-            asdf
+            123 Main st
         </AddressLine1>
         <City>
-            Lima
+            American Fork
         </City>
         <Division>
-            Miraflores
+            UTAH
         </Division>
-        <DivisionCode></DivisionCode>
+        <PostalCode>
+            84003
+        </PostalCode>
+        <DivisionCode>
+            UT
+        </DivisionCode>
         <CountryCode>
-            PE
+            US
         </CountryCode>
         <CountryName>
-            PERU
+            UNITED STATES
         </CountryName>
         <Contact>
             <PersonName>
-                adfs
+                Tom
             </PersonName>
             <PhoneNumber>
-                8019219827
+                1111111111
             </PhoneNumber>
-            <Email></Email>
+            <Email>
+                support@rocksolidinternet.com
+            </Email>
         </Contact>
     </Shipper>
 ```
