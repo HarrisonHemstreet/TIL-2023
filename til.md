@@ -1281,7 +1281,7 @@ Error in parsing request XML:Error: The content of element type "Consignee" must
     </Consignee>
 ```
 ```
-Error in parsing request XML:Error: The content of element type "Consignee" must match "(CompanyName,SuiteDepartmentName?,AddressLine1,AddressLine2?,AddressLine3?,City,Division?,DivisionCode?,PostalCode?,CountryCode,CountryName,FederalTaxId?,StateTaxId?,C /var/www/builds/build_001/common/Systems/Airbill/Ship.php 639ationNumbers?,BusinessPartyTypeCode?)". at line 2, column 1125
+Error in parsing request XML:Error: The content of element type "Shipper" must match "(ShipperID,CompanyName,SuiteDepartmentName?,RegisteredAccount?,AddressLine1,AddressLine2?,AddressLine3?,City,Division?,DivisionCode?,PostalCode?,OriginServiceAreaCode?,O /var/www/builds/build_001/common/Systems/Airbill/Ship.php 639TaxId?,EORI_No?,Contact,Suburb?,StreetName?,BuildingName?,StreetNumber?,RegistrationNumbers?,BusinessPartyTypeCode?)". at line 2, column 2289
 ```
 ```
     <Shipper>
@@ -1329,7 +1329,7 @@ Error in parsing request XML:Error: The content of element type "Consignee" must
     </Shipper>
 ```
 ```
-Error in parsing request XML:Error: The content of element type "Consignee" must match "(CompanyName,SuiteDepartmentName?,AddressLine1,AddressLine2?,AddressLine3?,City,Division?,DivisionCode?,PostalCode?,CountryCode,CountryName,FederalTaxId?,StateTaxId?,C /var/www/builds/build_001/common/Systems/Airbill/Ship.php 639ationNumbers?,BusinessPartyTypeCode?)". at line 2, column 1125
+Error in parsing request XML:Error: The content of element type "Shipper" must match "(ShipperID,CompanyName,SuiteDepartmentName?,RegisteredAccount?,AddressLine1,AddressLine2?,AddressLine3?,City,Division?,DivisionCode?,PostalCode?,OriginServiceAreaCode?,O /var/www/builds/build_001/common/Systems/Airbill/Ship.php 639TaxId?,EORI_No?,Contact,Suburb?,StreetName?,BuildingName?,StreetNumber?,RegistrationNumbers?,BusinessPartyTypeCode?)". at line 2, column 2289
 ```
 
 # 26 October 2021
