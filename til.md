@@ -1281,18 +1281,21 @@ Error in parsing request XML:Error: The content of element type "Consignee" must
     </Consignee>
 ```
 ```
+Error in parsing request XML:Error: The content of element type "Consignee" must match "(CompanyName,SuiteDepartmentName?,AddressLine1,AddressLine2?,AddressLine3?,City,Division?,DivisionCode?,PostalCode?,CountryCode,CountryName,FederalTaxId?,StateTaxId?,C /var/www/builds/build_001/common/Systems/Airbill/Ship.php 639ationNumbers?,BusinessPartyTypeCode?)". at line 2, column 1125
+```
+```
     <Shipper>
         <ShipperID>
             12345
         </ShipperID>
         <CompanyName>
-            asfdfdasdf
+            adfsadf
         </CompanyName>
         <RegisteredAccount>
             847476400
         </RegisteredAccount>
         <AddressLine1>
-            12349 N Light House Dr
+            asdf
         </AddressLine1>
         <City>
             Lima
@@ -1301,7 +1304,6 @@ Error in parsing request XML:Error: The content of element type "Consignee" must
             Miraflores
         </Division>
         <DivisionCode></DivisionCode>
-        <PostalCode></PostalCode>
         <CountryCode>
             PE
         </CountryCode>
@@ -1310,27 +1312,17 @@ Error in parsing request XML:Error: The content of element type "Consignee" must
         </CountryName>
         <Contact>
             <PersonName>
-                adf
+                adfs
             </PersonName>
             <PhoneNumber>
                 8019219827
             </PhoneNumber>
-            <Email>
-                harrison@gamil.com
-            </Email>
+            <Email></Email>
         </Contact>
     </Shipper>
 ```
 ```
 Error in parsing request XML:Error: The content of element type "Consignee" must match "(CompanyName,SuiteDepartmentName?,AddressLine1,AddressLine2?,AddressLine3?,City,Division?,DivisionCode?,PostalCode?,CountryCode,CountryName,FederalTaxId?,StateTaxId?,C /var/www/builds/build_001/common/Systems/Airbill/Ship.php 639ationNumbers?,BusinessPartyTypeCode?)". at line 2, column 1125
 ```
-
-# 25 October 2021
-
-# 25 October 2021
-
-# 25 October 2021
-
-# 26 October 2021
 
 # 26 October 2021
