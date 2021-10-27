@@ -1176,6 +1176,7 @@ HOW TO CHANGE A FRANCHISE's WEBSHIP URL!!!
 * Change these two tables:
 * db isarems. table is hsettings. There is a setting that saves your webship URL.
 * globalrems serverConfig
+- alias = url
 
 How to run tests locally:
 1. point your local to the builddash db
@@ -1347,7 +1348,5 @@ Error in parsing request XML:Error: The content of element type "Shipper" must m
 # 26 October 2021
 
 # 26 October 2021
-
-# 27 October 2021
 
 # 27 October 2021
