@@ -1243,24 +1243,8 @@ TIL:
 TODO:
 TIL:
 
-1. 
-
-# 28 October 2021
-
-# 28 October 2021
-
 # 29 October 2021
+TODO:
+TIL:
 
-# 29 October 2021
-
-# 29 October 2021
-
-# 29 October 2021
-
-# 29 October 2021
-
-# 29 October 2021
-
-# 29 October 2021
-
-# 29 October 2021
+# 30 October 2021
