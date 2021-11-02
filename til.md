@@ -1254,12 +1254,9 @@ TIL:
 3. change to not shipper
 4. break out the division and division code
 
-# 01 November 2021
-
-# 01 November 2021
-
-# 01 November 2021
-
 # 02 November 2021
 
-# 02 November 2021
+TIL:
+1. nice command for deleting multiple branches: `git branch -d `git branch --list '3.2.*'``
+TODO:
+

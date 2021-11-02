@@ -54,3 +54,8 @@ down and slack off more so that he has more time to review my PRs
 
 # 1 November 2021
 I am the number 1 contributer to the Rems code base in the month of October
+
+# 2 November 2021
+Karl told me that I have a great attitude and that he would rather work with
+someone who has a great attitude than great tech skills bc tech skills can be
+learned, while personality cannot
