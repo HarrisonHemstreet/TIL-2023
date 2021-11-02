@@ -51,3 +51,6 @@ from 30 September 2021 to 7 October 2021, I rank 1st in most commits for the wee
 # 8 October 2021
 Chris W commented and made a joke that I am too productive and that I need to slow
 down and slack off more so that he has more time to review my PRs
+
+# 1 November 2021
+I am the number 1 contributer to the Rems code base in the month of October
