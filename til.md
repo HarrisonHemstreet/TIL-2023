@@ -1247,40 +1247,11 @@ TIL:
 TODO:
 TIL:
 
-# 30 October 2021
-
-# 30 October 2021
-
-# 30 October 2021
-
-# 30 October 2021
-
-# 30 October 2021
-
-# 30 October 2021
-
-# 30 October 2021
-
-# 31 October 2021
-
-# 31 October 2021
-
-# 31 October 2021
-
-# 31 October 2021
-
 # 01 November 2021
 
-# 01 November 2021
-
-# 01 November 2021
-
-# 01 November 2021
-
-# 01 November 2021
-
-# 01 November 2021
-
-# 01 November 2021
+1. add the else
+2. remove ifs
+3. change to not shipper
+4. break out the division and division code
 
 # 01 November 2021
