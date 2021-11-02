@@ -1260,3 +1260,5 @@ TIL:
 1. nice command for deleting multiple branches: `git branch -d `git branch --list '3.2.*'``
 TODO:
 
+
+# 02 November 2021
