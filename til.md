@@ -1260,35 +1260,14 @@ TIL:
 1. nice command for deleting multiple branches: `git branch -d `git branch --list '3.2.*'``
 TODO:
 
-
-# 02 November 2021
-
-# 02 November 2021
-
-# 02 November 2021
-
-# 02 November 2021
-
-# 02 November 2021
-
-# 02 November 2021
-
-# 03 November 2021
-
-# 03 November 2021
-
 # 03 November 2021
 
 if the cahrges are int he test database butnot the live databse then those are culprets
 
-# 03 November 2021
-
-# 03 November 2021
-
-# 03 November 2021
-
-# 03 November 2021
-
 # 04 November 2021
+TODO:
+TIL:
+
+line 211, paymentMethodsStab.jsx
 
 # 04 November 2021
