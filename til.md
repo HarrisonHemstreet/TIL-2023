@@ -1272,10 +1272,6 @@ line 211, paymentMethodsStab.jsx
 
 # 05 November 2021
 
-
-
 # 06 November 2021
 
-# 06 November 2021
 
-# 06 November 2021
