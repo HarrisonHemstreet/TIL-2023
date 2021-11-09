@@ -1277,31 +1277,14 @@ line 211, paymentMethodsStab.jsx
 # 07 November 2021
 
 # 08 November 2021
-
-# 08 November 2021
-
-# 08 November 2021
-
-# 08 November 2021
-
-# 08 November 2021
-
-# 08 November 2021
-
-# 08 November 2021
+TODO:
+TIL:
 
 # 09 November 2021
 
 # 09 November 2021
-
-# 09 November 2021
-
-# 09 November 2021
-
-# 09 November 2021
-
-# 09 November 2021
-
-# 09 November 2021
-
-# 09 November 2021
+TODO:
+TIL:
+* If you want to know which columns are what/ ups edi column definitions for ups,
+then look at the file called UPS_Billing_Data_Header.csv within the Documents -> csvs
+directory.
