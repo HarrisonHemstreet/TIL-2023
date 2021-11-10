@@ -1288,3 +1288,5 @@ TIL:
 * If you want to know which columns are what/ ups edi column definitions for ups,
 then look at the file called UPS_Billing_Data_Header.csv within the Documents -> csvs
 directory.
+
+# 10 November 2021
