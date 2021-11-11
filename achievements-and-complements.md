@@ -59,3 +59,9 @@ I am the number 1 contributer to the Rems code base in the month of October
 Karl told me that I have a great attitude and that he would rather work with
 someone who has a great attitude than great tech skills bc tech skills can be
 learned, while personality cannot
+
+# 11 November 2021
+Karl and I sat down and had our review. He told me that he is very happy that I
+decided to work here. He told me that I've done great work and that he is excited
+to see what more I can do here! He told me that he is really happy to work with me.
+That he enjoys working with me and that they made the right decision to hire me.
