@@ -1298,10 +1298,16 @@ directory.
 
 # 15 November 2021
 
-# 15 November 2021
-
-# 15 November 2021
-
-# 15 November 2021
+whenever something like 'API.post' comes up connected to a string, for example,
+look at assign-rates.php roughly on line 687.
+`API.post('/settings/assign-rates/savesheets', {...`
+this function actually comes from one of the first api iterations for accessing
+async functions from the code base. One way to find what the function is doing
+is to copy that string within the API.post function call, and then follow it.
+For example, after following the string from the snippet above, I was led to
+essentially a pass through function in server/rems/resources/settings.php line 304.
+The pass through function takes us to server/common/systems/Airbill.php to another
+function (THE ACTUAL FUNCTION FINALLY) within
+server/common/Systems/Airbill/ManageCostBasis.php line 129
 
 # 15 November 2021
