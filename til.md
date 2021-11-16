@@ -1311,5 +1311,12 @@ function (THE ACTUAL FUNCTION FINALLY) within
 server/common/Systems/Airbill/ManageCostBasis.php line 129
 
 # 16 November 2021
-
-# 16 November 2021
+TODO:
+TIL:
+RS-8330
+we need for the query:
+* carrier
+* Tier?
+* list rate sheet
+We want to login to a system, choose a list rate sheet, choose a carrier, and
+choose a Tier(?) and take that info and put that info into a query
