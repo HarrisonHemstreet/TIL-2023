@@ -1342,3 +1342,140 @@ choose a Tier(?) and take that info and put that info into a query
 # 17 November 2021
 
 # 17 November 2021
+        ```php
+        $('#mass-set-list').click(function () {
+
+            function loadData() {
+
+                // reset changes flag
+                changed = false;
+
+                // add loading animation to services-container
+                loading($('#services-container'));
+
+                // make api call to load assignments
+                API.post('/settings/assign-rates/loadsheets', {
+                    tierId: $('#tier').val(),
+                    carrierId: $('#carrier').val(),
+                    subcarrierId: $('#subcarrier').val(),
+                    effectiveDate: effectiveDate,
+                }, function (result) {
+                    // if there's an error, let the user know
+                    if (result.data.errors) {
+                        vex.dialog.alert(result.data.errors);
+                        return;
+                    }
+
+                    // if there are services to display, run them through the services template
+                    if (result.data.servicesCount > 0) {
+                        var servicesTable = servicesTemplate({services: result.data.services, franchiseRatesEnabled: result.data.franchiseRatesEnabled, show: false});
+
+                        $('#services-container').html(servicesTable);
+                        $('#save-all-sheets').show();
+                        $('#save-sheets').hide();
+                    } else {
+                        // if no services, display a message
+                        $('#services-container').html('<p>No services avaiable for this carrier.</p>');
+                        $('#save-sheets').hide();
+                        $('#save-all-sheets').hide();
+                    }
+                });
+            }
+
+            $(this).data('loaded', true);
+
+            // if there are unsaved changes, check with user
+            if (changed === true) {
+                var stopLoading = false;
+
+                vex.dialog.confirm({
+                    message: "Are you sure you'd like to load new rate sheets? Your unsaved progress will be lost.",
+                    callback: function (value) {
+                        if (value === true) {
+                            loadData();
+                        } else {
+                            return false;
+                        }
+                        stopLoading = !value;
+                    }
+                });
+
+                // if the user clicks cancel, stop loading
+                if (stopLoading) {
+                    return;
+                }
+            } else {
+                loadData();
+            }
+
+        });
+
+
+        // load the rates sheet assignments for the current, tierId, carrierId, subcarrierId and effectiveDate
+        $('#load-sheets').click(function () {
+
+            function loadData() {
+
+                // reset changes flag
+                changed = false;
+
+                // add loading animation to services-container
+                loading($('#services-container'));
+
+                // make api call to load assignments
+                API.post('/settings/assign-rates/loadsheets', {
+                    tierId: $('#tier').val(),
+                    carrierId: $('#carrier').val(),
+                    subcarrierId: $('#subcarrier').val(),
+                    effectiveDate: effectiveDate,
+                }, function (result) {
+                    // if there's an error, let the user know
+                    if (result.data.errors) {
+                        vex.dialog.alert(result.data.errors);
+                        return;
+                    }
+
+                    // if there are services to display, run them through the services template
+                    if (result.data.servicesCount > 0) {
+                        var servicesTable = servicesTemplate({services: result.data.services, franchiseRatesEnabled: result.data.franchiseRatesEnabled, show: true});
+
+                        $('#services-container').html(servicesTable);
+                        $('#save-sheets').show();
+                        $('#save-all-sheets').hide();
+                    } else {
+                        // if no services, display a message
+                        $('#services-container').html('<p>No services avaiable for this carrier.</p>');
+                        $('#save-sheets').hide();
+                        $('#save-all-sheets').hide();
+                    }
+                });
+            }
+
+            $(this).data('loaded', true);
+
+            // if there are unsaved changes, check with user
+            if (changed === true) {
+                var stopLoading = false;
+
+                vex.dialog.confirm({
+                    message: "Are you sure you'd like to load new rate sheets? Your unsaved progress will be lost.",
+                    callback: function (value) {
+                        if (value === true) {
+                            loadData();
+                        } else {
+                            return false;
+                        }
+                        stopLoading = !value;
+                    }
+                });
+
+                // if the user clicks cancel, stop loading
+                if (stopLoading) {
+                    return;
+                }
+            } else {
+                loadData();
+            }
+
+        });
+        ```
