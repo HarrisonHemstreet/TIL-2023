@@ -1323,9 +1323,112 @@ choose a Tier(?) and take that info and put that info into a query
 
 # 17 November 2021
 
-
 # 18 November 2021
 
-# 18 November 2021
+		        $q0 = "SELECT id FROM tier_rate WHERE 1=1";
+
+		        foreach ($where as $field => $value) {
+
+		        	$q0 .= " AND $field = " . $this->db->e($value);
+
+		        }
+
+
+
+                $id = $this->db->getOne($q0);
+
+
+
+                if ($id) {
+
+
+
+                    $q1 = "UPDATE tier_rate SET listSheetId = ? WHERE 1=1";
+
+                    foreach ($where as $field => $value) {
+
+                        $q1 .= " AND $field = " . $this->db->e($value);
+
+                    }
+
+
+
+                    $sth1 = $this->db->prepare($q1);
+
+
+
+                    $listSheetId = array($data['listSheetId']);
+
+
+
+                    if(!$this->db->execute($sth1, $listSheetId)) {
+
+                        $failed = true;
+
+                    }
+
+
+
+                } else {
+
+
+
+			        // assignment does not exist yet, create it
+
+			        foreach ($data as $key => $val) {
+
+			        	if (!in_array($key, array('serviceTypeCode', 'tierId', 'carrierId', 'subcarrierId', 'effectiveDate', 'carrierSheetId', 'franchiseSheetId', 'listSheetId'))) {
+
+			        		unset($data[$key]);
+
+			        	}
+
+			        }
+
+
+
+			        $data['dateCreated'] = 'NOW()';
+
+
+
+			        try {
+
+                        $result = $this->db->autoInsert('tier_rate', $data);
+
+
+
+                        if ($this->db->isError($result)) {
+
+                            throw $this->RateSheet->getException($result->getMessage());
+
+                        }
+
+                    } catch (\Exception $e) {
+
+                        throw $this->RateSheet->getException("Error inserting tier_rate record: " . $e->getMessage());
+
+                    }
+
+
+
+                }
+
+
+
+                // $q2 = "SELECT * FROM tier_rate WHERE 1=1";
+
+                // foreach ($where as $field => $value) {
+
+                //     $q2 .= " AND $field = " . $this->db->e($value);
+
+                // }
+
+
+
+                // $sth2 = $this->db->prepare($q2);
+
+
+
+
 
 # 18 November 2021
