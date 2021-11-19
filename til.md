@@ -1438,3 +1438,5 @@ choose a Tier(?) and take that info and put that info into a query
 # 18 November 2021
 
 # 18 November 2021
+
+# 19 November 2021
