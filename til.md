@@ -1456,3 +1456,5 @@ Examples:
 "cat" < "caterpillar" because the first string is undefined at index i = 3
 ```
 * Learned the above from Code Signal database arcade problem 'mostExpensive' #7
+
+# 22 November 2021
