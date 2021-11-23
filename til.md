@@ -1436,9 +1436,23 @@ choose a Tier(?) and take that info and put that info into a query
 # 19 November 2021
 
 # 22 November 2021
+TODO:
+TIL:
+* I learned that sql when using the `ORDER BY` clause will place stings in order
+by lexicographically smallest. In english, that means this:
+```
+A way of sorting strings, similar to alphabetical order but generalized to all kinds of characters.
 
-# 22 November 2021
+When comparing two strings, s and t, we compare each pair of characters with equal indices (s[i] and t[i]), starting with i = 0:
 
-# 22 November 2021
+if s[i] < t[i] or if s[i] is undefined, then we conclude that s < t,
+if s[i] > t[i] or if t[i] is undefined, then we conclude that s > t,
+if s[i] = t[i] then we repeat the process by comparing s[i + 1] to t[i + 1].
+If the two strings have equal length and s[i] = t[i] for every character, then we conclude that s = t
 
-# 22 November 2021
+Examples:
+
+"snow" > "snoring" because the first string contains a greater character at index i = 2
+"cat" < "caterpillar" because the first string is undefined at index i = 3
+```
+* Learned the above from Code Signal database arcade problem 'mostExpensive' #7
