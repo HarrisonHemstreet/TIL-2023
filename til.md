@@ -1462,5 +1462,9 @@ Examples:
 # 24 November 2021
 
 # 29 November 2021
-
-# 29 November 2021
+TODO:
+TIL:
+* If you want to find a customer that uses a specific carrier, then use this query:
+`select * from webshipstats where carrier = '9' and customerid not like 'TST00002' limit 10;`
+you should be able to find the customer by changing out '9' with whatever the id
+is for carrier
