@@ -1477,4 +1477,7 @@ there is a setting for if a system is splitting up the `___0to5costbasis` and ot
 of that nature. For example fgh0to5costbasis. Some systems will only rely upon one
 to cover them all. For example, in bfsrems, it's split up with fgh0to5costbasis
 and fgh6to10costbasis and so on, but in rktrems, we are only using the one fghcostbasis
-to cover them all.
+to cover them all. The setting for this is called
+
+
+# 30 November 2021
