@@ -1469,14 +1469,3 @@ TIL:
 you should be able to find the customer by changing out '9' with whatever the id
 is for carrier
 
-# 29 November 2021
-
-# 29 November 2021
-
-# 29 November 2021
-
-# 29 November 2021
-
-# 29 November 2021
-
-# 29 November 2021
