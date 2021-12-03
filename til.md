@@ -1487,16 +1487,4 @@ RS-adsf look into adding or chanigng a setting that would disable breakouts
 TODO:
 TIL:
 
-# 02 December 2021
-
-# 02 December 2021
-
-# 02 December 2021
-
-# 02 December 2021
-
-# 03 December 2021
-
-# 03 December 2021
-
 # 03 December 2021
