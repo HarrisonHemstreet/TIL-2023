@@ -1489,94 +1489,14 @@ TIL:
 
 # 03 December 2021
 
-# 03 December 2021
-
-# 03 December 2021
-
-# 03 December 2021
-
-# 03 December 2021
-
-# 03 December 2021
-
-# 04 December 2021
-
-# 04 December 2021
-
-# 04 December 2021
-
-# 04 December 2021
-
-# 04 December 2021
-
 # 04 December 2021
 
 # 05 December 2021
 
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
-# 05 December 2021
-
 # 06 December 2021
-
-# 06 December 2021
-
-# 06 December 2021
-
-# 06 December 2021
-
-# 06 December 2021
-
-# 06 December 2021
-
-# 06 December 2021
-
-# 06 December 2021
-
-# 06 December 2021
-
-# 06 December 2021
-
-# 06 December 2021
+TODO:
+TIL:
+* if I want to find the a customer that uses a particular carrier, then all I need
+to do is run a query like this: `select * from webshipstats where carrier = '52' limit 10;`
+then just look at the customerid and use that customer. that customer should have
+the carrier I'm looking for.
