@@ -1500,3 +1500,5 @@ TIL:
 to do is run a query like this: `select * from webshipstats where carrier = '52' limit 10;`
 then just look at the customerid and use that customer. that customer should have
 the carrier I'm looking for.
+
+# 06 December 2021
