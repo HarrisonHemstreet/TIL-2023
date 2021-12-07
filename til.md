@@ -1501,22 +1501,6 @@ to do is run a query like this: `select * from webshipstats where carrier = '52'
 then just look at the customerid and use that customer. that customer should have
 the carrier I'm looking for.
 
-# 06 December 2021
-
-# 06 December 2021
-
-# 06 December 2021
-
-# 06 December 2021
-
-# 06 December 2021
-
-# 06 December 2021
-
-# 07 December 2021
-
-# 07 December 2021
-
 # 07 December 2021
 
 1. query to update existing
@@ -1531,4 +1515,3 @@ make a key, just a string, service type code, tierid, and the subcarrierid with 
 make a complete list of everything that needs to get updated
 loop through the data set from the database
 
-# 07 December 2021
