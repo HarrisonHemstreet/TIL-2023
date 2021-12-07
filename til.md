@@ -1518,3 +1518,17 @@ the carrier I'm looking for.
 # 07 December 2021
 
 # 07 December 2021
+
+1. query to update existing
+2. one to get existing
+3. loop through and figure out which ones need to be inserted
+4. one mass insert to do the rest that don't exist
+
+give tom a component to choose subcarriers
+
+fetch all rows
+make a key, just a string, service type code, tierid, and the subcarrierid with a separateor, double collon or dash
+make a complete list of everything that needs to get updated
+loop through the data set from the database
+
+# 07 December 2021
