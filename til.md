@@ -1522,3 +1522,5 @@ RS-8424: Mass Set List Rates Not Working
 That way when we change list ratees on the Manager Tiers tool, we will NOT be choosing
 a subcarrier, but rather a carrier. Then all subcarriers under that carrier's list
 rates will change.
+
+# 08 December 2021
