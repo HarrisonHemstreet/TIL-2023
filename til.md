@@ -1515,13 +1515,10 @@ make a key, just a string, service type code, tierid, and the subcarrierid with 
 make a complete list of everything that needs to get updated
 loop through the data set from the database
 
-
-# 07 December 2021
-
-# 07 December 2021
-
-# 07 December 2021
-
-# 07 December 2021
-
-# 07 December 2021
+RS-8424: Mass Set List Rates Not Working
+* I have it all done for handling one subcarrier
+* we really want to allow this tool to work for more than one subcarrier
+* so we are making a new tool. This new tool will organize subcarriers by carrier.
+That way when we change list ratees on the Manager Tiers tool, we will NOT be choosing
+a subcarrier, but rather a carrier. Then all subcarriers under that carrier's list
+rates will change.
