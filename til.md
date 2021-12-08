@@ -1524,3 +1524,5 @@ a subcarrier, but rather a carrier. Then all subcarriers under that carrier's li
 rates will change.
 
 # 08 December 2021
+TODO:
+TIL:
