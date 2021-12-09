@@ -65,3 +65,15 @@ Karl and I sat down and had our review. He told me that he is very happy that I
 decided to work here. He told me that I've done great work and that he is excited
 to see what more I can do here! He told me that he is really happy to work with me.
 That he enjoys working with me and that they made the right decision to hire me.
+
+# 9 December 2021
+Karl told me that I have a really good attitude and complimented my willingness
+to fail. (as I personally look back on it, I am very grateful for the blessing
+of recieving this job. I got this job #1 because God blessed me with it. #2 
+because I was not affraid to start the day off with recieving a rejection. That
+morning, I felt tiered and so unprepared to interview. I had failed hard in my
+hours long interview at Adobe and just really didn't feel like interviewing
+anywhere else. And then I showed up and getting interviewed was a breeze. Not
+because of anything I did but litterally ONLY because God made the interview easy.
+This was one of the biggest gifts I have ever recieved in my life. So massive and
+I'll never forget about it)
