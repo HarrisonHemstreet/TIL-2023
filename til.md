@@ -1540,9 +1540,3 @@ the menu table. follow everything as is. Odds are, the endpoint you will be usin
 for any new tables will be '../mgmt/b/[ name of React file ]'. Also, the placement
 of the new React page depends on what the parentId value is. Make the parentId value
 equal to the page you want your new page to appear next to
-
-# 09 December 2021
-
-# 09 December 2021
-
-# 09 December 2021
