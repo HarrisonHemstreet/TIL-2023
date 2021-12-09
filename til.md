@@ -1527,12 +1527,16 @@ rates will change.
 TODO:
 TIL:
 
-# 08 December 2021
-
-# 08 December 2021
-
 # 09 December 2021
-
-# 09 December 2021
-
-# 09 December 2021
+TODO:
+TIL:
+* when making a new page in rems, all you need to do is add the new React page
+to jssrc/rems/src. Make sure you also restart webpack. The way webpack works is
+that webpack will scan the directory for all files it needs to load. If you add
+a new React page after loading webpack, webpack will not be able to see it. So
+reload if you want to actually be able to see your page. If you want to add the
+page to the drop down menu within the Rems app itself, you just add an entry into
+the menu table. follow everything as is. Odds are, the endpoint you will be using
+for any new tables will be '../mgmt/b/[ name of React file ]'. Also, the placement
+of the new React page depends on what the parentId value is. Make the parentId value
+equal to the page you want your new page to appear next to
