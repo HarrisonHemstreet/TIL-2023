@@ -1578,3 +1578,5 @@ maybe we change the load function to actually create a temp table... something l
 `SELECT s.id, s.name, s.active FROM subcarriers s,`
 
 # 14 December 2021
+
+# 14 December 2021
