@@ -1551,18 +1551,30 @@ TODO:
 
 # 13 December 2021
 
-# 13 December 2021
+# 14 December 2021
+TIL:
+TODO:
 
-# 13 December 2021
+RS-8430:
+tables notes:
+subcarriers
+* id
+* name
+* active
 
-# 13 December 2021
+subcarriers-carriers link table
+* id
+* carrierId
+* subcarrierId
 
-# 13 December 2021
+carriers
+* id
+* ...
 
-# 13 December 2021
+really when we would be clicking on a subcarrier, we need to not only fetch that
+but also, fetch the other stuff too...
 
-# 13 December 2021
-
-# 13 December 2021
+maybe we change the load function to actually create a temp table... something like
+`SELECT s.id, s.name, s.active FROM subcarriers s,`
 
 # 14 December 2021
