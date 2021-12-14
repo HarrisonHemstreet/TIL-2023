@@ -1577,6 +1577,26 @@ but also, fetch the other stuff too...
 maybe we change the load function to actually create a temp table... something like
 `SELECT s.id, s.name, s.active FROM subcarriers s,`
 
-# 14 December 2021
+KEEP THIS:
+```javascript
+                        {
+                            carriers.length > 0 ? (carriers.map(res => {
+                                return (
+                                    <div className="form-check d-flex p-4" key={res.id}>
+                                        <input className="form-check-input" type="checkbox" value="false" id={res.name} defaultChecked={false} onChange={() => { handleOnChangeCarrierCheckBox(res.id) }}/>
+                                        <label className="form-check-label" htmlFor={res.name}>
+                                            {res.readableName}
+                                        </label>
+                                    </div>
+                                );
+                            }))
+                                :
+                                (
+                                    <div>
+                                        <h5>CARRIERS NOT FOUND</h5>
+                                    </div>
+                                )
+                        }
 
-# 14 December 2021
+                        {/* map through the list of used carriers and make a check box for each */}
+```
