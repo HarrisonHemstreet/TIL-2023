@@ -1602,3 +1602,13 @@ KEEP THIS:
 ```
 
 # 15 December 2021
+
+# 16 December 2021
+TODO:
+1. RSIS-8345
+2. the whole RS-8430/RS-8424 saga
+3. get RS-8430 merged ASAP after Karl approves it
+TIL:
+
+
+# 16 December 2021
