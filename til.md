@@ -1617,3 +1617,4 @@ TIL:
 * change from 'subcarriers' to 'subcarrier' on RS-8430
 * on spacevim, make sure I change the cursor to a blinking line when in insert mode
 * on spacevim, make sure I change ESC to 'jj'
+* on spacevim, maybe try out Harpoon plugin
