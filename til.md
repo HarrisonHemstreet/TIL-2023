@@ -1615,3 +1615,5 @@ TIL:
 # 21 December 2021
 * remove last comma in create-subcarrier-table.sql
 * change from 'subcarriers' to 'subcarrier' on RS-8430
+* on spacevim, make sure I change the cursor to a blinking line when in insert mode
+* on spacevim, make sure I change ESC to 'jj'
