@@ -1613,11 +1613,5 @@ TIL:
 # 17 December 2021
 
 # 21 December 2021
-
-# 21 December 2021
-
-# 21 December 2021
-
-# 21 December 2021
-
-# 21 December 2021
+* remove last comma in create-subcarrier-table.sql
+* change from 'subcarriers' to 'subcarrier' on RS-8430
