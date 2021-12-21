@@ -1618,3 +1618,9 @@ TIL:
 * on spacevim, make sure I change the cursor to a blinking line when in insert mode
 * on spacevim, make sure I change ESC to 'jj'
 * on spacevim, maybe try out Harpoon plugin
+
+/*
+    menu insertion for adding the Manage Subcarriers tool
+*/
+$dbService->query("INSERT INTO menu (name, level, displaycode, adminlevel, moddate, priority, parentid, hide, isapplication) VALUES ('Manage Subcarriers', 1, '../mgmt/b/manageSubcarriers', 1, NOW(), 0, 117, n, 0)");
+
