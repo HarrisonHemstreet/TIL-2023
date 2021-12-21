@@ -1610,28 +1610,8 @@ TODO:
 3. get RS-8430 merged ASAP after Karl approves it
 TIL:
 
-# 16 December 2021
-
-# 16 December 2021
-
-# 16 December 2021
-
 # 17 December 2021
 
-# 17 December 2021
-
-# 17 December 2021
-
-# 17 December 2021
-
-# 17 December 2021
-
-# 17 December 2021
-
-# 17 December 2021
-
-# 17 December 2021
-
-# 17 December 2021
+# 21 December 2021
 
 # 21 December 2021
