@@ -1624,6 +1624,8 @@ TIL:
 */
 $dbService->query("INSERT INTO menu (name, level, displaycode, adminlevel, moddate, priority, parentid, hide, isapplication) VALUES ('Manage Subcarriers', 1, '../mgmt/b/manageSubcarriers', 1, NOW(), 0, 117, n, 0)");
 
-
-
-# 21 December 2021
+# 22 December 2021
+TODO:
+* merge all tasks leading to RS-8424
+TIL:
+* 
