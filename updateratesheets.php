@@ -18,7 +18,7 @@ class UpdateRateSheets {
         //--------------------------------------------------------------------------------------------------------------
         // check the customerCostBasis table
 
-        $db = DatabaseManager::getReadOnlyDB();
+        adsfjjjj$db = DatabaseManager::getReadOnlyDB();
         $db->setFetchMode(DB_FETCHMODE_ASSOC);
 
         $currentRateSheet = '2021 Platinum Plus';
