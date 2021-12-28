@@ -1660,3 +1660,5 @@ the "No Sub Carriers" option, or the "" (empty) option.
 **getsetting('subcarriers')**
 - [ ] warehouse.php how do I reach line 430 and line 482?
 - [ ] accounting_v1.php how do I reach line 138?
+
+# 28 December 2021
