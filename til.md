@@ -1650,8 +1650,8 @@ TIL:
 
 RS-8483:
 - [x] where is dimDiscounts.jsx used and how do I reach line 340?
-- [] the carrierInvoiceSql.php looks fairly hazardous... specifically line 195
-- [] carrier.php line 749 looks like I might be able to use that line within
+- [ ] the carrierInvoiceSql.php looks fairly hazardous... specifically line 195
+- [ ] carrier.php line 749 looks like I might be able to use that line within
 subcarrierService.php to decide whether or not to insert two falseish records,
 the "No Sub Carriers" option, or the "" (empty) option.
-- [] test to see if the changes made in server/rems/html/mgmt/index.php all work
+- [ ] test to see if the changes made in server/rems/html/mgmt/index.php all work
