@@ -1667,6 +1667,7 @@ TIL:
 TODO:
 
 ### RS-8483
+__Tom's Notes__
 create filters for subcarriers individually on the manage subcarriers page so that
 we can choose to only show subcarriers belonging to a specific carrier
 
