@@ -1679,5 +1679,3 @@ we should be changing each list rate for every carrier, tier, and subcarrier com
 we also want the manage tiers page change to come out later one week after we release
 the changes for the Manage Subcarriers page
 
-
-# 29 December 2021
