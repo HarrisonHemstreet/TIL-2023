@@ -1674,3 +1674,29 @@ TODO:
 # 29 December 2021
 
 # 29 December 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+create filters for subcarriers individually on the manage subcarriers page so that
+we can choose to only show subcarriers belonging to a specific carrier
