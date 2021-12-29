@@ -1700,3 +1700,5 @@ TODO:
 
 create filters for subcarriers individually on the manage subcarriers page so that
 we can choose to only show subcarriers belonging to a specific carrier
+
+show only the active subcarriers by default
