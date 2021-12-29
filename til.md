@@ -1662,3 +1662,7 @@ the "No Sub Carriers" option, or the "" (empty) option.
 - [x] accounting_v1.php how do I reach line 138? it does look 
 like this is only triggerd one place, within server/rems/html/api/test/testClient.php
 
+# 29 December 2021
+TIL:
+TODO:
+
