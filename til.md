@@ -1666,39 +1666,11 @@ like this is only triggerd one place, within server/rems/html/api/test/testClien
 TIL:
 TODO:
 
-
-# 29 December 2021
-
-# 29 December 2021
-
-# 29 December 2021
-
-# 29 December 2021
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 create filters for subcarriers individually on the manage subcarriers page so that
 we can choose to only show subcarriers belonging to a specific carrier
 
 show only the active subcarriers by default
+
+remove subcarrier drop down on mass set list rates page.
+we should be changing each list rate for every carrier, tier, and subcarrier combo
+
