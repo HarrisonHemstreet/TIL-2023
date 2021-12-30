@@ -1681,5 +1681,4 @@ the changes for the Manage Subcarriers page
 
 ISSUES:
 * the first change (if it's just an active status change) will yeild an empty list of carriers
-
-# 29 December 2021
+* there is an issue with getting a 'NO DATA' after editing a subcarrier
