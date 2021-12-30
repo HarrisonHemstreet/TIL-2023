@@ -1658,7 +1658,7 @@ the "No Sub Carriers" option, or the "" (empty) option.
 - [ ] test to see if the changes made in server/rems/html/mgmt/index.php all work
 
 **getsetting('subcarriers')**
-- [ ] warehouse.php how do I reach line 430 and line 482?
+- [x] warehouse.php how do I reach line 430 and line 482? I have not been able to find the trigger for this file
 - [x] accounting_v1.php how do I reach line 138? it does look 
 like this is only triggerd one place, within server/rems/html/api/test/testClient.php
 
