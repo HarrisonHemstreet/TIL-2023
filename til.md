@@ -1668,10 +1668,10 @@ TODO:
 
 ### RS-8483
 __Tom's Notes:__
-create filters for subcarriers individually on the manage subcarriers page so that
+- [x] create filters for subcarriers individually on the manage subcarriers page so that
 we can choose to only show subcarriers belonging to a specific carrier
 
-show only the active subcarriers by default
+- [x] show only the active subcarriers by default
 
 remove subcarrier drop down on mass set list rates page.
 we should be changing each list rate for every carrier, tier, and subcarrier combo
