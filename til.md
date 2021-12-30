@@ -1680,10 +1680,9 @@ we also want the manage tiers page change to come out later one week after we re
 the changes for the Manage Subcarriers page
 
 ISSUES:
-* the first change (if it's just an active status change) will yeild an empty list of carriers
-* if I load up, then choose 'DHL' on the carrier dropdown, then exit out, then on the main page edit a subcarrier and hit save, then
+- [x] the first change (if it's just an active status change) will yeild an empty list of carriers
+- [x] if I load up, then choose 'DHL' on the carrier dropdown, then exit out, then on the main page edit a subcarrier and hit save, then
 the page goes blank and I get a 'NO DATA'
-*
 
 # 29 December 2021
 
