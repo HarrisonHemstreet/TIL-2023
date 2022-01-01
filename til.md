@@ -1688,14 +1688,32 @@ the page goes blank and I get a 'NO DATA'
 TODO:
 TIL:
 
-# 30 December 2021
-
-# 30 December 2021
-
-# 30 December 2021
-
 # 31 December 2021
 
 # 01 January 2022
+TODO:
+TIL:
 
-# 01 January 2022
+RS-8483:
+* maybe I'll remove the use statements at the top of invoiceobj.php
+STORING FOR LATER:
+(this portion is taken from warehouse.php. I made changes that should hopefully
+ replicate what was happening when getsetting('subcarriers') was being used, but
+ with subcarrierService->getSubCarriers(). warehouse.php line 133-147 (should replace master branch's lines 133-144)):
+```php
+// I think this change is comperable to what it was before
+		$subcarriersRaw = $db->getAll("SELECT * FROM subcarrier");
+        $subcarriersFiltered = array();
+        foreach ($subcarriersRaw as $subcarrier) {
+            unset($subcarrier['active']);
+            array_push($subcarriersFiltered, $subcarrier['name']);
+        }
+        foreach ($subcarriersFiltered as $subcarrier) {
+            if(isset($subcarriersFiltered[1]) && strlen($subcarriersFiltered[1]) > 0) {
+                if(strtolower(substr($subcarriersFiltered[1],0,strlen($search))) == strtolower($search)) {
+                    $all[] = Array("val"=>$subcarriersFiltered[1]);
+                }
+            }
+        }
+```
+
