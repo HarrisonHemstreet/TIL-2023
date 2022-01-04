@@ -1729,24 +1729,4 @@ TIL:
 
 airbill numbers: 50500005VK08, 10600636VK15, 50200004VK19, 50200011VK19, 50200004VK19, 72200036VK19, 72200036VK19
 
-# 03 January 2022
-
-# 03 January 2022
-
-# 03 January 2022
-
-# 03 January 2022
-
-# 03 January 2022
-
-# 04 January 2022
-
-# 04 January 2022
-
-# 04 January 2022
-
-# 04 January 2022
-
-# 04 January 2022
-
 # 04 January 2022
