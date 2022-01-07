@@ -1739,18 +1739,24 @@ TODO:
 
 TIL:
 **RS-8450**
-* 
 
-# 06 January 2022
+OTHER:
+I really need to focus up. I can no longer play video games in my spare time. I really need to spend every wakeing moment
+working on this stuff. I will memorize the content in the React.js questions that I have forked onto my github account.
 
-# 06 January 2022
-
-# 06 January 2022
-
-# 06 January 2022
-
-# 06 January 2022
-
-# 06 January 2022
+My Tech Stack:
+* Rust
+* React
+* Next.js
+* Node
+* TypeScript
+* Express.js
+* GraphQL
+* MySQL
+* PostgreSQL
+* Docker
+* Kubernetes
+* GitHub Actions
 
 # 07 January 2022
+
