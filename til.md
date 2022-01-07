@@ -1770,8 +1770,4 @@ To get the address information you'll need to query the webshipshipment table an
 field using the ArrayFunctionsUtils::printrToArray function. You can probably get the rest of the data 
 from that field as well. If you need other info, webshipstats can be joined on the bookNumber field.
 ```
-
-
-# 07 January 2022
-
-# 07 January 2022
+* Is the serviceTypeCode equivalent to webshipstats' shipcode column?
