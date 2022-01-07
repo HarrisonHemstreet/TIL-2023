@@ -1764,5 +1764,9 @@ TODO:
 
 TIL:
 **RS-8450**
-
-# 07 January 2022
+* From Chris M:
+```
+To get the address information you'll need to query the webshipshipment table and unserialize the request 
+field using the ArrayFunctionsUtils::printrToArray function. You can probably get the rest of the data 
+from that field as well. If you need other info, webshipstats can be joined on the bookNumber field.
+```
