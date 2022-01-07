@@ -1759,4 +1759,8 @@ My Tech Stack:
 * GitHub Actions
 
 # 07 January 2022
+TODO:
+* RS-8450 - REMS API Addition
 
+TIL:
+**RS-8450**
