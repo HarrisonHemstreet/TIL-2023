@@ -1771,4 +1771,3 @@ field using the ArrayFunctionsUtils::printrToArray function. You can probably ge
 from that field as well. If you need other info, webshipstats can be joined on the bookNumber field.
 ```
 
-# 07 January 2022
