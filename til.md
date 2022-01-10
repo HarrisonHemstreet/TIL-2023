@@ -1777,3 +1777,17 @@ from that field as well. If you need other info, webshipstats can be joined on t
 # 09 January 2022
 
 # 10 January 2022
+TODO:
+TIL:
+Feel free to wait until monday to respond :slightly_smiling_face:
+
+https://jira.rocksolidinternet.com/browse/RS-8450
+Okay so I think we have run into a potential problem....
+
+Like you mentioned above, in order to get the address info, I need to "unserialize the request field using the ArrayFunctionsUtils::printrToArray function". Because I am being asked to create an endpoint that returns up to 1000 shipments, I'll need to run the printrToArray function up to 1000 times. This is probably going to end up being a pretty slow endpoint because of that, since we can't get all the info we need in one SQL statement.
+
+I'm going to continue working on this with the current info I have, but in the meantime, I thought I would ask, do you know of any other way that would be more efficient that would allow us to get the data we need for up to 1000 shipments?
+
+My current approach is decent I think, but I don't know, I thought I would just check to see in case you had any other thoughts! Thanks! :slightly_smiling_face:
+
+https://github.com/rocksolidinternet/rsis-source/pull/9913/files
