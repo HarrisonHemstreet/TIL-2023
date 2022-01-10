@@ -1772,34 +1772,8 @@ from that field as well. If you need other info, webshipstats can be joined on t
 ```
 * Is the serviceTypeCode equivalent to webshipstats' shipcode column?
 
-# 07 January 2022
-
-# 07 January 2022
-
-# 08 January 2022
-
-# 08 January 2022
-
-# 08 January 2022
-
 # 08 January 2022
 
 # 09 January 2022
-
-# 09 January 2022
-
-# 09 January 2022
-
-# 09 January 2022
-
-# 09 January 2022
-
-# 09 January 2022
-
-# 09 January 2022
-
-# 10 January 2022
-
-# 10 January 2022
 
 # 10 January 2022
