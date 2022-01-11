@@ -1779,6 +1779,7 @@ from that field as well. If you need other info, webshipstats can be joined on t
 # 10 January 2022
 TODO:
 TIL:
+question I was planning on asking Chris M. but decided not to...
 ```
 Feel free to wait until monday to respond :slightly_smiling_face:
 
@@ -1794,14 +1795,11 @@ My current approach is decent I think, but I don't know, I thought I would just 
 https://github.com/rocksolidinternet/rsis-source/pull/9913/files
 ```
 
-# 10 January 2022
-
-# 10 January 2022
-
-# 10 January 2022
-
-# 10 January 2022
-
-# 10 January 2022
-
-# 10 January 2022
+# 11 January 2022
+TODO:
+TIL:
+* If I want to add a page to the REMS REST API docs, then I need to add the markdown file,
+and then jump into server/rems/html/restapi/docs/v1/index.html and add an entry
+at roughly line 110-120 so that a link can be present for the new page to be added.
+in order to be able to see any new pages on here, you must run `mkdocs build` in
+order to build the documentation
