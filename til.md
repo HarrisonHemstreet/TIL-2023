@@ -1804,6 +1804,7 @@ at roughly line 110-120 so that a link can be present for the new page to be add
 in order to be able to see any new pages on here, you must run `mkdocs build` in
 order to build the documentation. You must run `mkdocs build` everytime after you
 make a change. you also need to add this enpoint to mkdocs.yml and at the bottom
-of the mkdocs/v1/docs/index.md file under 'API Endpoints'
+of the mkdocs/v1/docs/index.md file under 'API Endpoints' and mkdocs/v1/index.md
+
 
 # 11 January 2022
