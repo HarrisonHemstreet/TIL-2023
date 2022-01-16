@@ -1822,24 +1822,36 @@ a:3:{i:0;a:3:{s:4:"name";s:5:"Fedex";s:6:"prices";a:17:{i:0;N;i:1;N;i:2;s:0:"";i
 RS-8450:
 * rems rest api keys: found in the systemsetting table under the row 'rest api key'
 
-# 14 January 2022
-
-# 14 January 2022
-
-# 14 January 2022
-
-# 14 January 2022
-
 # 15 January 2022
-
-# 15 January 2022
-
-# 15 January 2022
-
-# 15 January 2022
-
-# 15 January 2022
-
-# 15 January 2022
+JAVASCRIPT STUDY:
+* global execution context has two phases:
+    1. Creation Phase
+        i. code is read synchonously
+        ii. each variable, function and object is set to undefinied in order to
+            create the memory space for everything
+        iii. when function invocations are found, they are put into the `execution
+             stack` in order to run during the execution phase. The execution stack
+             follows the LIFO principle (last in first out; like a stack of plates
+             in real life.)
+    2. Execution Phase
+        i. the execution stack is triggered.
+        ii. each time a function is ran, a new exection context is created
+        iii. each time execution context is created, the Scope Chain is added to.
+             Think of the scope chain as being how the JS engine looks within
+             execution contexts for the values of variables when they are 
+             refferenced. First the JS engine will look in the current exection
+             context, and then the execution context that the previous one was
+             nested in, then the previous one, then the previous one etc etc until
+             the JS engine lands in the global execution context, (or the window
+             object) and then the search ends. Either the variable's value was
+             found or `undefined` was returned.
+    3. According to MDN docs for JS, there are seven data types (primitives):
+        i. string
+        ii. number
+        iii. bigint
+        iv. symbol
+        v. boolean
+        vi. undefined
+        vii. null
 
 # 15 January 2022
