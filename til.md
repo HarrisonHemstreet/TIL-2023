@@ -1833,6 +1833,10 @@ JAVASCRIPT STUDY:
              stack` in order to run during the execution phase. The execution stack
              follows the LIFO principle (last in first out; like a stack of plates
              in real life.)
+        iv. outer environment is assigned (the execution context that the current
+            execution context is nested in unless this is the global execution
+            context)
+        v. instantiation of `this`
     2. Execution Phase
         i. the execution stack is triggered.
         ii. each time a function is ran, a new exection context is created
@@ -1860,3 +1864,18 @@ JAVASCRIPT STUDY:
         supposedly chose to make the typeof function return `function` when ran on
         functions in order to allow future devs to check if something was invokeable
         or not...
+    4. function statements get hoisted, function expressions do not
+        i. function statement:
+        ```
+        function hello() {
+            return 'hello';
+        }
+        ```
+        ii. function expression:
+        ```
+        var hello = function() {
+                return 'hello';
+            }
+        ```
+
+# 15 January 2022
