@@ -1877,13 +1877,6 @@ JAVASCRIPT STUDY:
                 return 'hello';
             }
         ```
-
-# 15 January 2022
-
-# 16 January 2022
-
-# 16 January 2022
-
-# 16 January 2022
-
-# 16 January 2022
+    5. closures and the 'backpack'
+        i. a closure is a function that references data within the function's
+        outer layer
