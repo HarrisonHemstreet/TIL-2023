@@ -1854,4 +1854,9 @@ JAVASCRIPT STUDY:
         vi. undefined
         vii. null
 
-# 15 January 2022
+        * NOTE: the `typeof` function will return 'function' when used on a function.
+        Functions do have primitive types. `function` a type. I have read that a
+        function's type is an `object`, but I have not yet confirmed this. The devs
+        supposedly chose to make the typeof function return `function` when ran on
+        functions in order to allow future devs to check if something was invokeable
+        or not...
