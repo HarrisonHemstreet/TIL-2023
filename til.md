@@ -1880,3 +1880,16 @@ JAVASCRIPT STUDY:
     5. closures and the 'backpack'
         i. a closure is a function that references data within the function's
         outer layer
+
+        ii. the way this works is that everytime a function is returned, there is
+        a hidden value called `[]Scope[]`. This `[]Scope[]` variable is hidden in
+        a way that is not accesible via a console.log(). Everything attached to
+        this `[]Scope[]` value is called a couple different names. here are few
+        of them:
+            1. Persistant Lexical Scope Reference (PLSR)
+            2. Closed Over Variable Environment
+            3. the 'closure' (more cloquial)
+            4. or just the `backpack` which is VERY cloquial and should not be used
+               in professional environments
+
+# 16 January 2022
