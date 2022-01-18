@@ -1903,6 +1903,10 @@ JS NOTES:
 * property: a reference to another object
 * prototype: all objects have a hidden property called `proto`
 
-
+Alex's comments:
+* add full support for tags, allow tags to be changed from the ship screen
+* I don't need to use getStateFromStores, inital state or prop types. I should already have the data in the state
+* take the tagdisplay component from batch page instead of quotePanel
+* refactor orderList.jsx from line 48 to the end of the component on line 381. just copy and paste some stuff
 
 # 18 January 2022
