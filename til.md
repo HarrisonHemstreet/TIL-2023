@@ -1911,8 +1911,6 @@ Alex's comments:
 * we are currently using two different states in here. both the store and the state within the componet itselft
 * remove all things that use store mixins
 
-# 18 January 2022
+* we are essentially going to be changning our approach on state management from
+the old way (orderList.jsx) to the new way (the top of deletedOrders.jsx line 9 - 26)
 
-# 18 January 2022
-
-# 18 January 2022
