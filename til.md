@@ -1904,3 +1904,5 @@ JS NOTES:
 * prototype: all objects have a hidden property called `proto`
 
 
+
+# 18 January 2022
