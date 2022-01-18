@@ -1908,5 +1908,5 @@ Alex's comments:
 * I don't need to use getStateFromStores, inital state or prop types. I should already have the data in the state
 * take the tagdisplay component from batch page instead of quotePanel
 * refactor orderList.jsx from line 48 to the end of the component on line 381. just copy and paste some stuff
-
-# 18 January 2022
+* we are currently using two different states in here. both the store and the state within the componet itselft
+* remove all things that use store mixins
