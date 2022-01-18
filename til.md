@@ -1894,32 +1894,13 @@ JAVASCRIPT STUDY:
 
 # 16 January 2022
 
-# 16 January 2022
-
-# 16 January 2022
-
-# 16 January 2022
-
-# 16 January 2022
-
-# 16 January 2022
-
-# 16 January 2022
-
 # 17 January 2022
+JS NOTES:
+* Inheritance: one object gets access to the properties and methods of another object
+* classical inheritance: like the definition of inheritance. very verbose.
+* prototypal inheritance: simple, flexible, extensible, and easy to understand.
 
-# 17 January 2022
+* property: a reference to another object
+* prototype: all objects have a hidden property called `proto`
 
-# 17 January 2022
 
-# 17 January 2022
-
-# 17 January 2022
-
-# 17 January 2022
-
-# 17 January 2022
-
-# 17 January 2022
-
-# 17 January 2022
