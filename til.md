@@ -1927,34 +1927,8 @@ international oversize 213i. there is a ground varient and an express varient 21
 
 # 22 January 2022
 
-# 22 January 2022
-
-# 22 January 2022
-
-# 22 January 2022
-
-# 22 January 2022
-
-# 24 January 2022
-
-# 24 January 2022
-
-# 24 January 2022
-
-# 24 January 2022
-
-# 24 January 2022
-
-# 24 January 2022
-
 # 24 January 2022
 
 # 25 January 2022
-
-# 25 January 2022
-
-# 25 January 2022
-
-# 25 January 2022
-
-# 25 January 2022
+how to call a php function from react in webship:
+* server/ec/api/v3/index.php - add a route here
