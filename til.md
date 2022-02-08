@@ -1969,3 +1969,5 @@ their own provider account (signified as 'sepecified' in the `provider_account_s
 table), or a default proivder account (signified as 'default' in the `provider_account_selection`
 table), or a provider account that allows for unique rates (signified as 'byo'
 [bring your own] in the `provider_account_selection` table).
+
+# 08 February 2022
