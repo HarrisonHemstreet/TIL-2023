@@ -1959,10 +1959,13 @@ how to call a php function from react in webship:
 
 # 07 February 2022
 
-# 07 February 2022
-
 # 08 February 2022
-
-# 08 February 2022
-
-# 08 February 2022
+TIL:
+* The best way to think of a provider account is essentially as store of information
+that customers use to save their api information for interactions between them and
+their associated carriers/subcarriers. The information saved will contain things
+like API keys, passwords, account numbers, etc... A customer may be pointed towards
+their own provider account (signified as 'sepecified' in the `provider_account_selection`
+table), or a default proivder account (signified as 'default' in the `provider_account_selection`
+table), or a provider account that allows for unique rates (signified as 'byo'
+[bring your own] in the `provider_account_selection` table).
