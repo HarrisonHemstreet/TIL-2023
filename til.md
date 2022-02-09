@@ -1970,8 +1970,17 @@ table), or a default proivder account (signified as 'default' in the `provider_a
 table), or a provider account that allows for unique rates (signified as 'byo'
 [bring your own] in the `provider_account_selection` table).
 
-# 08 February 2022
+Alex Notes:
+state should exist at the top (in the store) so that all components have the
+ability to handle it.
 
-# 08 February 2022
+we will want to release these parts separetly. think about ways I can break this
+up and split the PR into multiple PR's so that we can avoid breaking anything in
+a big way...
+
+filters and rules share componeents all over the place so we can avoid duplicate code
+we pass in the action handler so that we can know what is triggering the change handlers
+
+look at how the batch tab is modeled
 
 # 08 February 2022
