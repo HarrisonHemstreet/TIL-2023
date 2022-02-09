@@ -1983,4 +1983,8 @@ we pass in the action handler so that we can know what is triggering the change 
 
 look at how the batch tab is modeled
 
-# 08 February 2022
+we want minimum neccessary input params
+
+designing an interface - philosophy of software engineering
+
+# 09 February 2022
