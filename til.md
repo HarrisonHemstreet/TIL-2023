@@ -1125,7 +1125,7 @@ you get stuck on one of the steps for upping your docker container bc xDebugger 
 not working)
 1. go to xdebug.ini within rsis-docker/webserver-dev
 2. execute both files in the scriptes folder within rsis-docker starting with build.js
-3. also make sure that the "port" word is removed from rsis-docker/webserver-dev-20.
+3. also make sure that the "port" word is removed from rsis-docker/webserver-dev-20/Dockerfile
 lines 68 and 69 should look like this:
 ```dockerfile
 ADD xdebug.ini /etc/php/7.4/apache2/conf.d/90-xdebug-port.ini
