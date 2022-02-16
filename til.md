@@ -2003,4 +2003,28 @@ designing an interface - philosophy of software engineering
 
 # 16 February 2022
 
-DO NOT SHIP WHEN USING AN ITEGRATION EVEN ON DEV!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+TIL:
+Notes on Webship Integrations:
+* DO NOT SHIP WHEN USING AN ITEGRATION EVEN ON DEV!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+* Each service will either have a listOrdersPaginated function or a listOrders
+function because not all services are on listOrdersPaginated.
+
+How to hit the integration service: ie. ShipStationService.php:
+1. put break points on the lines you want, specifcally the listOrdersPaginated
+function. Each service will either have a listOrdersPaginated function or a listOrders
+function because not all services are on listOrdersPaginated.
+2. Now run this query:
+```sql
+select * from es_integration
+LEFT JOIN ecommerce_order ON es_integration.id = ecommerce_order.integration_id
+WHERE es_integration.type = 'shipstation' AND fulfillment_status = 'pending'
+ORDER BY ecommerce_order.import_date DESC
+LIMIT 20;
+```
+this query will return customers who have integrations with orders assoicated with
+them. Go and sign in as one of these customers on webship.
+3. on webship, click on settings, and then click on `eCommerce Integrations`.
+4. scroll all the way down and click on the refresh button. This refresh button
+will trigger your listOrdersPaginated function
+
+# 16 February 2022
