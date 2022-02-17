@@ -2027,10 +2027,14 @@ them. Go and sign in as one of these customers on webship.
 4. scroll all the way down and click on the refresh button. This refresh button
 will trigger your listOrdersPaginated function
 
-# 16 February 2022
-
 # 17 February 2022
-
-# 17 February 2022
+WHAT I DID TO FIX MY MONITORS ON UBUNTU:
+1. uninstall all nvidia drivers and everything
+2. uninstall display link drivers
+3. make sure I have rebooted after step 1 and 2
+4. download the newest display link driver and reboot if neccessary
+5. after rebooting, connect the external monitors hardware to the laptop
+6. if all monitors do not have something displaying on them, then restart these
+steps until they do
 
 # 17 February 2022
