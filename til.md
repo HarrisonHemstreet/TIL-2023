@@ -2039,3 +2039,5 @@ steps until they do
 7. now go to the bookmarked notes in brave browser under Study->Ubuntu/Linux->Display
 
 # 18 February 2022
+
+# 18 February 2022
