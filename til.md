@@ -2036,7 +2036,3 @@ WHAT I DID TO FIX MY MONITORS ON UBUNTU:
 5. after rebooting, connect the external monitors hardware to the laptop
 6. if all monitors do not have something displaying on them, then restart these
 steps until they do
-
-# 17 February 2022
-
-# 17 February 2022
