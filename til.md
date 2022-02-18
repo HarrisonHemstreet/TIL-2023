@@ -2039,9 +2039,18 @@ steps until they do
 7. now go to the bookmarked notes in brave browser under Study->Ubuntu/Linux->Display
 
 # 18 February 2022
+RS-8573 (dims quoted incorrectly) notes: 
+* go to search airbills, put airbill in the filter and search it
+* click on the checkbox show webship quote
 
-# 18 February 2022
+* look at quotedWeightType function? but maybe not...
 
-# 18 February 2022
+* go to customers baserates for fedex, know which service it is from webship,
+look at the service and hit the view button. Then you should see a list of thier
+rates. Find the zone, and go down to the pounds, and look at where this is being
+quoted on the rate sheet
+
+* we come in and find this airbill that has a difference between the quoted and actual charged airbill weight.
+we impersonate the shipment, and confirm that the quoted weight is different. 
 
 # 18 February 2022
