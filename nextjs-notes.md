@@ -61,3 +61,4 @@ used in Node.js
 frequency like stock data, highly user specific data like last orders in a shop,
 and partial data like data thats only used on a part of the page.)
 * prefetching the data for page generation might not work or be required.
+* in Next.js, a page is a React component exported from the pages directory
