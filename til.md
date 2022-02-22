@@ -2057,20 +2057,16 @@ we impersonate the shipment, and confirm that the quoted weight is different.
 
 # 20 February 2022
 
-# 21 February 2022
-
-# 21 February 2022
-
-# 21 February 2022
-
-# 21 February 2022
-
-# 21 February 2022
-
-# 21 February 2022
-
-# 21 February 2022
-
 # 22 February 2022
 
-# 22 February 2022
+1. make new branch, based off of RS-8475
+2. do a git fetch
+3. git rebase origin/master
+4. git reset --soft origin/master
+5. then I will have all of my changes in a diff state unstaged
+6. make a copy of my orderList.jsx
+7. take out from the primary one all of the tag stuff
+8. Once it's just the refactor, then do a commit
+9. then paste the copy of order List on top of the new order list, then commit
+10. anything I have left over, make a new branch, then commit the stuff there and save it, making a PR
+11. 1st PR only have the orderlist refactor the read only tag changes
