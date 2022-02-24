@@ -2071,22 +2071,10 @@ we impersonate the shipment, and confirm that the quoted weight is different.
 10. anything I have left over, make a new branch, then commit the stuff there and save it, making a PR
 11. 1st PR only have the orderlist refactor the read only tag changes
 
-# 22 February 2022
-
-# 22 February 2022
-
-# 22 February 2022
-
 # 23 February 2022
-
-# 23 February 2022
-
-# 23 February 2022
-
-# 23 February 2022
-
-# 23 February 2022
-
-# 23 February 2022
+TIL:
+* mgmt/b/ is for bootstrap pages
+* mgmt/r/ is for marterial ui pages. we are fazing out our use of material ui,
+so the eventual goal is to change these pages over to bootstrap
 
 # 23 February 2022
