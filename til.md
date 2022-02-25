@@ -2083,5 +2083,8 @@ so the eventual goal is to change these pages over to bootstrap
 
 # 25 February 2022
 
-
-# 25 February 2022
+TIL:
+* just had a convo with Chris M about RS-8536 and it sounds like the data coming
+in upstream is wrong it should always be a 0 and never a 50
+* talked to Tom and he said that I can either fix the logo service for Blue Grace
+or I can just manually fix the logo
