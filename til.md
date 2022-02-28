@@ -2109,4 +2109,8 @@ note from this task and Chris M's help:
                     // rabit hole. Payment.php line 35, the instance there may actually direct eventually to over here
                     // instead of the CreditCard.php file
 
+Systems/Client/Customer.php line 621 appears to handle each invoice one at a time by passing it through
+to Payment.php on the process function. This means that the ACH purchases probably still go through to
+the Singular.php file.
+
 # 28 February 2022
