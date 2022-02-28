@@ -2094,7 +2094,7 @@ or I can just manually fix the logo
 # 27 February 2022
 
 # 28 February 2022
-RS-8509, I think that the change I need to make is on Singular.php line 90 for single
+RS-8509, I think that the change I need to make is on Singular.php line 89 for single
 payments, and then maybe on line 162 of CustomerPaymentService.php
 
 in order to test the changes, you have to go to the very end of the chain, right
@@ -2108,3 +2108,5 @@ note from this task and Chris M's help:
                     // I need to add ACH to TST00002 for testing purposes. I was getting sucked down the credit card
                     // rabit hole. Payment.php line 35, the instance there may actually direct eventually to over here
                     // instead of the CreditCard.php file
+
+# 28 February 2022
