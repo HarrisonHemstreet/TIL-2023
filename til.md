@@ -2101,3 +2101,10 @@ in order to test the changes, you have to go to the very end of the chain, right
 before the endpoint gets hit, which is SoapService.php and put a break point on
 line 93. Then inspect the $parameters[1]['AccountHolder'] variable. It should be
 the company name and NOT the persons name
+
+note from this task and Chris M's help:
+                    // CustomerPaymentService.php line 162 is probably the issue. This is also linked to CustomerSql.php lines 36 & 37
+                    // I need to test on something that's not a credit card (test on ACH) which means
+                    // I need to add ACH to TST00002 for testing purposes. I was getting sucked down the credit card
+                    // rabit hole. Payment.php line 35, the instance there may actually direct eventually to over here
+                    // instead of the CreditCard.php file
