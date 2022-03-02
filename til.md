@@ -2184,4 +2184,6 @@ SELECT
 
 # UPDATE provider_account SET subCarrierId = 339 where id = "30153";
 # select * from provider_account where id = "30153";
+# select * from provider_account_selection where customerId = 22500098;
 ```
+
