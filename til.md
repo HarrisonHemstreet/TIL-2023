@@ -2197,3 +2197,9 @@ table on the right under webship
 ask Chris M to see the modal. There should be a modal associated with this setting
 that allows people to manage if this setting is enabled for franchises customers,
 etc.
+
+/b/settings
+
+leveledsettingsservice
+
+# 02 March 2022
