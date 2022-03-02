@@ -2127,6 +2127,61 @@ Ground @Home (FGH) - $9.75 ($8.26) [$8.05]
 8.05 carrier
 ```
 
-Essentially this issue cropped up because 
+BYO - bring your own rates. Used on Webship
+selection - rates provided by the franchise. used on Rems
 
-# 02 March 2022
+Essentially this issue cropped up because a customer added their own BYO account
+before importing a shipment.
+
+The way I found this was by going from LookupBase.php to eventually TierRate.php.
+I realized that the subcarrierId was set to 0 which it shouldn't have been, so I 
+hard coded a change to 339 (INDUSTRY 38 which is a rate sheet), and the franchise
+cost was fixed instantly. After some more inspection, I was led to
+FedexAccountService->getFedexAccountForCustomer roughly lines 26 - 46. Here we
+see that the BYO account if present is chosen first and then if we don't have
+a BYO account, then we fall back upon the selection account.
+
+files examined:
+searchAirbills.jsx
+invokeService.js
+ProviderAccountSql.php
+Rater.php
+WeightLookup.php
+TierRate.php
+fedexstandardedi.php
+rems/app/classes/airbill.php
+
+databases examined:
+SQL:
+```
+use bfsrems;
+
+# select * from costbasis limit 1;
+# SELECT * FROM costbasis WHERE rateSheetId = '9906' and charge = 8.26 ORDER BY nottoexceedweight ASC;
+# select * from customerCostBasis where customerId = '22500098' and costBasisType like '%fgh%' order by id desc limit 100;
+
+# select * from airbill where number = "794613285920" limit 100;
+
+# select * from costbasis limit 1;
+# select * from customerCostBasis where costBasis like '%M18%' and customerId = '22500098';
+# select * from costbasis where rateSheetId = "8937" and zone = '7' and nottoexceedweight = '12' and shiptype = 'FGH';
+# select * from costbasis where rateSheetId = "8937" and charge = '8.05';
+SELECT
+                    carrierSheetId,
+                    franchiseSheetId,
+                    listSheetId
+                FROM
+                    tier_rate
+                WHERE
+                    tierId = 3
+                    AND carrierId = 28
+                    AND subcarrierId = 339
+                    AND serviceTypeCode = "FGH"
+                    AND effectiveDate <= "2022-01-26"
+                ORDER BY
+                    effectiveDate DESC
+                LIMIT 100;
+
+# UPDATE provider_account SET subCarrierId = 339 where id = "30153";
+# select * from provider_account where id = "30153";
+```
