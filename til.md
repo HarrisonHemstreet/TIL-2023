@@ -2113,50 +2113,20 @@ Systems/Client/Customer.php line 621 appears to handle each invoice one at a tim
 to Payment.php on the process function. This means that the ACH purchases probably still go through to
 the Singular.php file.
 
-# 28 February 2022
-
-# 28 February 2022
-
-# 28 February 2022
-
-# 28 February 2022
-
-# 28 February 2022
-
-# 01 March 2022
-
-# 01 March 2022
-
-# 01 March 2022
-
-# 01 March 2022
-
-# 01 March 2022
-
-# 01 March 2022
-
-# 01 March 2022
-
-# 01 March 2022
-
-# 01 March 2022
-
-# 01 March 2022
-
-# 01 March 2022
-
-# 01 March 2022
-
-# 01 March 2022
-
 # 01 March 2022
 
 # 02 March 2022
 
-# 02 March 2022
+RS-8509:
 
-# 02 March 2022
+**prices presented on Search Airbills:**
+```
+Ground @Home (FGH) - $9.75 ($8.26) [$8.05]
+9.75 customer
+8.26 franchise
+8.05 carrier
+```
 
-# 02 March 2022
+Essentially this issue cropped up because 
 
 # 02 March 2022
