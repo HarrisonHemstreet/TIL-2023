@@ -2191,7 +2191,7 @@ SELECT
 RS-8398:
 Setting I'm  working with just adds more info in the right bottom most box of
 the printed out invoice. It should be a 'D' and an 'L' with their own prices.
-You can also see these numbers when the setting is enabled on the search airbill
+You can also see these numbers when the setting is enabled on the View/Edit Invoices
 table on the right under webship
 
 ask Chris M to see the modal. There should be a modal associated with this setting
