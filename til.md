@@ -2207,3 +2207,10 @@ we will need to create a global script for all dbs that have something like this
 asdfDELETE FROM fransystemsetting WHERE name = 'discount invoices' and `value` = 0;
 ```
 
+Javascript Notes:
+* IIFE - immediatly invoked function expresions:
+```
+(function() {
+        console.log('hi');
+    })();
+```
