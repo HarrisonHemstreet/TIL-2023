@@ -2224,3 +2224,5 @@ showed me to on CustomerInvoice Service line 410:
 customerId = the 8 digit id for one specific customer
 franchiseid = the 3 digit id for one specific franchise. a franchise encompasses
 many customers
+
+# 03 March 2022
