@@ -2222,3 +2222,5 @@ showed me to on CustomerInvoice Service line 410:
 * $discountInvoicesIsOff = !$this->leveledSettingService->getSettingValue("discount invoices", $customerId);
 
 # 03 March 2022
+
+# 03 March 2022
