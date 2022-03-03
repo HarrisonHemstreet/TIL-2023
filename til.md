@@ -2202,6 +2202,10 @@ etc.
 
 leveledsettingsservice
 
-# 02 March 2022
+we will need to create a global script for all dbs that have something like this:
+```
+asdfDELETE FROM fransystemsetting WHERE name = 'discount invoices' and `value` = 0;
+```
+
 
 # 02 March 2022
