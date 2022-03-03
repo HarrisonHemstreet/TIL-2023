@@ -2214,3 +2214,11 @@ Javascript Notes:
         console.log('hi');
     })();
 ```
+
+# 03 March 2022
+RS-8398:
+I need to make changes across the code base to this setting like how Chris M
+showed me to on CustomerInvoice Service line 410:
+* $discountInvoicesIsOff = !$this->leveledSettingService->getSettingValue("discount invoices", $customerId);
+
+# 03 March 2022
