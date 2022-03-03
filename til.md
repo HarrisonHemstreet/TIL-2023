@@ -2221,6 +2221,6 @@ I need to make changes across the code base to this setting like how Chris M
 showed me to on CustomerInvoice Service line 410:
 * $discountInvoicesIsOff = !$this->leveledSettingService->getSettingValue("discount invoices", $customerId);
 
-# 03 March 2022
-
-# 03 March 2022
+customerId = the 8 digit id for one specific customer
+franchiseid = the 3 digit id for one specific franchise. a franchise encompasses
+many customers
