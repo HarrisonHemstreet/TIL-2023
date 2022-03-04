@@ -2225,32 +2225,14 @@ customerId = the 8 digit id for one specific customer
 franchiseid = the 3 digit id for one specific franchise. a franchise encompasses
 many customers
 
-# 03 March 2022
-
-# 03 March 2022
-
-# 03 March 2022
-
-# 03 March 2022
-
-# 03 March 2022
-
-# 03 March 2022
-
-# 03 March 2022
-
 # 04 March 2022
-
-# 04 March 2022
-
-# 04 March 2022
-
-# 04 March 2022
-
-# 04 March 2022
-
-# 04 March 2022
-
-# 04 March 2022
-
-# 04 March 2022
+|invoiceobj.php|: View/Edit Invoice|
+|CustomerInvoiceService.php| line 411: View/Edit Invoice|
+|invoiceledger.php| line 1384: CSV invoice (choose TST on date: 2022-2-11) invoice number: TST00002WB11|
+|customer.php| line 3776 and line 4305: just go to edit customer|
+|system.php| line 1753: go to edit customer, then Payments tab. Click on the paid invoices on the drop down and then click on one of their id numbers. This should take you to Invoice Viewer|
+|cinvoice| line 1900: Just go to view/edit invoice and when you choose to look at a specific invoice, this should be hit|
+|statement.php| line 426: email statement from the Payment Tab of Edit Customer|
+|customerstatement.php| line 234: email statement from the Payment Tab of Edit Customer|
+|airbill.php| line 503: import a fedex standard template edi into nexday|
+|customerlist.php| - double check this, but I think that this function is deprecated. I wasn't able to find any way to hit this function |across rems or webship|
