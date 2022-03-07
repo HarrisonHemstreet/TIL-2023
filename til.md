@@ -2237,46 +2237,14 @@ many customers
 |airbill.php| line 503: import a fedex standard template edi into nexday|
 |customerlist.php| - double check this, but I think that this function is deprecated. I wasn't able to find any way to hit this function |across rems or webship|
 
-# 04 March 2022
-
-# 04 March 2022
-
-# 04 March 2022
-
-# 04 March 2022
-
 # 05 March 2022
-
-# 05 March 2022
-
-# 05 March 2022
-
-# 05 March 2022
-
-# 05 March 2022
-
-# 05 March 2022
-
-# 05 March 2022
-
-# 05 March 2022
-
-# 05 March 2022
-
-# 05 March 2022
-
-# 06 March 2022
-
-# 06 March 2022
-
-# 06 March 2022
-
-# 06 March 2022
 
 # 06 March 2022
 
 # 07 March 2022
 
-# 07 March 2022
-
-# 07 March 2022
+RS-8596:
+* Search For Cerasis Shipments:
+- input: bol number, output: customer id
+* Add Partial Payments hsetting to a specific customer:
+- input: customer id, output: a success or a fail popup
