@@ -2248,13 +2248,3 @@ RS-8596:
 - input: bol number, output: customer id
 * Add Partial Payments hsetting to a specific customer:
 - input: customer id, output: a success or a fail popup
-
-# 07 March 2022
-
-# 07 March 2022
-
-# 07 March 2022
-
-# 07 March 2022
-
-# 07 March 2022
