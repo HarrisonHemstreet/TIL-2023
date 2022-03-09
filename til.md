@@ -2259,4 +2259,30 @@ also maybe up to 6 or 9 months. Not clear...
 entertianmnet but also a travel sight type thang. Kind of like Delta's IFE + 
 Kayak.com + Groupon
 
-# 08 March 2022
+tec notes:
+okta handles logins
+node is our server for okta
+part b is not going to need login stuff, but we do need to make sure we are talking to part a in order to authenticate
+part a, pay for campaign through Zoho. Zoho will let us know they paid, and then
+they can go to part b
+campaigns will be from draft to publish. draft, in work, publish something like that
+* JSON templates
+* for an mvp, we will need a session state management. Loaded up the window, what
+changes have they made since loading up the window. allow them to revert to those changes
+no further than that.
+
+we will store our content in Drupal. Won't put stuff in there until we are ready.
+
+Taking all the data that they were working on, put it in Drupal, then we aprove it.
+
+we have content cutoffs. We may have a cutoff of 14 days before...
+
+get up a next bare bones stuff. we just need some of the top level stuff like routing
+
+global state management. connect next app to server
+
+routes that need to go through
+
+1. global state management
+2. bootstrap
+3. 
