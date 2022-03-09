@@ -2251,14 +2251,12 @@ RS-8596:
 
 # 08 March 2022
 
-# 08 March 2022
-
-# 08 March 2022
-
-# 08 March 2022
-
-# 08 March 2022
-
-# 08 March 2022
+GOP Notes:
+* will be added to a slack channel
+* from what I over heard in the meeting before, sounds like we have 9 weeks, but
+also maybe up to 6 or 9 months. Not clear...
+* IFE (in flight entertainment) systems - we make a product that is not just
+entertianmnet but also a travel sight type thang. Kind of like Delta's IFE + 
+Kayak.com + Groupon
 
 # 08 March 2022
