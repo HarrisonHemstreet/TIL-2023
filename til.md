@@ -2294,3 +2294,12 @@ routes that need to go through
 # 10 March 2022
 
 # 11 March 2022
+
+* the invoice is located in the templates folder. Look at the customer id and find
+the invoice template being used. I can coppy that one make the changes and name
+the invoice as what I need it to be named. I can then go into the settings and
+specifically define that the customer should use said invoice template
+
+* server/rems/app/templates
+
+# 11 March 2022
