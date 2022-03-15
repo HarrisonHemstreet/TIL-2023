@@ -2304,108 +2304,10 @@ specifically define that the customer should use said invoice template
 
 # 11 March 2022
 
-# 11 March 2022
-
-# 11 March 2022
-
-# 11 March 2022
-
-# 11 March 2022
-
-# 11 March 2022
-
-# 11 March 2022
-
-# 11 March 2022
-
-# 11 March 2022
-
-# 12 March 2022
-
-# 12 March 2022
-
-# 12 March 2022
-
-# 12 March 2022
-
-# 12 March 2022
-
-# 12 March 2022
-
-# 12 March 2022
-
-# 12 March 2022
-
-# 12 March 2022
-
-# 12 March 2022
-
-# 12 March 2022
-
-# 12 March 2022
-
-# 12 March 2022
-
-# 12 March 2022
-
-# 12 March 2022
-
-# 12 March 2022
-
-# 12 March 2022
-
-# 12 March 2022
-
-# 12 March 2022
-
-# 12 March 2022
-
 # 12 March 2022
 
 # 13 March 2022
 
-# 13 March 2022
-
-# 13 March 2022
-
-# 13 March 2022
-
-# 13 March 2022
-
 # 14 March 2022
-
-# 14 March 2022
-
-# 14 March 2022
-
-# 14 March 2022
-
-# 14 March 2022
-
-# 14 March 2022
-
-# 14 March 2022
-
-# 14 March 2022
-
-# 14 March 2022
-
-# 14 March 2022
-
-# 14 March 2022
-
-# 14 March 2022
-
-# 14 March 2022
-
-# 15 March 2022
-
-# 15 March 2022
-
-# 15 March 2022
-
-# 15 March 2022
-
-# 15 March 2022
 
 # 15 March 2022
