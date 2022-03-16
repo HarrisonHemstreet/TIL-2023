@@ -2315,14 +2315,3 @@ qs:
 1. what does the 1053 hsetting do?
 2. 
 
-# 15 March 2022
-
-# 15 March 2022
-
-# 15 March 2022
-
-# 15 March 2022
-
-# 15 March 2022
-
-# 15 March 2022
