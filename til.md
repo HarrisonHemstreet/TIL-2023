@@ -2320,88 +2320,18 @@ qs:
 
 # 16 March 2022
 
-# 16 March 2022
-
-# 16 March 2022
-
-# 16 March 2022
-
-# 16 March 2022
-
-# 16 March 2022
-
-# 16 March 2022
-
-# 16 March 2022
-
-# 16 March 2022
-
-# 16 March 2022
-
-# 16 March 2022
-
-# 16 March 2022
-
-# 16 March 2022
-
-# 17 March 2022
-
-# 17 March 2022
-
-# 17 March 2022
-
-# 17 March 2022
-
-# 17 March 2022
-
-# 17 March 2022
-
-# 17 March 2022
-
-# 17 March 2022
-
-# 17 March 2022
-
-# 17 March 2022
-
 # 17 March 2022
 
 # 18 March 2022
-
-# 18 March 2022
-
-# 18 March 2022
-
-# 18 March 2022
-
-# 18 March 2022
-
-# 18 March 2022
-
-# 18 March 2022
-
-# 18 March 2022
-
-# 18 March 2022
-
-# 19 March 2022
-
-# 19 March 2022
-
-# 19 March 2022
-
-# 19 March 2022
-
-# 19 March 2022
-
-# 19 March 2022
 
 # 19 March 2022
 
 # 20 March 2022
+SystemLegacy get and update hsettings
+get:
+Will only get the setting if I give every last ounce of info, returns only the value column
 
-# 20 March 2022
+update:
+only updates the value column, not other columns
 
-# 20 March 2022
-
-# 20 March 2022
+neither one works for what I want
