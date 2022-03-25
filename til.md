@@ -2409,3 +2409,11 @@ neither one works for what I want
 # 25 March 2022
 
 # 25 March 2022
+* add global id to drop down
+* when the users a setting to the system that was not active previously, add the setitng to the main hsetting drop down
+* remove the id column
+* just show value field on edit, display existing value
+* qualify user input, just check for numbers, else add string
+* maybe a bug: if you click on delete H Setting, you get a "Can't display table" when you delete the last one in a table
+* add Add H Setting button on page load instead of on search
+* error when no h setting is selected, instead make it so that there is an error that says, "HSetting not selected"
