@@ -2352,9 +2352,9 @@ neither one works for what I want
 * remove the id column DONE
 * just show value field on edit, display existing value DONE
 * qualify user input, just check for numbers, else add string DONE
-* maybe a bug: if you click on delete H Setting, you get a "Can't display table" when you delete the last one in a table
-* add Add H Setting button on page load instead of on search
-* error when no h setting is selected, instead make it so that there is an error that says, "HSetting not selected"
+* maybe a bug: if you click on delete H Setting, you get a "Can't display table" when you delete the last one in a table DONE
+* add Add H Setting button on page load instead of on search DONE
+* error when no h setting is selected, instead make it so that there is an error that says, "HSetting not selected" DONE
 
 # 25 March 2022
 
