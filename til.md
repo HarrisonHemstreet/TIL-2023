@@ -2356,10 +2356,11 @@ neither one works for what I want
 * add Add H Setting button on page load instead of on search DONE
 * error when no h setting is selected, instead make it so that there is an error that says, "HSetting not selected" DONE
 
-# 25 March 2022
+# 26 March 2022
 
-# 25 March 2022
-
-# 25 March 2022
+GOP:
+1. add event stream
+2. add ways to interact with the event stream
+3. remove all styling not related to vanila css/sass
 
 # 26 March 2022
