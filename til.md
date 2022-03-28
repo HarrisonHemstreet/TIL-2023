@@ -2362,21 +2362,3 @@ GOP:
 1. add event stream
 2. add ways to interact with the event stream
 3. remove all styling not related to vanila css/sass
-
-# 26 March 2022
-
-# 26 March 2022
-
-# 26 March 2022
-
-# 26 March 2022
-
-# 26 March 2022
-
-# 26 March 2022
-
-# 26 March 2022
-
-# 27 March 2022
-
-# 27 March 2022
