@@ -2374,3 +2374,9 @@ GOP:
 # 28 March 2022
 
 # 28 March 2022
+
+* Multiplier method- ON OR OFF ONLY (1 or 0)
+* ^ AND Set to lb/kb
+* get rid of the id column
+* dont edit the carrier, service type or subcarrier
+* make a service type drop down, it may already be made. Make it so that only the service types for said carrier are shown
