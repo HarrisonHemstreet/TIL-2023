@@ -2372,13 +2372,4 @@ RS-8624, displayPerWeightUnitSettings.jsx
 * get rid of the id column
 * dont edit the carrier, service type or subcarrier
 * make a service type drop down, it may already be made. Make it so that only the service types for said carrier are shown
-
-# 28 March 2022
-
-# 28 March 2022
-
-# 28 March 2022
-
-# 28 March 2022
-
-# 28 March 2022
+SELECT id, (SELECT name FROM carriers WHERE epwul.carrier = name) carrier, effectiveDate, enabled, `limit`, perHalfWeightUnit, perWeightUnitOnly, (SELECT description FROM shipmenttypes WHERE code = epwul.serviceType LIMIT 1) as serviceType, subCarrier FROM ecommerce_per_weight_unit_limit epwul
