@@ -2366,9 +2366,11 @@ GOP:
 # 27 March 2022
 
 # 28 March 2022
-
+RS-8624, displayPerWeightUnitSettings.jsx
 * Multiplier method- ON OR OFF ONLY (1 or 0)
-* ^ AND Set to lb/kb
+* ^ AND Set to lb/kb column also works this way
 * get rid of the id column
 * dont edit the carrier, service type or subcarrier
 * make a service type drop down, it may already be made. Make it so that only the service types for said carrier are shown
+
+# 28 March 2022
