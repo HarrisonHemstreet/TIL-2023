@@ -2365,14 +2365,6 @@ GOP:
 
 # 27 March 2022
 
-# 27 March 2022
-
-# 27 March 2022
-
-# 28 March 2022
-
-# 28 March 2022
-
 # 28 March 2022
 
 * Multiplier method- ON OR OFF ONLY (1 or 0)
