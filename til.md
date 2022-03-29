@@ -2376,3 +2376,5 @@ SELECT id, (SELECT name FROM carriers WHERE epwul.carrier = name) carrier, effec
 
 # 29 March 2022
 make value box larger on edit page
+
+# 29 March 2022
