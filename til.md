@@ -2377,6 +2377,43 @@ SELECT id, (SELECT name FROM carriers WHERE epwul.carrier = name) carrier, effec
 # 29 March 2022
 make value box larger on edit page
 
-# 29 March 2022
+"<?xml version="1.0" encoding="UTF-8"?>
+```xml
+<p:DCTRequest xmlns:p="http://www.dhl.com" xmlns:p1="http://www.dhl.com/datatypes" xmlns:p2="http://www.dhl.com/DCTRequestdatatypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dhl.com DCT-req.xsd ">
+    <GetQuote>
+        <Request>
+            <ServiceHeader>
+                <MessageTime>2022-03-29T15:15:48.000-07:00</MessageTime>
+                <SiteID>RockSolid</SiteID>
+                <Password>SD0plNNbhg</Password>
+            </ServiceHeader>
+        </Request>
+        <From>
+            <CountryCode>US</CountryCode>
+            <Postalcode>84003</Postalcode>
+            <City>AMERICAN FORK</City>
+        </From>
+        <BkgDetails>
+            <PaymentCountryCode>US</PaymentCountryCode>
+            <Date>2022-03-29</Date>
+            <ReadyTime>PT12H00M</ReadyTime>
+            <DimensionUnit>IN</DimensionUnit>
+            <WeightUnit>LB</WeightUnit>
+            <NumberOfPieces>1</NumberOfPieces>
+            <Pieces><Piece>
+            <PieceID>1</PieceID>
+            <PackageTypeCode>BOX</PackageTypeCode>
+            <Height>4</Height>
+            <Depth>4</Depth>
+            <Width>4</Width>
+            <Weight>6599</Weight>
+            </Piece></Pieces>
+            <IsDutiable>Y</IsDutiable>
+            <NetworkTypeCode>AL</NetworkTypeCode>
+        </BkgDetails>
+        <To>
+            <CountryCode>FR</CountryCode>
+            <"
+```
 
 # 29 March 2022
