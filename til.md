@@ -2375,5 +2375,4 @@ RS-8624, displayPerWeightUnitSettings.jsx
 SELECT id, (SELECT name FROM carriers WHERE epwul.carrier = name) carrier, effectiveDate, enabled, `limit`, perHalfWeightUnit, perWeightUnitOnly, (SELECT description FROM shipmenttypes WHERE code = epwul.serviceType LIMIT 1) as serviceType, subCarrier FROM ecommerce_per_weight_unit_limit epwul
 
 # 29 March 2022
-
-# 29 March 2022
+make value box larger on edit page
