@@ -2430,6 +2430,7 @@ Dashboard:
 3. nav bar on top right - apart of layout component as well
 4. logo on top left - apart of layout component as well
 5. search bar/filter bar
+6. (at the bottom of mock ups) pager (Page 1 of 4)
 
 Edit Page:
 1. heading
@@ -2446,5 +2447,17 @@ Preview Page:
 except remove/change components that need it.
 This will include changing the save and publish
 buttons to say "Keep Editing" and "Publish"*
+
+Site Generator:
+1. "Choose your Business"
+2. "What kind of a restaurant?"
+3. "What is the name of your [ insert name here ] [ insert type of place here ]"
+4. Import vidoes/images page
+5. "Which theme best reps your services"
+6. "While we make the site, add and review your info"
+7. "Final touches"
+
+Photo gallery:
+1. photo gallery
 
 # 02 April 2022
