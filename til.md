@@ -2416,110 +2416,35 @@ make value box larger on edit page
             <"
 ```
 
-# 29 March 2022
-
-# 29 March 2022
-
-# 29 March 2022
-
-# 29 March 2022
-
-# 29 March 2022
-
-# 30 March 2022
-
-# 30 March 2022
-
-# 30 March 2022
-
-# 30 March 2022
-
-# 30 March 2022
-
-# 30 March 2022
-
-# 30 March 2022
-
-# 30 March 2022
-
-# 30 March 2022
-
-# 30 March 2022
-
-# 30 March 2022
-
 # 30 March 2022
 
 # 31 March 2022
-
-# 31 March 2022
-
-# 31 March 2022
-
-# 31 March 2022
-
-# 31 March 2022
-
-# 31 March 2022
-
-# 31 March 2022
-
-# 31 March 2022
-
-# 31 March 2022
-
-# 31 March 2022
-
-# 31 March 2022
-
-# 31 March 2022
-
-# 31 March 2022
-
-# 31 March 2022
-
-# 31 March 2022
-
-# 01 April 2022
-
-# 01 April 2022
-
-# 01 April 2022
-
-# 01 April 2022
-
-# 01 April 2022
-
-# 01 April 2022
-
-# 01 April 2022
-
-# 01 April 2022
-
-# 01 April 2022
-
-# 01 April 2022
 
 # 01 April 2022
 
 # 02 April 2022
+GOP Notes - Component List:
+Dashboard:
+1. card
+2. site staging viewer (nav on left)
+3. nav bar on top right - apart of layout component as well
+4. logo on top left - apart of layout component as well
+5. search bar/filter bar
 
-# 02 April 2022
+Edit Page:
+1. heading
+2. hero + hero's more info section
+3. contact info
+4. location
+5. photo gallery
+6. reviews
+7. horizonal rule (<hr>) and edit button
+8. edit modal
 
-# 02 April 2022
-
-# 02 April 2022
-
-# 02 April 2022
-
-# 02 April 2022
-
-# 02 April 2022
-
-# 02 April 2022
-
-# 02 April 2022
-
-# 02 April 2022
+Preview Page:
+*keep everything the same as the edit page,
+except remove/change components that need it.
+This will include changing the save and publish
+buttons to say "Keep Editing" and "Publish"*
 
 # 02 April 2022
