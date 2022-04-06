@@ -2462,76 +2462,23 @@ Photo gallery:
 
 # 02 April 2022
 
-# 02 April 2022
-
-# 02 April 2022
-
-# 02 April 2022
-
-# 02 April 2022
-
-# 03 April 2022
-
 # 03 April 2022
 
 # 04 April 2022
 
-# 04 April 2022
-
-# 04 April 2022
-
-# 04 April 2022
-
-# 04 April 2022
-
-# 04 April 2022
-
-# 04 April 2022
-
-# 04 April 2022
-
-# 04 April 2022
-
-# 04 April 2022
-
-# 04 April 2022
-
-# 04 April 2022
-
-# 04 April 2022
-
-# 05 April 2022
-
-# 05 April 2022
-
-# 05 April 2022
-
-# 05 April 2022
-
-# 05 April 2022
-
-# 05 April 2022
-
-# 05 April 2022
-
-# 05 April 2022
-
-# 05 April 2022
-
-# 05 April 2022
-
 # 05 April 2022
 
 # 06 April 2022
+good comment on reddit I liked:
+```
+C and C++ are the 2 that come to mind as knowing a systems programming language
+helps. Learning from first principles helps as well.
 
-# 06 April 2022
+Read Code: The Hidden Language of Computer Hardware and Software
 
-# 06 April 2022
+Watch all 41 videos of A Crash Course in Computer Science
 
-# 06 April 2022
+Take the CS50: Introduction to Computer Science course.
 
-# 06 April 2022
-
-# 06 April 2022
-
-# 06 April 2022
+Take the [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer
+```
