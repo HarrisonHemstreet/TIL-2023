@@ -2483,18 +2483,25 @@ Take the CS50: Introduction to Computer Science course.
 Take the [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer
 ```
 
-# 06 April 2022
-
-# 06 April 2022
-
-# 06 April 2022
-
 # 07 April 2022
 
-# 07 April 2022
+what I need to bike to work:
+1. bike
+to wear:
+2. helmet
+3. headlight & bike lights blinking
+4. phone mount/charging??
+5. high viz vest
+to maintain:
+6. chain lube
+transport
+7. bike bag
+8. bike bag mount
 
-# 07 April 2022
-
-# 07 April 2022
+2. 40
+3. 70
+4. 30
+5. 40
+6. 15
 
 # 07 April 2022
