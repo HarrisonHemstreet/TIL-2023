@@ -2513,15 +2513,6 @@ transport
 # 10 April 2022
 
 # 11 April 2022
-
-# 11 April 2022
-
-# 11 April 2022
-
-# 11 April 2022
-
-# 11 April 2022
-
 GOP Notes: 4/11/2022; what I need to get done this week:
 1. tutorial
 2. search
