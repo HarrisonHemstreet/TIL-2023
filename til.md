@@ -2521,120 +2521,16 @@ GOP Notes: 4/11/2022; what I need to get done this week:
 
 # 12 April 2022
 
-# 12 April 2022
-
-# 12 April 2022
-
-# 13 April 2022
-
-# 13 April 2022
-
-# 13 April 2022
-
-# 13 April 2022
-
-# 13 April 2022
-
-# 13 April 2022
-
-# 13 April 2022
-
-# 13 April 2022
-
-# 13 April 2022
-
-# 13 April 2022
-
 # 13 April 2022
 
 # 14 April 2022
 
-# 14 April 2022
-
-# 14 April 2022
-
-# 14 April 2022
-
-# 14 April 2022
-
-# 14 April 2022
-
-# 14 April 2022
-
-# 14 April 2022
-
-# 14 April 2022
-
-# 14 April 2022
-
-# 14 April 2022
-
-# 14 April 2022
-
-# 14 April 2022
-
 # 15 April 2022
-
-# 15 April 2022
-
-# 15 April 2022
-
-# 15 April 2022
-
-# 15 April 2022
-
-# 15 April 2022
-
-# 15 April 2022
-
-# 15 April 2022
-
-# 15 April 2022
-
-# 15 April 2022
-
-# 15 April 2022
-
-# 16 April 2022
-
-# 16 April 2022
 
 # 16 April 2022
 
 # 17 April 2022
 
 # 18 April 2022
-
-# 18 April 2022
-
-# 18 April 2022
-
-# 18 April 2022
-
-# 18 April 2022
-
-# 18 April 2022
-
-# 18 April 2022
-
-# 18 April 2022
-
-# 18 April 2022
-
-# 18 April 2022
-
-# 18 April 2022
-
-# 18 April 2022
-
-# 18 April 2022
-
-# 19 April 2022
-
-# 19 April 2022
-
-# 19 April 2022
-
-# 19 April 2022
 
 # 19 April 2022
