@@ -2553,3 +2553,8 @@ how to change a commit message: `git commit --amend -m "[commit message]"`
 # 27 April 2022
 
 # 28 April 2022
+Rust:
+* variables can either be placed on the stack or the heap. String literals `String::from()`
+will be put on the heap. Integers will be put on the stack. If I want to make a
+copy of a heap variable, I must use the 'clone()' function. If I want to make a
+copy of a stack variable, I do NOT need to use the 'clone()' function.
