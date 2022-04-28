@@ -2536,190 +2536,20 @@ GOP Notes: 4/11/2022; what I need to get done this week:
 # 19 April 2022
 how to change a commit message: `git commit --amend -m "[commit message]"`
 
-# 19 April 2022
-
-# 19 April 2022
-
-# 19 April 2022
-
-# 19 April 2022
-
-# 19 April 2022
-
-# 19 April 2022
-
-# 19 April 2022
-
-# 19 April 2022
-
 # 20 April 2022
-
-# 20 April 2022
-
-# 20 April 2022
-
-# 20 April 2022
-
-# 20 April 2022
-
-# 20 April 2022
-
-# 20 April 2022
-
-# 20 April 2022
-
-# 20 April 2022
-
-# 20 April 2022
-
-# 20 April 2022
-
-# 20 April 2022
-
-# 20 April 2022
-
-# 20 April 2022
-
-# 20 April 2022
-
-# 20 April 2022
-
-# 20 April 2022
-
-# 20 April 2022
-
-# 21 April 2022
-
-# 21 April 2022
-
-# 21 April 2022
-
-# 21 April 2022
-
-# 21 April 2022
-
-# 21 April 2022
-
-# 21 April 2022
-
-# 21 April 2022
-
-# 21 April 2022
 
 # 21 April 2022
 
 # 22 April 2022
-
-# 22 April 2022
-
-# 22 April 2022
-
-# 22 April 2022
-
-# 22 April 2022
-
-# 23 April 2022
-
-# 23 April 2022
-
-# 23 April 2022
-
-# 23 April 2022
-
-# 23 April 2022
-
-# 23 April 2022
-
-# 23 April 2022
-
-# 23 April 2022
 
 # 23 April 2022
 
 # 24 April 2022
 
-# 24 April 2022
-
-# 25 April 2022
-
-# 25 April 2022
-
-# 25 April 2022
-
-# 25 April 2022
-
-# 25 April 2022
-
-# 25 April 2022
-
-# 25 April 2022
-
-# 25 April 2022
-
-# 25 April 2022
-
-# 25 April 2022
-
-# 25 April 2022
-
-# 25 April 2022
-
 # 25 April 2022
 
 # 26 April 2022
 
-# 26 April 2022
-
-# 26 April 2022
-
-# 26 April 2022
-
-# 26 April 2022
-
-# 26 April 2022
-
-# 26 April 2022
-
-# 26 April 2022
-
-# 26 April 2022
-
-# 26 April 2022
-
-# 26 April 2022
-
 # 27 April 2022
-
-# 27 April 2022
-
-# 27 April 2022
-
-# 27 April 2022
-
-# 27 April 2022
-
-# 27 April 2022
-
-# 27 April 2022
-
-# 27 April 2022
-
-# 27 April 2022
-
-# 27 April 2022
-
-# 27 April 2022
-
-# 27 April 2022
-
-# 28 April 2022
-
-# 28 April 2022
-
-# 28 April 2022
-
-# 28 April 2022
-
-# 28 April 2022
 
 # 28 April 2022
