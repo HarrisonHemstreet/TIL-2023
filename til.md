@@ -2560,3 +2560,5 @@ copy of a heap variable, I must use the 'clone()' function. If I want to make a
 copy of a stack variable, I do NOT need to use the 'clone()' function.
 * also, we don't really have shallow and deep copies of data in rust. it's more
 so everything is a shallow copy. Because of this, we call shallow copies 'moves'.
+
+# 28 April 2022
