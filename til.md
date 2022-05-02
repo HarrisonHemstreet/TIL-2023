@@ -2570,3 +2570,5 @@ so everything is a shallow copy. Because of this, we call shallow copies 'moves'
 
 # 02 May 2022
 change invoice templates in the fransystem setting database
+
+# 02 May 2022
