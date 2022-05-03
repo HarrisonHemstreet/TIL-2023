@@ -2580,3 +2580,5 @@ change invoice templates in the fransystem setting database
 # 02 May 2022
 
 # 02 May 2022
+
+# 02 May 2022
