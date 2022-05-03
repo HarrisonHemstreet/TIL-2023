@@ -2572,7 +2572,6 @@ so everything is a shallow copy. Because of this, we call shallow copies 'moves'
 change invoice templates in the fransystem setting database
 
 # 03 May 2022
-
-# 03 May 2022
-
-# 03 May 2022
+How to add custom invoice template:
+```INSERT INTO fransystemsetting (customerid, name, `value`, backend_type, description, editadminlevel, allowOverride)
+VALUES (502, "custom invoice template", "invoice-nexday-502.tpl", 'text', 'Custom Customer Invoice Template Name', 1, 0);```
