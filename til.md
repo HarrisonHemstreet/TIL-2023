@@ -2579,3 +2579,22 @@ VALUES (502, "custom invoice template", "invoice-nexday-502.tpl", 'text', 'Custo
 ```
 
 # 04 May 2022
+RS-8525:
+I am editing these files (probably):
+* ShipmentStore.js (we need to add the checkbox to the request object so we
+can keep track if it's been checked, roughly line 87 (could also be another place))
+* internationalDHL.php (roughly line 1092, we are checking for the insurance amount.
+We should add in a conditional block before this one checking if we have the insurance
+checkbox checked)
+* ? bookShipmentV2Endpoint.php line 107
+* Request_DHL.php (we need to add in the checks for the insurance here, maybe even
+disable the junk for the original insurance amount)
+* Request.php (maybe look into here)
+
+notes:
+follow path of where the request object goes through PHP when someone types in
+an insurance value, we need to also capture if the new checkbox is checked
+when I do edit and reship, the checkbox should load in as either checked or
+unchecked if they want insurance use 'IB' as the accessorial charge in the
+extracharges table. hopefully IB is okay bc if we send them one thing, they 
+should send us something similar if not the same on the response
