@@ -2578,34 +2578,4 @@ INSERT INTO fransystemsetting (customerid, name, `value`, backend_type, descript
 VALUES (502, "custom invoice template", "invoice-nexday-502.tpl", 'text', 'Custom Customer Invoice Template Name', 1, 0);
 ```
 
-# 03 May 2022
-
-# 03 May 2022
-
-# 03 May 2022
-
-# 03 May 2022
-
-# 03 May 2022
-
-# 03 May 2022
-
-# 03 May 2022
-
-# 03 May 2022
-
-# 04 May 2022
-
-# 04 May 2022
-
-# 04 May 2022
-
-# 04 May 2022
-
-# 04 May 2022
-
-# 04 May 2022
-
-# 04 May 2022
-
 # 04 May 2022
