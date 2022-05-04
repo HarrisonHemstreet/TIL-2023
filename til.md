@@ -2598,3 +2598,9 @@ when I do edit and reship, the checkbox should load in as either checked or
 unchecked if they want insurance use 'IB' as the accessorial charge in the
 extracharges table. hopefully IB is okay bc if we send them one thing, they 
 should send us something similar if not the same on the response
+in the DHL request we are going to want a new field that caputrues if the checkbox has been checked
+the total object will be passed to internationalDHL.php as webshiprequest
+bookshipment and quoting
+new accessorial type??? add to everyone in the system? Need to look up the surcharge's record
+make a condition that checks for the checked box. then send response
+$xml->createElementWithValue($specialServices,"SpecialServiceType", "IB");
