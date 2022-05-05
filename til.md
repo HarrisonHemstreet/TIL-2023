@@ -2604,3 +2604,5 @@ bookshipment and quoting
 new accessorial type??? add to everyone in the system? Need to look up the surcharge's record
 make a condition that checks for the checked box. then send response
 $xml->createElementWithValue($specialServices,"SpecialServiceType", "IB");
+
+# 04 May 2022
