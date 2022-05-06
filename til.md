@@ -2605,8 +2605,6 @@ new accessorial type??? add to everyone in the system? Need to look up the surch
 make a condition that checks for the checked box. then send response
 $xml->createElementWithValue($specialServices,"SpecialServiceType", "IB");
 
-# 04 May 2022
-
 # 05 May 2022
 
 # 06 May 2022
