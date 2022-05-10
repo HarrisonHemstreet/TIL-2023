@@ -2617,22 +2617,6 @@ $xml->createElementWithValue($specialServices,"SpecialServiceType", "IB");
 
 # 09 May 2022
 
-# 09 May 2022
-
-# 09 May 2022
-
-# 09 May 2022
-
 # 10 May 2022
-
-# 10 May 2022
-
-# 10 May 2022
-
-# 10 May 2022
-
-# 10 May 2022
-
-# 10 May 2022
-
-# 10 May 2022
+RS-8525: the issue I was having with the insurance amount can be traced back to
+Surcharge.php line 169. We are dividing an empty string by 100
