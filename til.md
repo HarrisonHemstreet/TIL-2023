@@ -2611,39 +2611,9 @@ $xml->createElementWithValue($specialServices,"SpecialServiceType", "IB");
 
 # 06 May 2022
 
-# 06 May 2022
-
-# 06 May 2022
-
-# 06 May 2022
-
-# 06 May 2022
-
-# 06 May 2022
-
-# 07 May 2022
-
-# 07 May 2022
-
 # 07 May 2022
 
 # 08 May 2022
-
-# 08 May 2022
-
-# 09 May 2022
-
-# 09 May 2022
-
-# 09 May 2022
-
-# 09 May 2022
-
-# 09 May 2022
-
-# 09 May 2022
-
-# 09 May 2022
 
 # 09 May 2022
 
