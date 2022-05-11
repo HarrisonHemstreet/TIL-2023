@@ -2621,4 +2621,23 @@ $xml->createElementWithValue($specialServices,"SpecialServiceType", "IB");
 RS-8525: the issue I was having with the insurance amount can be traced back to
 Surcharge.php line 169. We are dividing an empty string by 100
 
+GOP:
+Stuff we still need to do:
+Edit page:
+1. sub heading nav bar
+2. promos section (we need to add promos to the JSON if not there already)
+3. Hours and into section (final touches)
+4. description section
+5. gallery section (carosel)
+6. map/directions section
+7. reviews section
+8. edit buttons
+9. save & exit button
+10. rewind and forward buttons
+
+Dashboard:
+1. make sure that when we get many microsites loaded in, the cards flow correctly
+2. hook up the nav bar buttons so they work
+3. final touches on the site view
+
 # 10 May 2022
