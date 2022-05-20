@@ -2664,65 +2664,7 @@ that the tags present'. ALSO, go further. Look through the code and understand
 how the code paths have changed. Have at least one instruction for every if
 statement. The testing notes should include all the jist and stuff.
 
-# 17 May 2022
-
-# 17 May 2022
-
-# 17 May 2022
-
 # 18 May 2022
-
-# 18 May 2022
-
-# 18 May 2022
-
-# 18 May 2022
-
-# 18 May 2022
-
-# 18 May 2022
-
-# 18 May 2022
-
-# 18 May 2022
-
-# 18 May 2022
-
-# 18 May 2022
-
-# 18 May 2022
-
-# 18 May 2022
-
-# 18 May 2022
-
-# 19 May 2022
-
-# 19 May 2022
-
-# 19 May 2022
-
-# 19 May 2022
-
-# 19 May 2022
-
-# 19 May 2022
-
-# 19 May 2022
-
-# 19 May 2022
-
-# 19 May 2022
-
-# 19 May 2022
-
-# 19 May 2022
-
-# 19 May 2022
-
-# 19 May 2022
-
-# 19 May 2022
 
 # 19 May 2022
 docker-compose -f docker-compose-mock.yml down
@@ -2734,11 +2676,5 @@ docker volume prune
 docker-compose -f docker-compose-mock.yml up -d
 
 docker-compose -f docker-compose-mock.yml logs -f
-
-# 19 May 2022
-
-# 20 May 2022
-
-# 20 May 2022
 
 # 20 May 2022
