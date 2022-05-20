@@ -2725,3 +2725,14 @@ statement. The testing notes should include all the jist and stuff.
 # 19 May 2022
 
 # 19 May 2022
+docker-compose -f docker-compose-mock.yml down
+
+docker system prune
+
+docker volume prune
+
+docker-compose -f docker-compose-mock.yml up -d
+
+docker-compose -f docker-compose-mock.yml logs -f
+
+# 19 May 2022
