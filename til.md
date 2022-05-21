@@ -2680,16 +2680,4 @@ docker-compose -f docker-compose-mock.yml logs -f
 In order to run the zoho server locally and not in a docker container, I need to
 up the docker container for pg_db and then 
 
-# 20 May 2022
-
-# 20 May 2022
-
-# 20 May 2022
-
-# 20 May 2022
-
-# 20 May 2022
-
-# 20 May 2022
-
 # 21 May 2022
