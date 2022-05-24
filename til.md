@@ -2688,5 +2688,13 @@ up the docker container for pg_db and then
 
 # 24 May 2022
 
-1. description that helps to understand context. should know exactly what is going on just with the description
-11. testing instructions. I had decent notes. I described the replication notes. I also used the should word which is good. Basically right test cases (kinda like in jest) but make them sound like english. Verify that x happens when a, b c is present.  but the other way around. 'click on the ship tab and verify that the tags present'. ALSO, go further. Look through the code and understand how the code paths have changed. Have at least one instruction for every if statement. The testing notes should include all the jist and stuff.
+How to make good testing instructions
+1. description that helps to understand context. should know exactly what is
+going on just with the description
+2. testing instructions. I had decent notes. I described the replication notes.
+I also used the should word which is good. Basically right test cases (kinda
+like in jest) but make them sound like english. Verify that x happens when
+a, b c is present.  but the other way around. 'click on the ship tab and verify
+that the tags present'. ALSO, go further. Look through the code and understand
+how the code paths have changed. Have at least one instruction for every if
+statement. The testing notes should include all the jist and stuff.
