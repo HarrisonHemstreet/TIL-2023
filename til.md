@@ -2712,18 +2712,3 @@ statement. The testing notes should include all the jist and stuff.
 # 27 May 2022
 
 # 28 May 2022
-hi
-
-# 28 May 2022
-
-# 28 May 2022
-
-# 28 May 2022
-
-# 28 May 2022
-
-# 28 May 2022
-
-# 28 May 2022
-
-# 28 May 2022
