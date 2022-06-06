@@ -2736,3 +2736,5 @@ the entire loop individually instead of having that nested behavior I'm looking 
 now I gotta figure out how to do this problem faster without using nested loops...
 
 # 05 June 2022
+
+# 06 June 2022
