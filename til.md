@@ -2728,6 +2728,11 @@ statement. The testing notes should include all the jist and stuff.
 # 05 June 2022
 1. High Availability Systems
 
-# 05 June 2022
+Rust:
+If I want to nest for loops, perhaps the best option would be to use `for ... in`.
+I tried just using while loops and loops, but they have the issue of finishing out
+the entire loop individually instead of having that nested behavior I'm looking for.
+
+now I gotta figure out how to do this problem faster without using nested loops...
 
 # 05 June 2022
