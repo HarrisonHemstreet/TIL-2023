@@ -2739,3 +2739,5 @@ now I gotta figure out how to do this problem faster without using nested loops.
 
 ... and I figured it out! I needed to use a HashMap (Rust), which is also refered
 to as an object in other languages like JavaScript.
+
+# 06 June 2022
