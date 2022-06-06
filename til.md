@@ -2735,6 +2735,7 @@ the entire loop individually instead of having that nested behavior I'm looking 
 
 now I gotta figure out how to do this problem faster without using nested loops...
 
-# 05 June 2022
-
 # 06 June 2022
+
+... and I figured it out! I needed to use a HashMap (Rust), which is also refered
+to as an object in other languages like JavaScript.
