@@ -2740,8 +2740,16 @@ now I gotta figure out how to do this problem faster without using nested loops.
 ... and I figured it out! I needed to use a HashMap (Rust), which is also refered
 to as an object in other languages like JavaScript.
 
-# 06 June 2022
+notes:
+* tail 
+* key process indicators
+* metrics are ways we use to 
+* apache pulsar
+* jenkins
+* need some set of tools that automatically deploy and take care of cloud infrastructure
+* behavior driven testing (like Java's Spock)
+* load testing tools, you need to make sure that your services are scaleable
 
-# 06 June 2022
+
 
 # 06 June 2022
