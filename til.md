@@ -2750,32 +2750,6 @@ notes:
 * behavior driven testing (like Java's Spock)
 * load testing tools, you need to make sure that your services are scaleable
 
-
-
 # 06 June 2022
-
-# 06 June 2022
-
-# 06 June 2022
-
-# 06 June 2022
-
-# 06 June 2022
-
-# 06 June 2022
-
-# 06 June 2022
-
-# 06 June 2022
-
-# 06 June 2022
-
-# 06 June 2022
-
-# 07 June 2022
-
-# 07 June 2022
-
-# 07 June 2022
 
 # 07 June 2022
