@@ -2761,5 +2761,10 @@ I'm really hoping that I don't need to do this other jazz or anything yaya
 # 07 June 2022
 
 # 08 June 2022
-1. What is a Woman definition
-2. 
+1. Matt Walsh seems to have antogonistic intensions. The air of bad intensions
+leaves the target of the question "What is a woman?" with a confrontational/suggestive
+feeling
+2. Mat Walsh said he writes books
+3. 
+
+# 09 June 2022
