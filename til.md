@@ -2769,18 +2769,9 @@ feeling
 
 # 09 June 2022
 
-# 09 June 2022
-
-# 09 June 2022
-
-# 09 June 2022
-
-# 09 June 2022
-
-# 09 June 2022
-
-# 09 June 2022
-
-# 09 June 2022
-
 # 10 June 2022
+If anyone wants to get a hold of Karthik Rajendran (Descartes IT guy helping
+everyone get set up), you can call this number: (877) 786-9339. The AI will ask
+you to say who you are trying to contact. Don't bother trying to say his name.
+Instead, feed in this extension: 208305. You will then be routed directly to
+Karthik's phone.
