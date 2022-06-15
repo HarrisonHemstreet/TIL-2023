@@ -3470,49 +3470,463 @@ cited directly because of how large of a claim this is. And the use of 'probably
 when referencing a study? You want to talk about bad science? using the word
 'probably' in a coloquiol way like so is just bad writing.
 ```
-One of the most important reasons why some adolescents were able to access the hormone therapies while others could not is that parental consent is often, though not always, required to get these drugs. As is well known from research on gender-confused youth, as well as more generally, closer and more positive relationships between children and parents promote mental well-being and is protective against suicide.
+One of the most important reasons why some adolescents were able to access the
+hormone therapies while others could not is that parental consent is often,
+though not always, required to get these drugs. As is well known from research
+on gender-confused youth...
+```
+again, the use of 'gender-confused' is highly subjective. The author needs to
+define such terms. Classically, 'gender-confused' has been linked to not following
+gender stereotypes within children (like boys playing with dolls). This behavior
+is almost always grown out of. This behavior is NOT being trans. It's something
+else entirely. A complete conflation of terms. Due to this conflation, the author
+is either uneducated on these details, or the author is dishonest.
 
-The problem, then, with the Turban study, is that it is impossible to know whether the reduced odds of contemplating suicide among adults who sought and received hormone therapy as children were a result of the relationship with their parents who gave consent for this intervention or a result of the intervention itself. If a close and positive relationship between parents and children struggling with gender identity is the key to successful outcomes for those adolescents, then the hormones themselves might make no difference, or even be harmful. But that effect would be masked by the kind of parent–child relationship that exists when parents are more likely to consent.
+```
+...as well as more generally, closer and more positive relationships between
+children and parents promote mental well-being and is protective against suicide.
 
-Turban’s own data show enormous differences in relationships between children and parents among those who obtained the hormones and those who did not, despite desiring them. Of those who were unable to get the hormones, 35 percent had not “come out” to their parents, compared to 3 percent among those who obtained hormones at ages 14 and 15, and 4 percent among those who obtained hormones at ages 16 and 17. Among those who got the hormones as teenagers, nearly 80 percent reported feeling supported by their parents, compared to 33 percent of those who were unable to get the drugs.
+The problem, then, with the Turban study, is that it is impossible to know
+whether the reduced odds of contemplating suicide among adults who sought and
+received hormone therapy as children were a result of the relationship with
+their parents who gave consent for this intervention or a result of the
+intervention itself.
+```
+Yeah, I agree with that. It's impossible to really know. However, I disagree with
+the subtext from the author and the tone he is taking. The author is subtexually
+arguing that because the study cannot be supported by an RCT, that being trans
+is either dangerous or wrong and that it's corrupting the youth.
+```
+If a close and positive relationship between parents and children struggling
+with gender identity is the key to successful outcomes for those adolescents,
+then the hormones themselves might make no difference, or even be harmful.
+But that effect would be masked by the kind of parent–child relationship that
+exists when parents are more likely to consent.
+```
+I pretty much agree with this, but again, the bad-faith subtext wrong.
 
-Turban attempts to control statistically for these reported differences, but that adjustment cannot fully fix the bias, especially when the differences between the groups being compared are so stark and when the measures of parent–child relationship are imprecise. This would be like trying to adjust for the effects of family income during childhood knowing only whether someone reports having felt poor. Memories are imperfect, and simply dividing people into poor and not-poor categories fails to capture the difference between the children of billionaires and those raised in public housing projects. Adolescents who can get their parents’ consent for hormone therapy have dramatically different relationships with their parents than those who cannot, and that difference in relationship can affect mental health later in life, even if the hormones themselves have no benefit, or are harmful.
+```
+Turban’s own data show enormous differences in relationships between children
+and parents among those who obtained the hormones and those who did not,
+despite desiring them. Of those who were unable to get the hormones, 35 percent
+had not “come out” to their parents, compared to 3 percent among those who
+obtained hormones at ages 14 and 15, and 4 percent among those who obtained
+hormones at ages 16 and 17. Among those who got the hormones as teenagers,
+nearly 80 percent reported feeling supported by their parents, compared to 33
+percent of those who were unable to get the drugs.
 
-Another important factor that determines whether young people get cross-sex hormones is their psychological condition when they are seeking that intervention. According to guidelines issued by WPATH, a key condition for prescribing cross-sex hormones is that “any coexisting psychological, medical, or social problems that could interfere with treatment (e.g., that may compromise treatment adherence) have been addressed, such that the adolescent’s situation and functioning are stable enough to start treatment.”28
-Eli Coleman et al., “Standards of Care for the Health of Transsexual, Transgender, and Gender-Nonconforming People, Version 7,” International Journal of Transgenderism, Vol. 13, No. 4 (2012), p. 19, https://www.tandfonline.com/doi/abs/10.1080/15532739.2011.700873 (accessed May 26, 2022).
+Turban attempts to control statistically for these reported differences, but
+that adjustment cannot fully fix the bias, especially when the differences between
+the groups being compared are so stark and when the measures of parent–child
+relationship are imprecise. This would be like trying to adjust for the effects
+of family income during childhood knowing only whether someone reports having
+felt poor. Memories are imperfect, and simply dividing people into poor and
+not-poor categories fails to capture the difference between the children of
+billionaires and those raised in public housing projects. Adolescents who can
+get their parents’ consent for hormone therapy have dramatically different
+relationships with their parents than those who cannot, and that difference
+in relationship can affect mental health later in life, even if the hormones
+themselves have no benefit, or are harmful.
+```
+Yeah I pretty much agree, though the money analogy was dumb.
 
- The difference between those who desired hormone therapy and received it and those who sought it but were unable to receive it could be the state of their mental health at the time they tried to get the drugs.
+```
+Another important factor that determines whether young people get cross-sex
+hormones is their psychological condition when they are seeking that intervention.
+According to guidelines issued by WPATH, a key condition for prescribing
+cross-sex hormones is that “any coexisting psychological, medical, or social
+problems that could interfere with treatment (e.g., that may compromise
+treatment adherence) have been addressed, such that the adolescent’s situation
+and functioning are stable enough to start treatment.”
+(28 Eli Coleman et al., “Standards of Care for the Health of Transsexual, Transgender, and Gender-Nonconforming People, Version 7,” International Journal of Transgenderism, Vol. 13, No. 4 (2012), p. 19, https://www.tandfonline.com/doi/abs/10.1080/15532739.2011.700873 (accessed May 26, 2022).)
 
-The Turban study lacks information on, and therefore cannot make any statistical adjustments for, the mental health at the time the subjects sought hormone therapy. The respondents who were unable to get hormone therapy despite saying they wanted it may have worse mental health outcomes because they began with more severe psychological issues that prevented them from obtaining the hormones. The pre-existing mental health challenges could be the cause of later outcomes, not whether they received the hormones.
+The difference between those who desired hormone therapy and received it and
+those who sought it but were unable to receive it could be the state of their
+mental health at the time they tried to get the drugs.
+```
+Again, this is heresay. The author is making the argument that trans youth are
+mentally unstable which is extreamly biased to say, especially because this statemnet
+is 100% conjecture. I would hope that the reader is able to understand the
+saturated bias in this article, but perhaps the reader is still reading this due
+to bias confirmation themselves.
 
-The inability to sort out this kind of uncertainty about what is causing differences in mental health outcomes is inherent in the correlational research design employed by Turban and his colleagues. These same concerns apply to an earlier study by Turban and his colleagues published in Pediatrics in 2020. This study examines the relationship between puberty blockers and later mental health outcomes and relies on the same correlational research design to analyze data from the same survey as the cross-sex hormone study.29
-Jack L. Turban et al., “Pubertal Suppression for Transgender Youth and Risk of Suicidal Ideation,” Pediatrics, Vol. 145, No. 2 (February 2020), p. e20191725, https://doi.org/10.1542/peds.2019-1725 (accessed May 26, 2022).
+```
+The Turban study lacks information on, and therefore cannot make any statistical
+adjustments for, the mental health at the time the subjects sought hormone therapy.
+The respondents who were unable to get hormone therapy despite saying they wanted
+it may have worse mental health outcomes because they began with more severe
+psychological issues that prevented them from obtaining the hormones.
+The pre-existing mental health challenges could be the cause of later outcomes,
+not whether they received the hormones.
+```
+again, even more heresay.
 
- The use of a correlational research design also makes it impossible to draw causal conclusions from a study by Amy Green and colleagues that analyzes the mental health effects of adolescents receiving cross-sex hormones based on data from a different survey.30
-Amy E. Green et al., “Association of Gender-Affirming Hormone Therapy with Depression, Thoughts of Suicide, and Attempted Suicide Among Transgender and Nonbinary Youth,” Journal of Adolescent Health, Vol. 70, No. 4 (April 2022), pp. 643–649, https://doi.org/10.1016/j.jadohealth.2021.10​.036 (accessed May 26, 2022).
+```
 
+The inability to sort out this kind of uncertainty about what is causing
+differences in mental health outcomes is inherent in the correlational research
+design employed by Turban and his colleagues. These same concerns apply to an
+earlier study by Turban and his colleagues published in Pediatrics in 2020.
+This study examines the relationship between puberty blockers and later mental
+health outcomes and relies on the same correlational research design to analyze
+data from the same survey as the cross-sex hormone study.
+(29 Jack L. Turban et al., “Pubertal Suppression for Transgender Youth and Risk of Suicidal Ideation,” Pediatrics, Vol. 145, No. 2 (February 2020), p. e20191725, https://doi.org/10.1542/peds.2019-1725 (accessed May 26, 2022).)
 
+The use of a correlational research design also makes it impossible to draw
+causal conclusions from a study by Amy Green and colleagues that analyzes the
+mental health effects of adolescents receiving cross-sex hormones based on data
+from a different survey.
+(30 Amy E. Green et al., “Association of Gender-Affirming Hormone Therapy with Depression, Thoughts of Suicide, and Attempted Suicide Among Transgender and Nonbinary Youth,” Journal of Adolescent Health, Vol. 70, No. 4 (April 2022), pp. 643–649, https://doi.org/10.1016/j.jadohealth.2021.10​.036 (accessed May 26, 2022).)
 
-The two studies led by Turban, and the one led by Green, are the only three studies that examine the relationship between cross-sex medical interventions by teenagers and suicide risks that make any use of a comparison group. As the 2020 Turban study describes itself, “This is the first study in which associations between access to pubertal suppression and suicidality are examined.”31
-Turban et al., “Pubertal Suppression for Transgender Youth and Risk of Suicidal Ideation.”
+```
+I feel like the author is repeating himself at this point.
 
- The 2022 Turban study observes that there have been six studies that track the mental health outcomes of teens who received hormone treatments, but emphasizes that “these studies did not include a comparison group of adolescents who did not access GAH [gender affirming hormones].”32
-Turban et al., “Access to Gender-Affirming Hormones During Adolescence and Mental Health Outcomes Among Transgender Adults.”
+```
+The two studies led by Turban, and the one led by Green, are the only three
+studies that examine the relationship between cross-sex medical interventions
+by teenagers and suicide risks that make any use of a comparison group. As the
+2020 Turban study describes itself, “This is the first study in which
+associations between access to pubertal suppression and suicidality are examined.”
+(31 Turban et al., “Pubertal Suppression for Transgender Youth and Risk of Suicidal Ideation.”)
 
- Studies that track adolescents who receive these medical interventions are even weaker than correlational studies in their ability to draw causal conclusions about the effects of those interventions, because they have no information on how those individuals would have fared had they not received the interventions.
+The 2022 Turban study observes that there have been six studies that track the
+mental health outcomes of teens who received hormone treatments, but emphasizes
+that “these studies did not include a comparison group of adolescents who did
+not access GAH [gender affirming hormones].”
+(32 Turban et al., “Access to Gender-Affirming Hormones During Adolescence and Mental Health Outcomes Among Transgender Adults.”)
 
-The prior research on this subject is not only weak because it contains no credibly causal studies and only a handful of correlational studies, but also because those correlational studies are poorly executed. For example, the 2022 Turban study combines the use of testosterone for natal females and estrogen for natal males and only reports the combined effects of hormones. When Michael Biggs analyzes the same data and disaggregates the hormone by type, he finds that: “Males who took estrogen are more likely to plan suicide, to attempt suicide, and to require hospitalization for a suicide attempt.”33
-Michael Biggs, “Comment on Turban et al. 2022: Estrogen Is Associated with Greater Suicidality Among Transgender Males, and Puberty Suppression Is Not Associated with Better Mental Health Outcomes for Either Sex,” figshare, journal contribution, 2022, https://doi.org/10.6084/m9.figshare​.19018868.v1 (accessed May 27, 2022).
+Studies that track adolescents who receive these medical interventions are even
+weaker than correlational studies in their ability to draw causal conclusions
+about the effects of those interventions, because they have no information on
+how those individuals would have fared had they not received the interventions.
 
- This negative effect is masked in Turban’s study by the failure to report the separate effects by type of hormone.
+The prior research on this subject is not only weak because it contains no
+credibly causal studies and only a handful of correlational studies, but also
+because those correlational studies are poorly executed. For example, the 2022
+Turban study combines the use of testosterone for natal females and estrogen
+for natal males and only reports the combined effects of hormones. When Michael
+Biggs analyzes the same data and disaggregates the hormone by type, he finds
+that: “Males who took estrogen are more likely to plan suicide, to attempt
+suicide, and to require hospitalization for a suicide attempt.”
+(33 Michael Biggs, “Comment on Turban et al. 2022: Estrogen Is Associated with Greater Suicidality Among Transgender Males, and Puberty Suppression Is Not Associated with Better Mental Health Outcomes for Either Sex,” figshare, journal contribution, 2022, https://doi.org/10.6084/m9.figshare​.19018868.v1 (accessed May 27, 2022).)
+```
+this last statement is still conjecture. see the previous arguments I've made
+above...
 
-Similarly, the 2022 Turban study finds that 16- and 17-year-olds who received hormones were more than twice as likely to report a “past-year suicide attempt requiring inpatient hospitalization,” but that finding fails to achieve statistical significance by setting the standard for significance higher than is conventional.34
-Turban et al., “Access to Gender-Affirming Hormones During Adolescence and Mental Health Outcomes Among Transgender Adults.”
+```
+This negative effect is masked in Turban’s study by the failure to report the
+separate effects by type of hormone.
 
- Only by adopting a standard for statistical significance that is different from the one more commonly used in empirical research does the study avoid concluding that this significant harm from hormone therapy exists.
+Similarly, the 2022 Turban study finds that 16- and 17-year-olds who received
+hormones were more than twice as likely to report a “past-year suicide attempt
+requiring inpatient hospitalization,” but that finding fails to achieve
+statistical significance by setting the standard for significance higher than is
+conventional.
+(34 Turban et al., “Access to Gender-Affirming Hormones During Adolescence and Mental Health Outcomes Among Transgender Adults.”)
+```
+Okay, so here's another dishonest take from our dear author here: If the author's
+point is that this study is unreliable, then leave it at that. If the author is
+then going to use the same study he fought to discredit by using it to prove a
+point that he wants to be proven, then that's just crazy. I know that he is saying
+that the data collection is wrong as a whole (which I don't disagree with),
+but to then turn around and point at a line in the same study to prove a point
+that the author wants proven- is just flat out silly and receives another mark
+of dishonesty.
 
-The two Turban studies do not consistently use the same set of control variables when generating their adjusted-odds ratio, even changing what is controlled when analyzing different outcomes within the same study. The two Turban studies also change the main outcome of interest from lifetime suicidal ideation in the study on puberty blockers to suicidal ideation in the last 12 months in the study on hormones. Researchers should determine which confounding variables to control and which outcome variable to examine in their statistical models based on sound theory and prior empirical research, and then consistently apply those decisions, especially within the same study. Changing which factors are controlled in the statistical analysis of each outcome variable, as well as which outcome on which to focus, opens the door to p-hacking, the process of changing empirical models in an ad hoc fashion to yield desired, though likely spurious, results.
+```
+Only by adopting a standard for statistical significance that is different from
+the one more commonly used in empirical research does the study avoid
+concluding that this significant harm from hormone therapy exists.
+```
+and again we find more toxic subtext...
+```
+The two Turban studies do not consistently use the same set of control
+variables when generating their adjusted-odds ratio, even changing what is
+controlled when analyzing different outcomes within the same study. The two
+Turban studies also change the main outcome of interest from lifetime suicidal
+ideation in the study on puberty blockers to suicidal ideation in the last 12
+months in the study on hormones. Researchers should determine which confounding
+variables to control and which outcome variable to examine in their statistical
+models based on sound theory and prior empirical research, and then consistently
+apply those decisions, especially within the same study. Changing which factors
+are controlled in the statistical analysis of each outcome variable, as well
+as which outcome on which to focus, opens the door to p-hacking, the process
+of changing empirical models in an ad hoc fashion to yield desired, though
+likely spurious, results.
 
-The bottom line is that the most influential recent research on the relationship between adolescent cross-sex interventions and later mental health outcomes, including suicide risk, does not provide convincing evidence. Only a small number of studies make comparisons to a control group—and those studies employ correlational research designs that do not allow causal conclusions, nor have those correlational studies been conducted properly.
+The bottom line is that the most influential recent research on the relationship
+between adolescent cross-sex interventions and later mental health outcomes, 
+including suicide risk, does not provide convincing evidence. Only a small
+number of studies make comparisons to a control group—and those studies employ
+correlational research designs that do not allow causal conclusions, nor have
+those correlational studies been conducted properly.
+```
+thank you for reaching a bottom line. At this point, I think my point has been
+made in reference to the author's commentary on this study.
+
+```
+A Better Research Approach
+Of all the adolescents who seek medical interventions for gender issues, there
+are reasons why some receive interventions while others do not. The defect of
+correlational research designs is that they cannot separate the effects of
+those reasons from the effects of the interventions themselves. A better
+research design would be built around the reasons why some do and others do not
+get the intervention, which have nothing to do with possible later outcomes.
+The gold standard of research designs is the RCT because then only chance
+determines whether some people get the treatment, not a factor that could be
+related to later outcomes.
+```
+WAIT WHAT!??? My man is litterally arguing for an RCT to happen in order to test
+suicide rist????? The author has clearly never once taken a second to think about
+bioethics. Even I, a person who hasn't taken a biology class since 6 years ago,
+knows that it is extreamly unethical to perform a test like this.
+
+```
+Short of using lotteries to determine who gets the intervention, there are
+quasi-experiments or natural policy experiments, (35 A natural policy experiment
+occurs when there is variation in policies across states or localities for
+reasons that are unrelated to outcomes being compared. This “exogenous”
+variation in state policies approximates a randomized experiment. While states
+or localities do not adopt different policies by random assignment, the
+variation is effectively random for the purposes of comparing the effects of
+those policies on a particular outcome.) whereby the reason people, whether
+adults or minors, can or cannot get the intervention is determined primarily by
+policies that were adopted for reasons that have nothing to do with the later
+outcomes of treated individuals. This circumstance approximates a randomized
+experiment. By chance, some find themselves living under rules that allow them
+to access treatment, while others find themselves under different rules that
+do not allow them to do so.
+
+There exists a natural policy experiment of this type with respect to the
+ability of minors to access gender-related medical interventions without their
+parents’ consent. As described above, some states have policies that provide a
+path by which minors can access routine medical care without the consent of a
+parent, while other states do not. These policies were developed for reasons
+that have nothing to do with gender identity. Whether adolescents live in a
+state that imposes fewer or no restrictions on accessing puberty blockers and
+cross-sex hormones is effectively random and should have nothing to do with
+later outcomes other than through the mechanism of receiving those interventions
+or not.
+```
+The author essentially states here that if a law was passed many years ago that
+has nothing to do with the issue at hand, then there will be no effect of that
+law on an individual today. This is completely incoherit. If this is the belief
+the author holds, then I can only assume that the author does not believe that
+history affect the modern day. Of course if there is a law which prevents access
+to medical care by indivduals is going to affect the individual who either can
+or cannot recieve gender-affirming procedures. And if we take a look at that
+history of states rejecting medical care to minors, we must also learn of the
+reasons why. We must know why a basic human right is being prevented from being
+extended to children. Is it because corporations sit in the pocket of those who
+govern in these states? Is there a correlation between states who are
+trans-friendly and those states who do extend medical care to minors? Is there a
+correlation of the inverse? I don't know the answer to these questions, but these
+are questions none the less, and where there are doubtful questions, there are
+confounding variabls that must be accounted for. Waving ones hand and dismissing
+the history of these laws is an extreamly silly thing to do, and I would hope that
+the audience can see this clearly for what the author is doing here. Yet another
+mark of dishonesty.
+
+```
+The analysis presented in this Backgrounder exploits this natural policy
+experiment to compare suicide rates over time among those ages 12 to 23 in
+states that have a provision allowing minors to access health care without
+parental consent relative to states that have no such provision. Annual suicide
+rates by age and state between 1999 and 2020 were obtained from the National
+Center for Injury Prevention and Control at the Centers for Disease Control and
+Prevention.
+(36 Centers for Disease Control and Prevention, “WISQARS—Web-Based Injury Statistics Query and Reporting System,” December 2, 2021, https://www​.cdc.gov/injury/wisqars/index.html (accessed May 26, 2022). Note: “The data source for WISQARS Fatal Injury Data is the National Vital Statistics System (NVSS) operated by the National Center for Health Statistics. WISQARS provides death counts and death rates for the United States and by state, county, age, race, Hispanic ethnicity, sex, leading cause of death, injury intent, and injury mechanism categories. WISQARS can be used to query death data for the years 1999–2020, of which the underlying cause of death is specified using ICD-10 codes.” See Centers for Disease Control and Prevention, “WISQARS, Leading Causes of Death Visualization Tool,” https://wisqars.cdc.gov/DataRestriction_inj.html (accessed May 31, 2022).)
+
+Information on whether states had policies allowing minors to access routine
+health care without parental consent was obtained from SchoolHouse Connection,
+an organization focused on caring for homeless youth.
+(37 “State Laws on Minor Consent for Routine Medical Care,” SchoolHouse Connection.)
+```
+so when the author goes through the previous Turban study, he reiterates over and
+over again that correlative observation studies are not reliable. The author then turns around and
+says 'the better research approach' is to use a correlative observation study
+inspecting suicide and parental care? Like what the heck? Is this guy high?
+There is zero consistency here! HAHHAHAHA
+
+```
+The analysis presented here uses a statistical model to predict the suicide
+rate among those ages 12 to 23 in each state between 1999 and 2020. The analysis
+focuses on this age range because it encompasses a consistent age group of those
+who could have entered puberty between 2010 and 2020 when puberty blockers and
+cross-sex hormones became available as a gender-related treatment in the United
+States. To control for the possibility that there are enduring cultural, religious,
+or other state-specific features that account for why some states have higher
+suicide rates among young people than other states, the model controls for
+average suicide rates in this age group in each state at baseline (during the
+first three years observed).
+
+To control for the possibility that there are state-specific factors that
+account for why some states may generally experience changes in annual suicide
+rates, the model also controls for the suicide rate in each state in each year
+among those ages 28 to 39. The Heritage model controls for the suicide rate
+among that age group because it is a consistent age group in which no one would
+have been a minor in 2010 when puberty blockers and cross-sex hormones became
+available in the U.S. Because even the 28-year-olds in 2020 would have been 18
+in 2010, none of them would be affected by variation in state policies
+regulating the ability of minors to receive health care without parental consent
+when these medical interventions began to be used.
+```
+What? GnRH has been used in the US since 1983: https://www.annualreviews.org/doi/10.1146/annurev.me.34.020183.002423
+
+```
+The model also includes an indicator variable for each year between 1999 and
+2020 to control for any year-specific national changes in suicide rates. And,
+because there may be correlations between the suicide rates within each state
+across the years examined, the model clusters the standard error estimates by
+state.
+
+The independent variable of interest is a dichotomous measure of whether the
+state has a policy that allows minors to access health care without parental
+consent. If making it easier for minors to access puberty blockers and cross-sex
+hormones is protective against suicide, one should expect the frequency of youth
+suicide to be lower in states that have a provision allowing minors to get
+these drugs without parental consent after 2010. There should be no difference
+in trends in the suicide rate among young people based on whether states have a
+provision allowing minors to access health care without parental consent before
+2010. If Turban and his colleagues are correct, the trends between these two
+groups of states should diverge after 2010 as cross-sex interventions became
+more widely available.
+```
+Okay, this study is just flat out stupid. By that logic, the states that have
+historically the closest families despite trans populations, should be the states
+that have the lowest rates of suicide-- but guess what? That's not how this works.
+Utah is #9 out of all the states in highest suicide rates. Conversly, Utah is #46
+in trans population. If having a strong family and community is the answer to
+suicide, then Utah should not be as high as it is. Most of the population is LDS
+and as you drive through the state, temples and meeting houses are a dime a dozen.
+https://splinternews.com/heres-how-many-transgender-people-live-in-your-state-1793860300
+https://www.cdc.gov/suicide/suicide-rates-by-state.html
+
+```
+The trends are modeled statistically in a few ways. The most precise approach
+is to examine whether the suicide rate among young people is elevated as those
+interventions become more widely available in the states where it is easier for
+minors to access them. The model uses the prevalence of gender-related medical
+terms in Google Trends as a proxy for how widely available those interventions
+are over time.
+```
+Okay, STOP! Google Trends is NOT RELIABLE! It's a black box. We don't know any
+numbers behind Google Trends! This article has itself stated this. Any 'study'
+that uses Google Trends is DISHONEST in the highest degreee.
+
+```
+Another approach would be to model the increased suicide rate in states where
+minors can access health care without parental consent over time. This could be
+done by including in the model an “interaction” variable that estimates the
+effect of whether states have a provision for minors accessing health care
+without parental consent each year separately. This variable would estimate the
+difference in youth suicide rates between states based on whether they have such
+a policy for each year between 1999 and 2020.
+
+Yet another way to model the trend over time would be to estimate the combined
+effect of whether states have a policy along with a time variable that counts
+the number of years since 1999. This approach would identify any extant linear
+trend across time that differs between the two groups of states. It would also
+be possible to determine whether the two groups of states differ in their level
+or trend in youth suicide rates before and after 2010, when puberty blockers
+and cross-sex hormones become available.
+
+The results remain substantively the same in their general magnitude, direction,
+and statistical significance regardless of the approach.
+
+The Results
+In the past several years, the suicide rate among those ages 12 to 23 has become
+significantly higher in states that have a provision that allows minors to receive
+routine health care without parental consent than in states without such a provision.
+Before 2010, these two groups of states did not differ in their youth suicide rates.
+Starting in 2010, when puberty blockers and cross-sex hormones became widely
+available, elevated suicide rates in states where minors can more easily access
+those medical interventions became observable.
+
+Rather than being protective against suicide, this pattern indicates that easier
+access by minors to cross-sex medical interventions without parental consent is
+associated with higher risk of suicide. The Heritage model plotted the difference
+in a three-year rolling average of suicide rates between states with minor access
+provisions and states with no such provision. Chart 2 plots the trend in this
+difference for those ages 12 to 23 who could have been affected by the policy
+when cross-sex medical interventions became available. For comparison, Chart 2
+also shows the trend in this difference for a group ages 28 to 39, who could not
+have been affected by these policies, since the people in this group would have
+been at least 18 when puberty blockers and cross-sex hormones became available.
+
+Without making any adjustments, suicide rates among those ages 12 to 23 (blue
+line) begin to spike in states that have provisions that allow minors to access
+health care without parental consent relative to states that have no such provision
+around 2016, after cross-sex medical interventions became more common. By 2020,
+there are about 3.5 more suicides per 100,000 people ages 12 to 23 in states with
+easier access than in states without an access provision. There is no similar
+spike in suicide rates among those ages 28 to 39 (grey line) at that time.
+
+It is also clear that the states with a provision always had somewhat higher
+suicide rates than the states with no provision. To isolate the effect of this
+provision on youth suicide rates, it is better to control statistically for the
+youth suicide rate in each state at baseline as well as the suicide rate in each
+state in each year among the older and unaffected age group.
+
+Making these adjustments and plotting three-year rolling averages yields the trend
+pictured in Chart 3. It is clear that the presence of a state-level provision
+for minors to access health care without parental consent makes no difference in
+suicide rates among those ages 12 to 23 until about 2010, when the suicide rate
+begins to drift up in states with easier access. In 2015, the estimated increase
+in suicide rates in states with easier access accelerates. By 2020, there are
+about 1.6 more suicides per 100,000 people ages 12 to 23 in states that have a
+policy allowing minors to access health care without parental consent than in
+states without such a policy. The average state suicide rate in this age group
+between 1999 and 2020 was 11.1, making an additional 1.6 suicides per 100,000
+an increase of 14 percent in the suicide rate.
+
+This increase in suicide rates in states where it is easier for minors to
+access puberty blockers and cross-sex hormones increased at almost the same time,
+and to the same degree, as those interventions became available. Using Google
+Trends results for the terms associated with those medical interventions as a
+proxy for their availability shows that increased suicide rates in states with
+easier access almost perfectly track the prevalence of those terms. (Compare
+Charts 1 and 3.)
+
+This elevated rate of youth suicide is statistically significant at conventional
+levels, and robust to different approaches to modeling the trend over time.
+(See Appendix Tables 2–5 for regression results.)
+
+It is useful to conduct a “placebo test” to examine whether the elevated rate
+of suicides among young people in states where it was easier for minors to access
+cross-sex interventions also existed among slightly older people who could not
+have been affected by minor access provisions. Using the same exact regression
+model while replacing the suicide rate among those ages 12 to 23 with the rate
+for those ages 28 to 39 in the same states as the dependent variable shows no
+relationship between the ease of accessing cross-sex medical care and suicide
+rates among those too old to have been affected by these state policies.
+(See Appendix Table 6.) This placebo test strongly indicates that making it
+easier for minors to access puberty blockers and cross-sex hormones when those
+interventions became available is causally related to increased suicide rates,
+because no similar increase was seen by those slightly older who would have been
+unaffected.
+
+Discussion
+The results presented in this Backgrounder provide strong evidence for the claim
+that suicides among young people have increased significantly since 2010 in states
+that have a policy allowing minors to access routine health care without parental
+consent. That increase in suicide rates accelerated around 2015. Prior to 2010,
+whether a state had such a policy or not had no significant effect on the trend
+in suicide rates among those ages 12 to 23. The timing of the increase in suicide
+rates only among young people, only after puberty blockers and cross-sex hormones
+are introduced and used widely, and only in states where minors could access
+those medical interventions without parental consent raises serious concerns
+about their effects on suicide risks.
+
+The research presented here does not directly examine whether the individuals who receive gender-related medical interventions are at a higher risk of suicide, but it does directly examine the state policies that facilitate minors accessing those interventions without parental consent and finds that those policies raise suicide risks among young people.
+
+To believe that easier access to puberty blockers and cross-sex hormones are not the cause of elevated suicide risk in those states, one would have to be able to imagine other medical interventions that only became widely available after 2010 and would only affect young people. The lack of theoretically plausible alternatives strengthens the case for concluding that cross-sex medical interventions are the cause of the observed increase in suicide among young people.
+
+State Policy Recommendations
+At a minimum, the results presented in this Backgrounder demonstrate that efforts to lower legal barriers for minors to receive cross-sex medical interventions do not reduce suicide rates and likely lead to higher rates among young people in states that adopt those changes. States that currently facilitate minors’ access to routine health care without the consent of a parent or legal guardian should consider revising such policies. States should also adopt parental bills of rights that affirm that parents have primary responsibility for their children’s education and health, and that require schools to receive permission from parents before administering health services to students, including medication and gender-related counseling to students under age 18.
+
+This research adds to the well-established wisdom that children are better off if they are not allowed to make major life decisions without their parents’ involvement and permission. In general, parents are better positioned than anyone else, including the children themselves, to understand the needs of their children when making important decisions. State policies that undermine this relationship between parents and children are dangerous and should be repealed. Similarly, those who work with children in professional capacities, including health, education, and counseling, should be careful about substituting their own judgment for that of the parents. The research presented here supports the view that children fare significantly better when their parents have the authority to know about, and help to make, major decisions for their own children.
+
+Lastly, given the danger of cross-sex treatments demonstrated in this Backgrounder, states should tighten the criteria for receiving these interventions, including raising the minimum eligibility age.
 
 # 15 June 2022
