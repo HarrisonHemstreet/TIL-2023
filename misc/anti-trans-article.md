@@ -1,3 +1,6 @@
+response to this article:
+https://www.heritage.org/gender/report/puberty-blockers-cross-sex-hormones-and-youth-suicide
+
 Lowering legal barriers to make it easier for minors to undergo cross-sex medical
 interventions without parental consent does not reduce suicide rates—
 ```
