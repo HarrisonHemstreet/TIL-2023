@@ -2842,4 +2842,223 @@ take positions that favor the Right's beliefs when it comes to states' rights,
 but will call daddy Fed when a state is violating what the Right believes in.
 I really hope this author stays consitent in what he believes in...
 
+also, if the point of this article is to save children's lives, then there must
+be imperical proof that children who experience trans feelings and go through with
+gender-affiriming medical treatments experience suicidal-ideation due to the treatments
+themselves, and not the abusive expereinced by family members.
+
+```
+KEY TAKEAWAYS
+1. U.S. policymakers are seeking to make it easier for minors to access puberty
+blockers and cross-sex hormones based on the claim that doing so reduces
+suicide risk.
+2. Studies finding that “gender-affirming” interventions prevent suicide fail
+to show a causal relationship and have been poorly executed.
+```
+The lack of evidence for a claim is not evidence against said claim. I am however
+excited to see their arguments against the current data we have on this subject.
+```
+3. A superior research design shows that easing access to puberty blockers and
+cross-sex hormones by minors without parental consent increases suicide rates.
+```
+1. they will need to prove that the new research design is more credible
+('superior') than the previous one.
+2. they will need to prove that NOT access to puberty blockers and cross-sex
+hormones by minors without parental consent increases suicide rates, but
+increasing access causes suicide rates. I'm sure you can see the problem with
+the phrasing of this claim
+
+```
+Adolescents who are confused about their gender suffer from an abnormally high
+suicide rate (Michelle M. Johns et al., “Transgender Identity and Experiences
+of Violence Victimization, Substance Use, Suicide Risk, and Sexual Risk
+Behaviors Among High School Students—19 States and Large Urban School Districts,
+2017,” Morbidity and Mortality Weekly Report, Vol. 68, No. 3 (January 25, 2019),
+pp. 67–71, https://doi.org/10.15585/mmwr.mm6803a3 (accessed May 25, 2022).)
+```
+Okay, so right here, this guy obviously did not read this study. It's from the
+CDC. Right from the get-go, confounding variables such as 'affects of violence
+victimization', 'substance' use and 'STDs' need to be accounted for. All of these
+variables are hardcore contributers to suicide among anyone who expereinces them.
+The study itself does not say that trans kids expereince suicide-ideation ONLY
+due to being gender-non-conforming, but because of anterior factors as well.
+So using this study in this way, is HUGELY dishonest. Becuase the author is trying
+to convey not what the study is trying to convey, but instead what the author
+is trying to convey, that 'because trans kids expereince suicide, we should
+prevent trans kids from exisiting'.
+
+```
+Though research demonstrates that gender confusion generally resolves itself
+without medical intervention,2 James M. Cantor, “Transgender and Gender Diverse
+Children and Adolescents: Fact-Checking of AAP Policy,” Journal of Sex & Marital
+Therapy, Vol. 46, No. 4, 2020), pp. 307–313,
+https://www.tandfonline.com/doi/abs/10.1080/0092623X.2019.1698481
+(accessed May 25, 2022). Also see Diagnostic and Statistical Manual of Mental
+Disorders, Fifth Edition (Arlington, VA: American Psychiatric Association, 2013),
+pp. 451–459, and Ryan T. Anderson, When Harry Became Sally: Responding to the
+Transgender Moment (New York, NY: Encounter Books, 2018), pp. 93–144.
+```
+1. the author did not define 'gender confusion', which is highly important in the
+context of these studies. BECAUSE gender confusion in this study is defined to
+encompas a series of attributes displayed by young kids, including boys playing
+with dolls, and girls climbing trees. This is OBVIOUSLY NOT a sign of someone being
+trans. Not saying that this article is defining 'gender confusion' like this,
+because the article sited sits behind a pay wall, but I am defining 'gender
+confusion' like this because that is how I have seen it defined in the past.
+2. the author is mis-using another article, NOT a study. You can see it here:
+https://www.tandfonline.com/doi/full/10.1080/0092623X.2019.1698481?scroll=top&needAccess=true
+Except you CANT! because it's behind a pay-wall. Very tricky in deed. If I can't
+read the article, how am I supposed to verify it?
+3. The author is treating this like a study, when it is just an article, another
+mark of dishonesty.
+
+```
+some educators and medical professionals encourage teens, and even pre-teens,
+to take puberty blockers or cross-sex hormones so that their secondary sex
+characteristics, such as body and facial hair, breast tissue, muscular build,
+and fat composition, align more closely with the gender with which they identify.
+(3 Society for Evidence Based Gender Medicine, “Our Aim Is to Promote Safe,
+Compassionate, Ethical and Evidence-Informed Healthcare for Children,
+Adolescents, and Young Adults with Gender Dysphoria,”
+https://segm.org/home (accessed May 25, 2022), and Julia E. Richards and R.
+Scott Hawley, The Human Genome: A User’s Guide, Third Edition (Cambridge, MA:
+Academic Press, 2010), Chapter 8.)
+```
+1. the author makes a huge claim here that 'some' educators and medical professionals
+ENCOURAGE teens to take medical procedures that alter their physical characteristsics.
+this has to be proven or it's heresay
+2. I could not find the referenced study, but I did look at the referenced website.
+here on their studies section: https://segm.org/studies, you can see many
+cautionary studies that push individuals considering treatment to have 'informed
+consent' and to know exactly what the dangers are. The use of the word 'ENCOURAGE'
+feels very misleading because there is an inherit spin taken upon this community.
+As if this org is trying to 'get' the youth. Very emotionaly charged diction.
+
+```
+While the World Professional Association for Transgender Health (WPATH)
+acknowledges that these interventions can have significant complications, it
+warns that delaying intervention also has serious risks:
+
+Refusing timely medical interventions for adolescents might prolong gender
+dysphoria and contribute to an appearance that could provoke abuse and
+stigmatization. As the level of gender-related abuse is strongly associated
+with the degree of psychiatric distress during adolescence (Nuttbrock et al., 2010),
+withholding puberty suppression and subsequent feminizing or masculinizing
+hormone therapy is not a neutral option for adolescents. (Eli Coleman et al.,
+“Standards of Care for the Health of Transsexual, Transgender, and Gender
+Nonconforming People,” International Journal of Transgenderism, Vol. 13, No. 4
+(2012), p. 21, https://www.tandfonline.com/doi/abs/10.1080/15532739.2011.700873
+(accessed May 25, 2022).)
+```
+yes.
+
+```
+Other advocates, members of the media, and even White House staff invoke
+scientific authority to assert that cross-sex medical interventions reduce the
+risk of suicide. Sarah Harte, director for the Washington, DC, branch of an
+organization that provides medical intervention and support for youth called
+The Dorm, stated with confidence that “[l]aws and systems barring gender-affirming
+healthcare will contribute to higher rates of significant mental health problems,
+including deaths by suicide.”(5 “The ‘Life-Saving’ Science Behind Gender-Affirming
+Care for Youth,” Medical News Today, March 29, 2022,
+https://www.medicalnewstoday.com​/articles/the-life-saving-science-behind-gender-affirming-care-for-youth (accessed May 25, 2022).)
+
+The CEO of The Trevor Project, Amit Paley, said, “It’s clear that
+gender-affirming care has the potential to reduce rates of depression and
+suicide attempts.”(6 Jo Yurcaba, “Hormone Therapy Linked to Lower Suicide Risk
+for Trans Youths, Study Finds,” NBC News, December 14, 2021,
+https://www.nbcnews.com​/nbc-out/out-health-and-wellness/hormone-therapy-linked-lower-suicide-risk-trans-youths-study-finds-rcna8617
+(accessed May 25, 2022).)
+
+In an opinion piece in The Washington Post, University of Virginia Law School
+professors Anne Coughlin and Naomi Cahn claimed that cross-sex medication
+“has been shown to reduce the risk of depression and suicide for transgender
+youth,” and that “banning it creates an excruciating conflict for parents, as
+the steps they take to preserve their children’s lives may lead the state to
+investigate and punish them.”(7“Texas Is Trampling Parents’ Rights in Its Investigations of Trans Kids,” The Washington Post, April 8, 2022, https://www.washingtonpost.com/outlook​/2022/04/08/texas-transgender-family-law/ (accessed May 25, 2022).)
+
+Even former White House press secretary Jen Psaki referred to such medical
+interventions as “medically necessary, lifesaving healthcare for [kids].”8
+```
+
+1. the phrase 'invoke scientific authority' invokes a feeling of distrust in
+science in general and an attack on scientific authority. This iteself is a
+dishonest attack on their positoins. instead of attacking their positions from
+a place of logos, the author is using pathos to make a feelings argument, trying
+to scare the reader into feeling like the 'scientific authority' is one to be
+distrusted just because so far the scientific studies cited in these situations
+do not support the author's positions. Another dishonest spin on the subject at
+hand.
+2. okay so right here we are identifying articles and studies that are in favor
+of the opposite argument, that gender-affirming medical intervention DECREASES
+harm in trans youth. I expect the author to directly confront the studies/articles
+data collection methods in an effort to prove that other studies antagonistic
+to the trans movment are more trust worthy than these.
+3. I totally understand that Jen Psaki disagrees with the author, however, what
+does Jen have anything to do with the medical research? I feel like this is 
+narative building which is trying to evoke a feeling of distrust from anyone
+and everyone in a position of authority in an effort to attack the Left, instead
+of the Left's positions.
+
+```
+The danger of adolescents committing suicide if they do not receive these
+medical interventions is thought to be so urgent that the Biden Administration
+recently issued a statement “confirming the positive impact of gender affirming
+care on youth mental health,” while referencing “the evidence behind the positive
+effects of gender affirming care.”(9 The White House, “Fact Sheet:
+Biden–Harris Administration Advances Equality and Visibility for Transgender
+Americans,” March 31, 2022,
+https://​www.whitehouse.gov/briefing-room/statements-releases/2022/03/31/fact-sheet-biden-harris-administration-advances-equality-and-visibility-for​-transgender-americans/ (accessed May 25, 2022).)
+```
+the use of the phrase by the author 'so urgent' and the context surrounding
+it evokes a feeling of apathy from the reader. This is a silly rehtorial device
+used to bias the reader before what is about to be said, is said. This is
+poissoning the well.
+
+```
+A number of states have also considered or enacted legislation making it easier
+for minors to access cross-sex interventions without their parents’ knowledge
+or consent. For example, California recently enacted a new law, AB 1184, to
+prevent insurance companies from notifying parents if children on their policies
+receive “sensitive services,” which were defined to include “gender affirming care.”
+(10 California Legislative Information, Assembly Bill No. 1184 “Medical Information: Confidentiality,” https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml​?bill_id=202120220AB1184 (accessed May 25, 2022); Brandon Richards, “Planned Parenthood Affiliates of California Statement on Passage of AB 1184,” Planned Parenthood Affiliates of California, September 9, 2021, https://www.plannedparenthoodaction.org/planned-parenthood-affiliates-california​/media/planned-parenthood-affiliates-california-statement-passage-ab-11 (accessed May 25, 2022); and Nancy Flory, “California Gov. Newsom Signs Bill into Law that Allows Children to Hide Abortions, Transgender Treatments, from Parents,” The Stream, September 28, 2021, https://stream.org/california​-gov-newsom-signs-bill-into-law-that-allows-children-to-hide-abortions-transgender-treatments-from-parents/ (accessed May 25, 2022).)
+```
+The context sourounding this statement evokes a feeling that the author is trying
+to say that the inverse should be what actually happens. That parents are notified
+on every item that their kids recieve while on their insurance. Well, what about
+kids who are still on their parents insurace until they turn 26??? Is a 26, or a
+25 year old bound to share all priavte information with their parents? This point
+from the author is an attempt to make the reader believe that even the younger
+children (sub 15 even), are traveling all the way down to the doctor's office,
+and asking to get their nuts chopped off. In what world is this happening? This
+is another dishonest use of rhetoric.
+
+```
+However, young people may also experience significant and irreversible harms
+from such medical interventions.
+(11 Michael Biggs, “Revisiting the Effect of GnRH Analogue Treatment on Bone Mineral Density in Young Adolescents with Gender Dysphoria,” Journal of Pediatric Endocrinology and Metabolism, Vol. 34, No. 7 (July 1, 2021), pp. 937–939, https://doi.org/10.1515/jpem-2021-0180 (accessed May 25, 2022); Noreen Islam et al., “Is There a Link Between Hormone Use and Diabetes Incidence in Transgender People? Data From the STRONG Cohort,” The Journal of Clinical Endocrinology & Metabolism, Vol. 107, No. 4 (April 1, 2022), pp. e1549–e1557, https://doi.org/10.1210/clinem/dgab832 (accessed May 25, 2022); Shira Baram et al., “Fertility Preservation for Transgender Adolescents and Young Adults: A Systematic Review,” Human Reproduction Update, Vol. 25, No. 6 (November 5, 2019), pp. 694–716, https://doi.org/10.1093/humupd/dmz026 (accessed May 25, 2022); Elie Vandenbussche, “Detransition-Related Needs and Support: A Cross-Sectional Online Survey,” Journal of Homosexuality, April 30, 2021, pp. 1–19, https://doi.org/10.1080​/00918369.2021.1919479 (accessed May 25, 2022); Alison Clayton, “The Gender Affirmative Treatment Model for Youth with Gender Dysphoria: A Medical Advance or Dangerous Medicine?” Archives of Sexual Behavior, Vol. 51, No. 2 (February 1, 2022), pp. 691–698, https://doi.org/10.1007/s10508​-021-02232-0 (accessed May 25, 2022); and Society for Evidence Based Gender Medicine, “Studies,” https://segm.org/studies (accessed May 25, 2022).)
+```
+1. after reading this study, one line jumped out at me: "patients ‘understand
+the risks of GnRH analogue treatment for bone density (i.e., risks of later
+osteoporosis)’" if one understands the risks involved in a situation, why should
+the government prevent a decision that would only affect the individual? This
+seems sily. It's also AGAIN an anti-Right position to take. The author is implying
+that the government should have presendece over what individuals medically do with
+themselves. This is authoritarian.
+
+ This Backgrounder reviews existing research on the relationship between
+ cross-sex interventions and suicide, and then presents a new empirical
+ analysis that examines whether easing access by adolescents to these
+ interventions is likely to result in fewer adolescent suicides.
+ The new analysis presented here finds that the existing literature on this
+ topic suffers from a series of weaknesses that prevent researchers from being
+ able to draw credible causal conclusions about a relationship between medical
+ interventions and suicide. Using a superior research design, the new analysis
+ finds that increasing minors’ access to cross-sex interventions is associated
+ with a significant increase in the adolescent suicide rate. Rather than
+ facilitating access by minors to these medical interventions without parental
+ consent, states should be pursuing policies that strengthen parental involvement
+ in these important decisions with life-long implications for their children.
+```
+
 # 15 June 2022
