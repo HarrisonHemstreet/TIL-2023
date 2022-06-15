@@ -3267,16 +3267,139 @@ consent are extremely limited in some states. For example, in Arizona a minor
 must be legally married, or documented as homeless, in order to access routine
 health care without parental consent.
 (19 “Arizona Revised Statutes Title 44. Trade and Commerce § 44–132. Capacity of Minor to Obtain Hospital, Medical and Surgical Care; Definition,” FindLaw, current as of March 8, 2022, https://codes.findlaw.com/az/title-44-trade-and-commerce/az-rev-st-sect-44-132.html (accessed May 26, 2022).)
-
- In other states, such as Minnesota, minors can obtain routine health care without parental consent if they live separately from their parents, regardless of the duration of that separation, and manage their own finances, regardless of their source of income.20
-“Minnesota Statutes Health (Ch. 144–159) § 144.341. Living Apart from Parents and Managing Financial Affairs,” FindLaw, current as of January 1, 2018, https://codes.findlaw.com/mn/health-ch-144-159/mn-st-sect-144-341.html (accessed May 26, 2022).
-
- In other states, such as Alabama, Louisiana, and Oregon, there only appears to be a minimum age or a required determination by the health care provider that the minor is mentally competent to obtain health care without parental consent.21
-“Oregon Revised Statutes Domestic Relations § 109.640,” FindLaw, current as of January 1, 2019, https://codes.findlaw.com/or/title-11-domestic​-relations/or-rev-st-sect-109-640.html (accessed May 26, 2022); “Alabama Code Title 22. Health, Mental Health, and Environmental Control § 22-8-4,” FindLaw, accessed April 14, 2022, https://codes.findlaw.com/al/title-22-health-mental-health-and-environmental-control/al-code-sect-22-8-4.html (accessed May 26, 2022); and “Louisiana Revised Statutes Tit. 40, § 1079.1. Medical Treatment,” FindLaw, current as of January 1, 2019, https://codes​.findlaw.com/la/revised-statutes/la-rev-stat-tit-40-sect-1079-1.html (accessed May 26, 2022).
-
-
-
-There is no obvious geographic, demographic, or partisan pattern to whether states have these provisions. As seen in Appendix Table 1, states without a provision are Connecticut, Georgia, Iowa, Kentucky, Michigan, Mississippi, Nebraska, New Hampshire, New Jersey, New York, North Carolina, Ohio, South Dakota, Tennessee, Vermont, West Virginia, and Wisconsin. The states with a provision are similarly diverse and settled on their legal arrangements long ago for reasons unrelated to the transgender issue.22
 ```
+I know this is an anterior issue, but Arizona really should amend this to allow
+health care for all kids no matter what. There are many kids, who on paper have
+parents who are repsonsible for them, when in reality, do not recieve the care
+they should.
+
+```
+In other states, such as Minnesota, minors can obtain routine health care
+without parental consent if they live separately from their parents, regardless
+of the duration of that separation, and manage their own finances, regardless
+of their source of income.
+(20 “Minnesota Statutes Health (Ch. 144–159) § 144.341. Living Apart from Parents and Managing Financial Affairs,” FindLaw, current as of January 1, 2018, https://codes.findlaw.com/mn/health-ch-144-159/mn-st-sect-144-341.html (accessed May 26, 2022).)
+```
+as a result of a hatred of big government that many conservtives share, people
+like disenfranchised children are the ones who suffer from a lack of social
+programs. If social programs get cut like how many advocate for, who will take
+care of those who fall through the holes from the very start of their lives?
+
+```
+In other states, such as Alabama, Louisiana, and Oregon, there only appears to
+be a minimum age or a required determination by the health care provider that
+the minor is mentally competent to obtain health care without parental consent.
+(21 “Oregon Revised Statutes Domestic Relations § 109.640,” FindLaw, current as of January 1, 2019, https://codes.findlaw.com/or/title-11-domestic​-relations/or-rev-st-sect-109-640.html (accessed May 26, 2022); “Alabama Code Title 22. Health, Mental Health, and Environmental Control § 22-8-4,” FindLaw, accessed April 14, 2022, https://codes.findlaw.com/al/title-22-health-mental-health-and-environmental-control/al-code-sect-22-8-4.html (accessed May 26, 2022); and “Louisiana Revised Statutes Tit. 40, § 1079.1. Medical Treatment,” FindLaw, current as of January 1, 2019, https://codes​.findlaw.com/la/revised-statutes/la-rev-stat-tit-40-sect-1079-1.html (accessed May 26, 2022).)
+```
+If being trans is labeled to be a mental health disorder, then insurance companies
+like in this instance will be able to discriminate against providing for these
+kids, even if they choose to only socailly transition, but need important medical
+care. This is a very dangerous situation that people who argue against trans
+rights are prepetuating. For the cause of protecting the youth, anti-trans people
+are inadvertantly hurting and perhaps killing said youth.
+
+```
+There is no obvious geographic, demographic, or partisan pattern to whether
+states have these provisions. As seen in Appendix Table 1, states without a
+provision are Connecticut, Georgia, Iowa, Kentucky, Michigan, Mississippi,
+Nebraska, New Hampshire, New Jersey, New York, North Carolina, Ohio, South Dakota,
+Tennessee, Vermont, West Virginia, and Wisconsin. The states with a provision
+are similarly diverse and settled on their legal arrangements long ago for
+reasons unrelated to the transgender issue.22
+```
+okay...
+
+```
+Prior Research
+The effects of puberty blockers and cross-sex hormones as a medical intervention
+for adolescents who identify as transgender have never been subjected to a
+large-scale randomized controlled trial (RCT), like the kind that is
+typically required for approval of new medications.
+(23 Claudia Haupt et al., “Antiandrogen or Estradiol Treatment or Both During Hormone Therapy in Transitioning Transgender Women,” Cochrane Database of Systematic Reviews, Vol. 11, No. 11 (November 2020), https://pubmed.ncbi.nlm.nih.gov/33251587/ (accessed May 26, 2022).)
+```
+here we go! RCTs are going to be also required to prove that gender-affirming
+procedures increase suicide rates. Can't wait until I see the study from him that
+says that.
+
+```
+Puberty blockers and sex hormones had been developed originally for other purposes.
+Puberty blockers were originally designed to delay precocious puberty among very
+young children who began puberty well before their peers. Sex hormones were
+developed primarily to treat people who were unable to produce enough of the
+hormones of their biological sex. These were the uses for which these drugs were
+originally tested and approved. These drugs have been prescribed for young people
+wishing to change their secondary sex characteristics without undergoing testing
+and formal approval for these new uses. The lack of any experimental evidence of
+the effects of these medical interventions prevents the gold-standard research
+one would normally expect in order to isolate the causal effects of these
+interventions. (24 Randomization in a randomized controlled trial isolates the exposure variable of interest and eliminates concerns of confounding in a statistical analysis.)
+```
+I totally agree that an RCT is needed in order to create as hard of proof as
+possible for any scientific claim. However, the auther must know that having an
+RCT in these circumstances (particulary a study that may or may not increase
+suicide rates) is highly unethical.
+
+
+
+
+The use of puberty blockers and sex hormones to address gender issues is also relatively recent, with widespread adoption occurring only within the past few years.25
+Michael Biggs, “Puberty Blockers and Suicidality in Adolescents Suffering from Gender Dysphoria,” Archives of Sexual Behavior, Vol. 49, No. 7 (October 2020), pp. 2227–2229, https://doi.org/10.1007/s10508-020-01743-6 (accessed May 26, 2022), and Klotz, “The Fractious Evolution of Pediatric Transgender Medicine.”
+
+ The fact that randomized experiments were not required for this use of puberty blockers and sex hormones, and that this novel use of these drugs is relatively recent, means that only a handful of studies examine their effects, and all these studies use inferior correlational research designs.
+
+The main defect of studies relying on correlational research designs is that they are unable to determine with confidence whether any relationships between receiving these drugs and later health outcomes are causal. That is, one can never know with confidence whether the drugs cause those outcomes, or whether other factors that make people more likely to receive the drugs were the causes. This inherent weakness in correlational research is precisely why regulators, such as the U.S. Food and Drug Administration, typically require randomized experiments before approving a drug.26
+U.S. Food and Drug Administration, “CFR– Code of Federal Regulations Title 21,” https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch​.cfm?fr=314.126 (accessed May 26, 2022).
+
+ In an experiment, the only thing that determines whether people receive the medical intervention is chance, so any differences in outcomes between those who did and did not get the treatment would have to be caused by the intervention and not another factor.
+
+This weakness of correlational research designs can be illustrated by examining one of the most prominent studies claiming to find that adolescents who receive cross-sex hormones have a lower risk of suicide.27
+Jack L. Turban et al., “Access to Gender-Affirming Hormones During Adolescence and Mental Health Outcomes Among Transgender Adults,” PLOS ONE, Vol. 17, No. 1 (January 12, 2022), p. e0261039, https://doi.org/10.1371/journal.pone.0261039 (accessed May 26, 2022).
+
+ That study, led by Jack Turban of Stanford Medical School and published in PLOS ONE in 2022, examines the results of a 2015 survey of more than 27,000 American adults who identify as transgender. The survey was not meant to be representative of all such adults because its participants were recruited as a convenience sample, largely through transgender support groups. Subjects were asked whether they had ever sought cross-sex hormones, and then whether they had ever received them. Respondents who never sought cross-sex hormones were excluded from the analysis. The main comparison examined in the study was between those who had sought and received the hormones, and those who had sought but never received them when they were between 14 and 17.
+
+The obvious defect in this comparison is that there are reasons why some people were able to get the hormones while others could not, even though all of them report wanting to get them. The reasons that allowed some to access them but not others are likely strongly related to later mental health. One of the most important reasons why some adolescents were able to access the hormone therapies while others could not is that parental consent is often, though not always, required to get these drugs. As is well known from research on gender-confused youth, as well as more generally, closer and more positive relationships between children and parents promote mental well-being and is protective against suicide.
+
+The problem, then, with the Turban study, is that it is impossible to know whether the reduced odds of contemplating suicide among adults who sought and received hormone therapy as children were a result of the relationship with their parents who gave consent for this intervention or a result of the intervention itself. If a close and positive relationship between parents and children struggling with gender identity is the key to successful outcomes for those adolescents, then the hormones themselves might make no difference, or even be harmful. But that effect would be masked by the kind of parent–child relationship that exists when parents are more likely to consent.
+
+Turban’s own data show enormous differences in relationships between children and parents among those who obtained the hormones and those who did not, despite desiring them. Of those who were unable to get the hormones, 35 percent had not “come out” to their parents, compared to 3 percent among those who obtained hormones at ages 14 and 15, and 4 percent among those who obtained hormones at ages 16 and 17. Among those who got the hormones as teenagers, nearly 80 percent reported feeling supported by their parents, compared to 33 percent of those who were unable to get the drugs.
+
+Turban attempts to control statistically for these reported differences, but that adjustment cannot fully fix the bias, especially when the differences between the groups being compared are so stark and when the measures of parent–child relationship are imprecise. This would be like trying to adjust for the effects of family income during childhood knowing only whether someone reports having felt poor. Memories are imperfect, and simply dividing people into poor and not-poor categories fails to capture the difference between the children of billionaires and those raised in public housing projects. Adolescents who can get their parents’ consent for hormone therapy have dramatically different relationships with their parents than those who cannot, and that difference in relationship can affect mental health later in life, even if the hormones themselves have no benefit, or are harmful.
+
+Another important factor that determines whether young people get cross-sex hormones is their psychological condition when they are seeking that intervention. According to guidelines issued by WPATH, a key condition for prescribing cross-sex hormones is that “any coexisting psychological, medical, or social problems that could interfere with treatment (e.g., that may compromise treatment adherence) have been addressed, such that the adolescent’s situation and functioning are stable enough to start treatment.”28
+Eli Coleman et al., “Standards of Care for the Health of Transsexual, Transgender, and Gender-Nonconforming People, Version 7,” International Journal of Transgenderism, Vol. 13, No. 4 (2012), p. 19, https://www.tandfonline.com/doi/abs/10.1080/15532739.2011.700873 (accessed May 26, 2022).
+
+ The difference between those who desired hormone therapy and received it and those who sought it but were unable to receive it could be the state of their mental health at the time they tried to get the drugs.
+
+The Turban study lacks information on, and therefore cannot make any statistical adjustments for, the mental health at the time the subjects sought hormone therapy. The respondents who were unable to get hormone therapy despite saying they wanted it may have worse mental health outcomes because they began with more severe psychological issues that prevented them from obtaining the hormones. The pre-existing mental health challenges could be the cause of later outcomes, not whether they received the hormones.
+
+The inability to sort out this kind of uncertainty about what is causing differences in mental health outcomes is inherent in the correlational research design employed by Turban and his colleagues. These same concerns apply to an earlier study by Turban and his colleagues published in Pediatrics in 2020. This study examines the relationship between puberty blockers and later mental health outcomes and relies on the same correlational research design to analyze data from the same survey as the cross-sex hormone study.29
+Jack L. Turban et al., “Pubertal Suppression for Transgender Youth and Risk of Suicidal Ideation,” Pediatrics, Vol. 145, No. 2 (February 2020), p. e20191725, https://doi.org/10.1542/peds.2019-1725 (accessed May 26, 2022).
+
+ The use of a correlational research design also makes it impossible to draw causal conclusions from a study by Amy Green and colleagues that analyzes the mental health effects of adolescents receiving cross-sex hormones based on data from a different survey.30
+Amy E. Green et al., “Association of Gender-Affirming Hormone Therapy with Depression, Thoughts of Suicide, and Attempted Suicide Among Transgender and Nonbinary Youth,” Journal of Adolescent Health, Vol. 70, No. 4 (April 2022), pp. 643–649, https://doi.org/10.1016/j.jadohealth.2021.10​.036 (accessed May 26, 2022).
+
+
+
+The two studies led by Turban, and the one led by Green, are the only three studies that examine the relationship between cross-sex medical interventions by teenagers and suicide risks that make any use of a comparison group. As the 2020 Turban study describes itself, “This is the first study in which associations between access to pubertal suppression and suicidality are examined.”31
+Turban et al., “Pubertal Suppression for Transgender Youth and Risk of Suicidal Ideation.”
+
+ The 2022 Turban study observes that there have been six studies that track the mental health outcomes of teens who received hormone treatments, but emphasizes that “these studies did not include a comparison group of adolescents who did not access GAH [gender affirming hormones].”32
+Turban et al., “Access to Gender-Affirming Hormones During Adolescence and Mental Health Outcomes Among Transgender Adults.”
+
+ Studies that track adolescents who receive these medical interventions are even weaker than correlational studies in their ability to draw causal conclusions about the effects of those interventions, because they have no information on how those individuals would have fared had they not received the interventions.
+
+The prior research on this subject is not only weak because it contains no credibly causal studies and only a handful of correlational studies, but also because those correlational studies are poorly executed. For example, the 2022 Turban study combines the use of testosterone for natal females and estrogen for natal males and only reports the combined effects of hormones. When Michael Biggs analyzes the same data and disaggregates the hormone by type, he finds that: “Males who took estrogen are more likely to plan suicide, to attempt suicide, and to require hospitalization for a suicide attempt.”33
+Michael Biggs, “Comment on Turban et al. 2022: Estrogen Is Associated with Greater Suicidality Among Transgender Males, and Puberty Suppression Is Not Associated with Better Mental Health Outcomes for Either Sex,” figshare, journal contribution, 2022, https://doi.org/10.6084/m9.figshare​.19018868.v1 (accessed May 27, 2022).
+
+ This negative effect is masked in Turban’s study by the failure to report the separate effects by type of hormone.
+
+Similarly, the 2022 Turban study finds that 16- and 17-year-olds who received hormones were more than twice as likely to report a “past-year suicide attempt requiring inpatient hospitalization,” but that finding fails to achieve statistical significance by setting the standard for significance higher than is conventional.34
+Turban et al., “Access to Gender-Affirming Hormones During Adolescence and Mental Health Outcomes Among Transgender Adults.”
+
+ Only by adopting a standard for statistical significance that is different from the one more commonly used in empirical research does the study avoid concluding that this significant harm from hormone therapy exists.
+
+The two Turban studies do not consistently use the same set of control variables when generating their adjusted-odds ratio, even changing what is controlled when analyzing different outcomes within the same study. The two Turban studies also change the main outcome of interest from lifetime suicidal ideation in the study on puberty blockers to suicidal ideation in the last 12 months in the study on hormones. Researchers should determine which confounding variables to control and which outcome variable to examine in their statistical models based on sound theory and prior empirical research, and then consistently apply those decisions, especially within the same study. Changing which factors are controlled in the statistical analysis of each outcome variable, as well as which outcome on which to focus, opens the door to p-hacking, the process of changing empirical models in an ad hoc fashion to yield desired, though likely spurious, results.
+
+The bottom line is that the most influential recent research on the relationship between adolescent cross-sex interventions and later mental health outcomes, including suicide risk, does not provide convincing evidence. Only a small number of studies make comparisons to a control group—and those studies employ correlational research designs that do not allow causal conclusions, nor have those correlational studies been conducted properly.
 
 # 15 June 2022
