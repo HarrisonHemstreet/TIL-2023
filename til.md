@@ -2785,3 +2785,14 @@ Karthik's phone.
 # 14 June 2022
 
 # 15 June 2022
+Lowering legal barriers to make it easier for minors to undergo cross-sex medical
+interventions without parental consent does not reduce suicide rates—in fact,
+it likely leads to higher rates of suicide among young people in states that
+adopt these changes. States should instead adopt parental bills of rights that
+affirm the fact that parents have primary responsibility for their children’s
+education and health, and that require school officials and health professionals
+to receive permission from parents before administering health services, including
+medication and “gender-affirming” counseling, to children under 18. States should
+also tighten the criteria for receiving cross-sex treatments, including raising
+the minimum eligibility age.
+
