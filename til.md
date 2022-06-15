@@ -3038,27 +3038,245 @@ However, young people may also experience significant and irreversible harms
 from such medical interventions.
 (11 Michael Biggs, “Revisiting the Effect of GnRH Analogue Treatment on Bone Mineral Density in Young Adolescents with Gender Dysphoria,” Journal of Pediatric Endocrinology and Metabolism, Vol. 34, No. 7 (July 1, 2021), pp. 937–939, https://doi.org/10.1515/jpem-2021-0180 (accessed May 25, 2022); Noreen Islam et al., “Is There a Link Between Hormone Use and Diabetes Incidence in Transgender People? Data From the STRONG Cohort,” The Journal of Clinical Endocrinology & Metabolism, Vol. 107, No. 4 (April 1, 2022), pp. e1549–e1557, https://doi.org/10.1210/clinem/dgab832 (accessed May 25, 2022); Shira Baram et al., “Fertility Preservation for Transgender Adolescents and Young Adults: A Systematic Review,” Human Reproduction Update, Vol. 25, No. 6 (November 5, 2019), pp. 694–716, https://doi.org/10.1093/humupd/dmz026 (accessed May 25, 2022); Elie Vandenbussche, “Detransition-Related Needs and Support: A Cross-Sectional Online Survey,” Journal of Homosexuality, April 30, 2021, pp. 1–19, https://doi.org/10.1080​/00918369.2021.1919479 (accessed May 25, 2022); Alison Clayton, “The Gender Affirmative Treatment Model for Youth with Gender Dysphoria: A Medical Advance or Dangerous Medicine?” Archives of Sexual Behavior, Vol. 51, No. 2 (February 1, 2022), pp. 691–698, https://doi.org/10.1007/s10508​-021-02232-0 (accessed May 25, 2022); and Society for Evidence Based Gender Medicine, “Studies,” https://segm.org/studies (accessed May 25, 2022).)
 ```
-1. after reading this study, one line jumped out at me: "patients ‘understand
+1. two statements need to be corroberated by this study: 1. there is 'significant
+harm', and 2. there is 'irreversible harm' from gender-affirming procedures
+mentioned here, and ONLY the referenced procederues mentioned here. However, the
+way that the author says, 'such medical interventions' leads the audience to
+believe that the author is saying ALL gender-affirming procedures have irreversible
+and significant harms. Another lazy and dishonest rhetorical strategy.
+2. after reading this study, one line jumped out at me: "patients ‘understand
 the risks of GnRH analogue treatment for bone density (i.e., risks of later
 osteoporosis)’" if one understands the risks involved in a situation, why should
 the government prevent a decision that would only affect the individual? This
 seems sily. It's also AGAIN an anti-Right position to take. The author is implying
 that the government should have presendece over what individuals medically do with
-themselves. This is authoritarian.
+themselves. This is authoritarian. I hope that this author staying consistent
+in his beliefs.
+3. ALSO, after reading this 'study' (which is actually just another article),
+it's clear that the claims of irreversible and significant harm is NOT corroberated.
+in fact, nothing of the sort is even mentioned. The author of referenced article
+himself states that, "Joseph et al.’s recommendations are... to reduce DXA
+monitoring which ‘can have significant financial implications for healthcare providers’.
+Another is to change the computation of Z-scores; ‘reference ranges may need to
+be re-defined for this select patient cohort’. Rather than altering a measure
+that provides inconvenient findings, practitioners of puberty suppression must
+record fractures as adverse events. One British patient who started GnRHa at age
+12 then experienced four broken bones by the age of 16 [10]. This history, if
+it were combined with BMD Z-scores below −2, would meet the diagnostic criteria
+for paediatric osteoporosis [11]. Whether this case is exceptional is unknown
+because clinicians have failed to collect relevant data." Meaning, that the
+referenced article is FAR from a complete repudiation of gender-affirming
+procedures, this so far is probalbly the most BLATENT lie in the article.
 
- This Backgrounder reviews existing research on the relationship between
- cross-sex interventions and suicide, and then presents a new empirical
- analysis that examines whether easing access by adolescents to these
- interventions is likely to result in fewer adolescent suicides.
- The new analysis presented here finds that the existing literature on this
- topic suffers from a series of weaknesses that prevent researchers from being
- able to draw credible causal conclusions about a relationship between medical
- interventions and suicide. Using a superior research design, the new analysis
- finds that increasing minors’ access to cross-sex interventions is associated
- with a significant increase in the adolescent suicide rate. Rather than
- facilitating access by minors to these medical interventions without parental
- consent, states should be pursuing policies that strengthen parental involvement
- in these important decisions with life-long implications for their children.
+
+```
+This Backgrounder reviews existing research on the relationship between
+cross-sex interventions and suicide, and then presents a new empirical
+analysis that examines whether easing access by adolescents to these
+interventions is likely to result in fewer adolescent suicides.
+```
+1. empirical is defined as such: "Verifiable or provable by means of
+observation or experiment." Because the claim of this article is as such, if
+the author does not demonstrate this, then this is a dishonest article and
+irresponsibly written and published. And by the way, in order to have an
+"empirical analysis" of this topic, research has to be done via a double blind
+study on a population large enough to make a statistical difference. This
+supposed study also would require participants to assume a level of risk of
+suicide, which would immediately disqualify the study due to ethical risks.
+So, I'm assuming that said study does not actually exists, but I guess we will
+find out...
+```
+The new analysis presented here finds that the existing literature on this
+topic suffers from a series of weaknesses that prevent researchers from being
+able to draw credible causal conclusions about a relationship between medical
+interventions and suicide.
+```
+1. great. so if this is the case, then there should be no need to use language
+tainted with bias in this article, if all that is being said, is "we need more
+research". However, I get the sense that this article is not being used to say
+only that, but to instead push against trans rights.
+
+```
+Using a superior research design, the new analysis finds that increasing
+minors’ access to cross-sex interventions is associated with a significant
+increase in the adolescent suicide rate.
+```
+claims made: 1. the new research design has outputed an analysis that shows a
+direct relationship to minors' access to 'cross-sex interventions', and an increase
+in adolescent suicide rate.
+
+```
+Rather than facilitating access by
+minors to these medical interventions without parental consent, states should
+be pursuing policies that strengthen parental involvement in these important
+decisions with life-long implications for their children.
+```
+this proposal is going to require evidence as well that increasing parental
+involement decreases suicide rates in order for this prescriptive statement to
+act as a solution to the previous descriptive statement.
+
+```
+The Context
+Around 1990, some doctors in the Netherlands began to use drugs designed to
+delay the onset of puberty in teenagers who were confused about their gender.
+(12 Ibid.)
+```
+1. again, the author is using biased, emotionally charged language when the term
+'confused' is used. If this article is supposed to be taken seriously, then
+academic langauge should be used. By setting the context as such before showing
+off the supposed evidence is poisoning the well (which is a logical fallacy)
+
+```
+Puberty-blocking therapies, such as gonadotropin-releasing hormone analogues,
+were meant to prevent children entering puberty from developing the secondary
+sex characteristics, such as facial hair for men or breasts for women, if those
+features did not align with the gender with which they identified. Puberty
+blockers would be followed by the use of sex hormones, such as testosterone,
+for girls who identify as male, and estrogen for boys who identify as female,
+so that they could develop secondary sex characteristics that were associated
+with the sex that they identified with.
+(13 Klotz, “The Fractious Evolution of Pediatric Transgender Medicine.”)
+```
+
+
+
+```
+This treatment protocol of puberty blockers followed by cross-sex hormones among
+adolescents did not exist in the United States prior to 2007 and was extremely
+rare before 2010. Cross-sex hormones were available as a medical intervention
+for adolescents before 2010, but their use was extremely limited. Starting in
+2010, however, the use of both puberty blockers and cross-sex hormones for
+adolescents who identified as transgender rose dramatically and was widely
+available by 2015.
+
+Precise data are not available on how often puberty blockers and cross-sex
+hormones have been given to teenagers over time in the United States, but it is
+possible to track a proxy for these interventions. Google Trends provides data
+on the relative frequency that terms have been used for searches since 2004.
+A score of 100 in Google Trends indicates the peak frequency for the term.
+Before August 2007, Google Trends reports a 0 for the term “puberty blockers,”
+meaning that it was searched so infrequently in the U.S. that “there was not
+enough data for this term.” The term “puberty blockers” did not average 5, or
+one-twentieth of its peak popularity, in any year before 2015.14
+Google Trends, “Puberty Blockers,” https://trends.google.com/trends/explore?date=2004-01-01%202020-12-31&geo=US&q=puberty%20blockers (accessed April 20, 2022).
+Note: Numbers represent search interest relative to the highest point on the
+chart for the given region and time. A value of 100 is the peak popularity for
+a term. A value of 50 means that the term is half as popular. A score of 0 means
+there was not enough data for this term.
+
+The average of the Google Trends scores for the terms, “puberty blockers,”
+“transgender,” “gender identity disorder,” and “gender dysphoria,” yields a
+reasonable proxy for how common cross-sex interventions have been over time.
+(15 Ibid.; Google Trends, “Transgender,” Google Trends, https://trends.google.com/trends/explore?date=2004-01-01%202020-12-31&geo=US&q=puberty​%20blockers (accessed April 20, 2022); Google Trends, “Gender Identity Disorder,” https://trends.google.com/trends/explore?date=2004-01-01%202020-12-31&geo=US&q=puberty%20blockers (accessed May 20, 2022); and Google Trends, “Gender Dysphoria,” https://trends.google.com/trends​/explore?date=2004-01-01%202020-12-31&geo=US&q=puberty%20blockers (accessed April 20, 2022).)
+
+As shown in Chart 1, these four terms were searched infrequently until about 2015,
+when there was a dramatic increase that continued through the end of 2020. This
+picture is consistent with anecdotal reports of how the use of puberty blockers
+and cross-sex hormones only became widely available in the past several years.
+```
+1. okay so this is just FLAT OUT SILLY. The surrounding context of the paragraph
+enokes a feeling in the audience that being trans is simply a trend that is gaining
+popularity. This is again a serious violation of the 'poisoning the well' logical
+fallacy. The infered position that the author is taking is that being trans is
+NOT a core part of humanity that has been documented for thousands of years, but
+instead, a new trend that is dangerous to children that must be stopped. This is
+an argument. Not a study. Not a proven fact. The use of Google trends in this
+context is used to give more ethos to the argument at hand. By the rules of
+google trends, even if just 1 person searched for hormone blockers pre-2015, and
+just 5 people searched for it post-2015, a similar graph would be shown. This
+is simply a deeply dishonest attempt at convincing the audience of the subliminal
+argument being made. Deeply deeply dishonest argement here.
+
+2. The contextual argument being made is that children are searching up these
+terms in order to seek out gender-affirming procedures. However, that's NOT even
+what Google Trends is saying. All Google Trends is saying is that people are
+searching for these terms. How many of these people are googling these terms after
+watching Tucker Carlson or Steven Crowder give an anti-trans segment? We DO NOT
+KNOW! This is furthering the dishonesty of this article.
+
+3. If I were to go to any college professor of stats or scientific research, and
+ask them what their thoughts are on using Google Trends to track application
+intrest of gender-affirming procedures, the professor asked would laugh me out of
+town. This is hardly a data collection tool. so far, the claim that 'emperical'
+data collection being used is absolutely laughable. Even I, who got a C- in
+high school stats, knows that this method of data collection is nothing more that
+vitally flawed.
+
+```
+There is also a lack of precise information on where cross-sex medical
+interventions are more readily available to adolescents.
+```
+1. huh? is this an argument against trans education for addolesence or or is this
+pro?
+```
+A reasonable proxy for that data is to identify the states that have a legal
+provision allowing minors to access routine health care without the consent of
+their parents or guardian, at least under some circumstances.
+```
+ahhh so there are SOME circumstances already that prevent kids from getting
+gender-affirming procedurs! I wonder if these circumstances will be expounded
+upon, or treated as if they do not exist.
+
+```
+In states that have those provisions, puberty blockers and cross-sex hormones
+should be more easily available to teenagers.
+```
+I'm assuming that this line is a typo and that the author does not believe this?
+Or if the author does beleive this, then that's totally based.
+
+```
+The organization SchoolHouse Connection tracks state laws covering the ability
+of minors to access medical care without their parents’ consent as part of its
+advocacy on behalf of homeless children.
+(16 “State Laws on Minor Consent for Routine Medical Care,” SchoolHouse Connection, September 3, 2021, https://schoolhouseconnection.org/state-laws​-on-minor-consent-for-routine-medical-care/ (accessed May 27, 2022).)
+
+SchoolHouse Connection documents that 33 states and the District of Columbia
+have some legal provisions that allow minors to obtain routine health care
+without parental consent.
+(17 Ibid.)
+
+Seventeen states have no such provisions.
+```
+so the argument here is that homeless youth (who probably don't have parents
+that care for them) should NOT recieve medical attention? That's unreasonably
+messed up.
+
+```
+In states that do have such legal provisions, it is possible for adolescents to
+obtain puberty blockers and cross-sex hormones, at least under some circumstances,
+as those medical interventions have come into broader use for youth who identify
+as transgender.
+(18 Ibid.)
+```
+this actually brings up a great point: Should homeless youth be banned from
+gender-affirming procedueres in the same way that non-homeless youth are proposed
+to be by the author? I disagree with this. I think that if the government is
+going to refuse to take care of these children (which they absolutely should),
+then said kids should have the ability to do whatever they want with their bodies,
+since the world is now treating them like an adult. If the Right is truly pro-
+self dominion, then they will agree with giving homeless children bodily
+autonomy as well.
+
+```
+In states without such legal provisions, there is no regular process that allows
+adolescents to obtain puberty blockers or cross-sex hormones without their
+parents’ consent.
+
+The conditions under which minors can access routine health care without parental
+consent are extremely limited in some states. For example, in Arizona a minor
+must be legally married, or documented as homeless, in order to access routine
+health care without parental consent.
+(19 “Arizona Revised Statutes Title 44. Trade and Commerce § 44–132. Capacity of Minor to Obtain Hospital, Medical and Surgical Care; Definition,” FindLaw, current as of March 8, 2022, https://codes.findlaw.com/az/title-44-trade-and-commerce/az-rev-st-sect-44-132.html (accessed May 26, 2022).)
+
+ In other states, such as Minnesota, minors can obtain routine health care without parental consent if they live separately from their parents, regardless of the duration of that separation, and manage their own finances, regardless of their source of income.20
+“Minnesota Statutes Health (Ch. 144–159) § 144.341. Living Apart from Parents and Managing Financial Affairs,” FindLaw, current as of January 1, 2018, https://codes.findlaw.com/mn/health-ch-144-159/mn-st-sect-144-341.html (accessed May 26, 2022).
+
+ In other states, such as Alabama, Louisiana, and Oregon, there only appears to be a minimum age or a required determination by the health care provider that the minor is mentally competent to obtain health care without parental consent.21
+“Oregon Revised Statutes Domestic Relations § 109.640,” FindLaw, current as of January 1, 2019, https://codes.findlaw.com/or/title-11-domestic​-relations/or-rev-st-sect-109-640.html (accessed May 26, 2022); “Alabama Code Title 22. Health, Mental Health, and Environmental Control § 22-8-4,” FindLaw, accessed April 14, 2022, https://codes.findlaw.com/al/title-22-health-mental-health-and-environmental-control/al-code-sect-22-8-4.html (accessed May 26, 2022); and “Louisiana Revised Statutes Tit. 40, § 1079.1. Medical Treatment,” FindLaw, current as of January 1, 2019, https://codes​.findlaw.com/la/revised-statutes/la-rev-stat-tit-40-sect-1079-1.html (accessed May 26, 2022).
+
+
+
+There is no obvious geographic, demographic, or partisan pattern to whether states have these provisions. As seen in Appendix Table 1, states without a provision are Connecticut, Georgia, Iowa, Kentucky, Michigan, Mississippi, Nebraska, New Hampshire, New Jersey, New York, North Carolina, Ohio, South Dakota, Tennessee, Vermont, West Virginia, and Wisconsin. The states with a provision are similarly diverse and settled on their legal arrangements long ago for reasons unrelated to the transgender issue.22
 ```
 
 # 15 June 2022
