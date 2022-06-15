@@ -3918,15 +3918,44 @@ are introduced and used widely, and only in states where minors could access
 those medical interventions without parental consent raises serious concerns
 about their effects on suicide risks.
 
-The research presented here does not directly examine whether the individuals who receive gender-related medical interventions are at a higher risk of suicide, but it does directly examine the state policies that facilitate minors accessing those interventions without parental consent and finds that those policies raise suicide risks among young people.
+The research presented here does not directly examine whether the individuals
+who receive gender-related medical interventions are at a higher risk of suicide,
+but it does directly examine the state policies that facilitate minors accessing
+those interventions without parental consent and finds that those policies raise
+suicide risks among young people.
 
-To believe that easier access to puberty blockers and cross-sex hormones are not the cause of elevated suicide risk in those states, one would have to be able to imagine other medical interventions that only became widely available after 2010 and would only affect young people. The lack of theoretically plausible alternatives strengthens the case for concluding that cross-sex medical interventions are the cause of the observed increase in suicide among young people.
+To believe that easier access to puberty blockers and cross-sex hormones are
+not the cause of elevated suicide risk in those states, one would have to be
+able to imagine other medical interventions that only became widely available
+after 2010 and would only affect young people. The lack of theoretically
+plausible alternatives strengthens the case for concluding that cross-sex medical
+interventions are the cause of the observed increase in suicide among young people.
 
 State Policy Recommendations
-At a minimum, the results presented in this Backgrounder demonstrate that efforts to lower legal barriers for minors to receive cross-sex medical interventions do not reduce suicide rates and likely lead to higher rates among young people in states that adopt those changes. States that currently facilitate minors’ access to routine health care without the consent of a parent or legal guardian should consider revising such policies. States should also adopt parental bills of rights that affirm that parents have primary responsibility for their children’s education and health, and that require schools to receive permission from parents before administering health services to students, including medication and gender-related counseling to students under age 18.
+At a minimum, the results presented in this Backgrounder demonstrate that efforts
+to lower legal barriers for minors to receive cross-sex medical interventions
+do not reduce suicide rates and likely lead to higher rates among young people
+in states that adopt those changes. States that currently facilitate minors’ access
+to routine health care without the consent of a parent or legal guardian should
+consider revising such policies. States should also adopt parental bills of rights
+that affirm that parents have primary responsibility for their children’s education
+and health, and that require schools to receive permission from parents before
+administering health services to students, including medication and gender-related
+counseling to students under age 18.
 
-This research adds to the well-established wisdom that children are better off if they are not allowed to make major life decisions without their parents’ involvement and permission. In general, parents are better positioned than anyone else, including the children themselves, to understand the needs of their children when making important decisions. State policies that undermine this relationship between parents and children are dangerous and should be repealed. Similarly, those who work with children in professional capacities, including health, education, and counseling, should be careful about substituting their own judgment for that of the parents. The research presented here supports the view that children fare significantly better when their parents have the authority to know about, and help to make, major decisions for their own children.
+This research adds to the well-established wisdom that children are better off
+if they are not allowed to make major life decisions without their parents’
+involvement and permission. In general, parents are better positioned than anyone
+else, including the children themselves, to understand the needs of their
+children when making important decisions. State policies that undermine this
+relationship between parents and children are dangerous and should be repealed.
+Similarly, those who work with children in professional capacities, including
+health, education, and counseling, should be careful about substituting their
+own judgment for that of the parents. The research presented here supports the
+view that children fare significantly better when their parents have the
+authority to know about, and help to make, major decisions for their own children.
 
-Lastly, given the danger of cross-sex treatments demonstrated in this Backgrounder, states should tighten the criteria for receiving these interventions, including raising the minimum eligibility age.
 
-# 15 June 2022
+Lastly, given the danger of cross-sex treatments demonstrated in this Backgrounder,
+states should tighten the criteria for receiving these interventions,
+including raising the minimum eligibility age.
