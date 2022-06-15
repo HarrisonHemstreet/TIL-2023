@@ -3833,7 +3833,12 @@ and cross-sex hormones become available.
 
 The results remain substantively the same in their general magnitude, direction,
 and statistical significance regardless of the approach.
-
+```
+okay so this is just flat out gobeldy-gook. He can't flip flop from hating on
+observational studies and then say that the answer to the problem at hand is
+an observational study. The author's position on what makes a study valid is
+incoherit
+```
 The Results
 In the past several years, the suicide rate among those ages 12 to 23 has become
 significantly higher in states that have a provision that allows minors to receive
@@ -3842,7 +3847,12 @@ Before 2010, these two groups of states did not differ in their youth suicide ra
 Starting in 2010, when puberty blockers and cross-sex hormones became widely
 available, elevated suicide rates in states where minors can more easily access
 those medical interventions became observable.
+```
+the number of school shootings since 2010 has also dramatically gone up. My point
+is that correlation does not equal causation as the old saying goes. Something
+this author has completly forgotten in the last half of this article.
 
+```
 Rather than being protective against suicide, this pattern indicates that easier
 access by minors to cross-sex medical interventions without parental consent is
 associated with higher risk of suicide. The Heritage model plotted the difference
@@ -3853,7 +3863,11 @@ when cross-sex medical interventions became available. For comparison, Chart 2
 also shows the trend in this difference for a group ages 28 to 39, who could not
 have been affected by these policies, since the people in this group would have
 been at least 18 when puberty blockers and cross-sex hormones became available.
+```
+Again, puberty blockers have been available since 1983!!!!!!!!!! This guy
+did not do his research!
 
+```
 Without making any adjustments, suicide rates among those ages 12 to 23 (blue
 line) begin to spike in states that have provisions that allow minors to access
 health care without parental consent relative to states that have no such provision
@@ -3887,11 +3901,19 @@ Trends results for the terms associated with those medical interventions as a
 proxy for their availability shows that increased suicide rates in states with
 easier access almost perfectly track the prevalence of those terms. (Compare
 Charts 1 and 3.)
+```
+this guy is so silly. How many people have researched puberty blockers because
+their favorite anti-trans activitst did an expose on them? Not everyone who
+googles 'puberty blockers' is trans. This guy is either stupid or a liar.
 
+```
 This elevated rate of youth suicide is statistically significant at conventional
 levels, and robust to different approaches to modeling the trend over time.
 (See Appendix Tables 2–5 for regression results.)
+```
+again, by the author's own account, obersvational studies are not permissible.
 
+```
 It is useful to conduct a “placebo test” to examine whether the elevated rate
 of suicides among young people in states where it was easier for minors to access
 cross-sex interventions also existed among slightly older people who could not
@@ -3917,45 +3939,118 @@ rates only among young people, only after puberty blockers and cross-sex hormone
 are introduced and used widely, and only in states where minors could access
 those medical interventions without parental consent raises serious concerns
 about their effects on suicide risks.
+```
+"The results presented in this Backgrounder provide strong evidence for the claim
+that suicides among young people have increased significantly since 2010 in states
+that have a policy allowing minors to access routine health care without parental
+consent." Okay so is that just a trend for youth who have access to health care
+without parental consent, or is this trend for trans youth? This guy just flip
+flopped his entire thesis!!!! What in the world!
+```
 
 The research presented here does not directly examine whether the individuals
 who receive gender-related medical interventions are at a higher risk of suicide,
 but it does directly examine the state policies that facilitate minors accessing
 those interventions without parental consent and finds that those policies raise
 suicide risks among young people.
+```
+wow, there were so many hoops just jumped through. What about all the suicides
+resulting from murder suicides at school shootings? Maybe there's moreso a mental
+health crisis and less of a trans crisis. But the author is too afraid to say that
+because then he will loose conservative supporters. the grift is real.
 
+```
 To believe that easier access to puberty blockers and cross-sex hormones are
 not the cause of elevated suicide risk in those states, one would have to be
 able to imagine other medical interventions that only became widely available
 after 2010 and would only affect young people. The lack of theoretically
 plausible alternatives strengthens the case for concluding that cross-sex medical
 interventions are the cause of the observed increase in suicide among young people.
+```
+Well, when you play with the data this much, you can get just about any conclusion
+you want. for example, since 2008, (which is close to 2010), marvel movies have
+released more and more frequently. I could just as easily draw up a graph showing
+that marvel movie releases are the cause of the increase in trans-youth suicide
+and my observation would be JUST AS TRUE as what has been presented in this article.
+And again, the author spent the first half of the article tearing down as to why
+observational studies are not trustworthy, just to go back and say the answer
+to the problem at hand are more observational studies. Like give me a break.
+To the unassuming reader, the author's praise of RCTs as a form of 'gold standard'
+of studies, and then a perscription of how one can build a study to successfully
+draw a conclusion from the data, leads the unassuming reader to believe that the
+author has given a 'gold-standard' approach to solving this problem. What a liar.
 
+```
 State Policy Recommendations
 At a minimum, the results presented in this Backgrounder demonstrate that efforts
 to lower legal barriers for minors to receive cross-sex medical interventions
-do not reduce suicide rates and likely lead to higher rates among young people
-in states that adopt those changes. States that currently facilitate minors’ access
-to routine health care without the consent of a parent or legal guardian should
-consider revising such policies. States should also adopt parental bills of rights
-that affirm that parents have primary responsibility for their children’s education
-and health, and that require schools to receive permission from parents before
-administering health services to students, including medication and gender-related
-counseling to students under age 18.
+do not reduce suicide rates...
+```
+true
+```
+...and likely lead to higher rates among young people in states that adopt those
+changes.
+```
+false, as far as we know. this is pure conjecture.
+```
+States that currently facilitate minors’ access to routine health care without
+the consent of a parent or legal guardian should consider revising such policies.
+States should also adopt parental bills of rights that affirm that parents have
+primary responsibility for their children’s education and health, and that require
+schools to receive permission from parents before administering health services to
+students, including medication and gender-related counseling to students under age 18.
+```
+unfortuneatly, the author has utterly failed to prove that such would work. All
+he has proved is that he loves Google Trends enough to marry and consumate with.
 
+```
 This research adds to the well-established wisdom that children are better off
 if they are not allowed to make major life decisions without their parents’
-involvement and permission. In general, parents are better positioned than anyone
-else, including the children themselves, to understand the needs of their
-children when making important decisions. State policies that undermine this
-relationship between parents and children are dangerous and should be repealed.
-Similarly, those who work with children in professional capacities, including
-health, education, and counseling, should be careful about substituting their
-own judgment for that of the parents. The research presented here supports the
-view that children fare significantly better when their parents have the
-authority to know about, and help to make, major decisions for their own children.
+involvement and permission.
+```
+THIS IS LITTERALLY A LOGICAL FALLACY! He's using a truism here!!!! This guy doesn't
+know anything about anything when it comes to writing articles! He's just pandering
+to his trans-hating audience here! hahahaha!!!!!!
+```
+In general, parents are better positioned than anyone else, including the
+children themselves, to understand the needs of their children when making
+important decisions.
+```
+thank you for pointing out yourself that you are using a generalization fallacy!
+AND GUESS WHAT this is generalizing SO HARD RIGHT NOW, that all the youth kicked
+out of their parents homes for being LGBT- who are now homeless- are NOT covered
+by this AT ALL! This author does not, and never has lived in the real world. Sure
+this *might* be true if we lived in a 1950's nuclear family american that also
+**never** existed, but we obviously DO NOT! Too many parents straight up DO NOT
+care about their kids, and to just magically expect so, is SILLY!
+
+```
+State policies that undermine this relationship between parents and children are
+dangerous and should be repealed. Similarly, those who work with children in
+professional capacities, including health, education, and counseling, should be
+careful about substituting their own judgment for that of the parents. The
+research presented here supports the view that children fare significantly better
+when their parents have the authority to know about, and help to make, major
+decisions for their own children.
+```
+*helicopter parrent alert* and none of these claims have been substantiated in
+this article.
 
 
 Lastly, given the danger of cross-sex treatments demonstrated in this Backgrounder,
 states should tighten the criteria for receiving these interventions,
 including raising the minimum eligibility age.
+```
+I also cannot believe I didn't catch this before, but the term 'cross-sex' is
+super wrong, even in the context of this article. Sex is biological, while gender
+is social. Any treatment done to a person's body does not change their sex, it
+changes their social expression. A trans woman is still male. And NO ONE who actually
+knows what they are talking about will argue otherwise.
+
+
+All in all, this article #1 did not prove it's own thesis statement, #2 was deeply
+inconsistent in perscriptions towards data collection and analysis, #3 completly
+lazy (and one can only assume bigoted) in their mish-mash of academic terms,
+colloquial terms, and made up terms, and #4 used politically charged language at
+every corner (in the sneakiest ways possible) in order to make being trans appear
+to be nothing more than a raw mental illness.
