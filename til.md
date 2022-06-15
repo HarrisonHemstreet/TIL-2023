@@ -3337,27 +3337,140 @@ interventions. (24 Randomization in a randomized controlled trial isolates the e
 I totally agree that an RCT is needed in order to create as hard of proof as
 possible for any scientific claim. However, the auther must know that having an
 RCT in these circumstances (particulary a study that may or may not increase
-suicide rates) is highly unethical.
+suicide rates) is highly unethical. The best we can do is look at people's lives
+after said people initiate gender-affirming procedures. That by itself has issues
+of population bias though. All in all, there end up being way too many confounding
+variables without RCTs. So if this is an admittance from the author on the
+neccesity of RCTs in order to prove anything scientifically, then I expect the
+author to follow through with that and extend the claim to the rest of this article
+- including to all the positions held by the author himself in regards to the
+dangers of gender-affirming procedures.
 
+```
+The use of puberty blockers and sex hormones to address gender issues is also
+relatively recent, with widespread adoption occurring only within the past few
+years. (25 Michael Biggs, “Puberty Blockers and Suicidality in Adolescents Suffering from Gender Dysphoria,” Archives of Sexual Behavior, Vol. 49, No. 7 (October 2020), pp. 2227–2229, https://doi.org/10.1007/s10508-020-01743-6 (accessed May 26, 2022), and Klotz, “The Fractious Evolution of Pediatric Transgender Medicine.”)
 
+The fact that randomized experiments were not required for this use of puberty
+blockers and sex hormones, and that this novel use of these drugs is relatively
+recent, means that only a handful of studies examine their effects, and all
+these studies use inferior correlational research designs.
+```
+1. according to some brief research, it looks like the specific hormone blockers
+talked about (GnRH), were introduced in 1983, which means they have been around
+for aprox 39 years. That's longer than aids medications have been around. That's
+longer than many medications have been around. Using a sneaky temporal proximity
+argument is another logical fallacy. Just because something is "relatively new",
+or "relatively old", does not inheritly prove anything. The author though, is
+attempting to insinuate that temporal proximity has somthing major to do in the
+acceptance of medications, which is false.
 
+2. since 1993, LUPRON DEPOT-PED has been aproved for human use.
+https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020263
 
-The use of puberty blockers and sex hormones to address gender issues is also relatively recent, with widespread adoption occurring only within the past few years.25
-Michael Biggs, “Puberty Blockers and Suicidality in Adolescents Suffering from Gender Dysphoria,” Archives of Sexual Behavior, Vol. 49, No. 7 (October 2020), pp. 2227–2229, https://doi.org/10.1007/s10508-020-01743-6 (accessed May 26, 2022), and Klotz, “The Fractious Evolution of Pediatric Transgender Medicine.”
+3. sure, these research designs may be inferior to RTCs, but many of these studies
+are as good as we can get without breaking some serious ethics
 
- The fact that randomized experiments were not required for this use of puberty blockers and sex hormones, and that this novel use of these drugs is relatively recent, means that only a handful of studies examine their effects, and all these studies use inferior correlational research designs.
+4. Let's back up for a second: if we were to prove a correlation and causation
+between a cetain activity and an increase in suicide due to said activity, how
+would we do that? What biostatical instruments and/or methods can one use to
+collect data on suicidality and injestibles? According to an article I found in
+the National Library of Meicine, it maybe too unclear and/or unethical to create
+instruments via biostatics to track rates of suicidality via anything aproximating
+an RTC: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5517300/
+"Most suicide risk assessment instruments were supported by too few studies to
+allow for evaluation of accuracy. Among those that could be evaluated, none
+fulfilled requirements for sufficient diagnostic accuracy." SO LET'S BACK UP HERE!
+If suicide risk assessment in general is a percarious field of study without
+enough research to go off of, then how can ANY item or activity be linked to
+an increase in suicide risk with enough academic rigor desired by the author?
+The answer is that there are no known ways of tracking suicide risk acuratly enough
+to call it a science. At this point, tracking suicide risk is a guessing game.
 
-The main defect of studies relying on correlational research designs is that they are unable to determine with confidence whether any relationships between receiving these drugs and later health outcomes are causal. That is, one can never know with confidence whether the drugs cause those outcomes, or whether other factors that make people more likely to receive the drugs were the causes. This inherent weakness in correlational research is precisely why regulators, such as the U.S. Food and Drug Administration, typically require randomized experiments before approving a drug.26
-U.S. Food and Drug Administration, “CFR– Code of Federal Regulations Title 21,” https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch​.cfm?fr=314.126 (accessed May 26, 2022).
+```
+The main defect of studies relying on correlational research designs is that
+they are unable to determine with confidence whether any relationships between
+receiving these drugs and later health outcomes are causal. That is, one can
+never know with confidence whether the drugs cause those outcomes, or whether
+other factors that make people more likely to receive the drugs were the causes.
+This inherent weakness in correlational research is precisely why regulators,
+such as the U.S. Food and Drug Administration, typically require randomized
+experiments before approving a drug.
+(26 U.S. Food and Drug Administration, “CFR– Code of Federal Regulations Title 21,” https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch​.cfm?fr=314.126 (accessed May 26, 2022).)
+```
 
- In an experiment, the only thing that determines whether people receive the medical intervention is chance, so any differences in outcomes between those who did and did not get the treatment would have to be caused by the intervention and not another factor.
+the keyword here is 'typically'. The FDA is no where near perfect. There are a
+lot of things I believe they need to crack down on. Specifically suplements.
+If something is a supplement, then it DOES NOT need to be tested by the FDA, which
+is super messed up. However, the people who are generally anti-trans are on the
+Right. Many people on the Right is anti government interference. If this track
+follows, then there must be a consistency in this area. Either the individual is
+pro-government interference in private sells of comodities, or the individual is
+not. The individual cannot pick and choose what is and what is not allowed to be
+investigated. Now I have no idea what the author's beliefs are on government
+interference, but this must be stated in an effort to address the hipocracy
+demonstrated by many on the Right.
 
-This weakness of correlational research designs can be illustrated by examining one of the most prominent studies claiming to find that adolescents who receive cross-sex hormones have a lower risk of suicide.27
-Jack L. Turban et al., “Access to Gender-Affirming Hormones During Adolescence and Mental Health Outcomes Among Transgender Adults,” PLOS ONE, Vol. 17, No. 1 (January 12, 2022), p. e0261039, https://doi.org/10.1371/journal.pone.0261039 (accessed May 26, 2022).
+I totally agree that we need more research. More research is absolutely the answer
+here. I'm convinced that there are drugs that are magnitudes better than what we
+have for blocking hormones. There always will be. However, if, because of the
+lack of studies, legislators push to prevent studies taking place, then we will
+never find the answers to these problems. Just because something is unknown does
+not inheritly mean that said thing is dangerous. There are many subliminal
+assumptions being made by the author too often that is affecting the reception
+of the audience towards the subject at hand.
 
- That study, led by Jack Turban of Stanford Medical School and published in PLOS ONE in 2022, examines the results of a 2015 survey of more than 27,000 American adults who identify as transgender. The survey was not meant to be representative of all such adults because its participants were recruited as a convenience sample, largely through transgender support groups. Subjects were asked whether they had ever sought cross-sex hormones, and then whether they had ever received them. Respondents who never sought cross-sex hormones were excluded from the analysis. The main comparison examined in the study was between those who had sought and received the hormones, and those who had sought but never received them when they were between 14 and 17.
+```
+In an experiment, the only thing that determines whether people receive the
+medical intervention is chance, so any differences in outcomes between those who
+did and did not get the treatment would have to be caused by the intervention
+and not another factor.
+```
+ahhh thank you Mr. Author. So, you're saying that perhaps other factors such as
+bullying and societal hatred could be causes of suicide among trans children
+more often than the gender-affirming procedures are? If there's even a chance of
+this being true, then how much credence can we give to any pro or anti-trans
+study? Are all the observational studies referenced thus far a net neutral for
+the argument at hand?
 
-The obvious defect in this comparison is that there are reasons why some people were able to get the hormones while others could not, even though all of them report wanting to get them. The reasons that allowed some to access them but not others are likely strongly related to later mental health. One of the most important reasons why some adolescents were able to access the hormone therapies while others could not is that parental consent is often, though not always, required to get these drugs. As is well known from research on gender-confused youth, as well as more generally, closer and more positive relationships between children and parents promote mental well-being and is protective against suicide.
+```
+This weakness of correlational research designs can be illustrated by examining
+one of the most prominent studies claiming to find that adolescents who receive
+cross-sex hormones have a lower risk of suicide.
+(27 Jack L. Turban et al., “Access to Gender-Affirming Hormones During Adolescence and Mental Health Outcomes Among Transgender Adults,” PLOS ONE, Vol. 17, No. 1 (January 12, 2022), p. e0261039, https://doi.org/10.1371/journal.pone.0261039 (accessed May 26, 2022).)
+```
+again, the implication of this statement is that the inverse is true. The author
+is using too much bias-charged language in this article. What this author is saying
+is that no study on trans-sciences can be studied. However, the subtext is saying
+even more than that, that being trans is scientifically wrong. The author continues
+to make too many subliminal assumptions of the current science.
+
+```
+That study, led by Jack Turban of Stanford Medical School and published in
+PLOS ONE in 2022, examines the results of a 2015 survey of more than 27,000
+American adults who identify as transgender. The survey was not meant to be
+representative of all such adults because its participants were recruited as a
+convenience sample, largely through transgender support groups. Subjects were
+asked whether they had ever sought cross-sex hormones, and then whether they
+had ever received them. Respondents who never sought cross-sex hormones were
+excluded from the analysis. The main comparison examined in the study was between
+those who had sought and received the hormones, and those who had sought but
+never received them when they were between 14 and 17.
+
+The obvious defect in this comparison is that there are reasons why some people
+were able to get the hormones while others could not, even though all of them
+report wanting to get them. The reasons that allowed some to access them but not
+others are likely strongly related to later mental health.
+```
+okay stop. How do you know that they were not allowed to get the hormones because
+of mental health??????? This is flat out heresay. Where is the evidence? Even
+if this is true, the author does not cite evidence directly. I should not have
+comb through the study to verify if this true or is not. This statment must be
+cited directly because of how large of a claim this is. And the use of 'probably'
+when referencing a study? You want to talk about bad science? using the word
+'probably' in a coloquiol way like so is just bad writing.
+```
+One of the most important reasons why some adolescents were able to access the hormone therapies while others could not is that parental consent is often, though not always, required to get these drugs. As is well known from research on gender-confused youth, as well as more generally, closer and more positive relationships between children and parents promote mental well-being and is protective against suicide.
 
 The problem, then, with the Turban study, is that it is impossible to know whether the reduced odds of contemplating suicide among adults who sought and received hormone therapy as children were a result of the relationship with their parents who gave consent for this intervention or a result of the intervention itself. If a close and positive relationship between parents and children struggling with gender identity is the key to successful outcomes for those adolescents, then the hormones themselves might make no difference, or even be harmful. But that effect would be masked by the kind of parent–child relationship that exists when parents are more likely to consent.
 
