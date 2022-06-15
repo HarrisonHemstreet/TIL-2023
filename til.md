@@ -2785,14 +2785,61 @@ Karthik's phone.
 # 14 June 2022
 
 # 15 June 2022
+```
 Lowering legal barriers to make it easier for minors to undergo cross-sex medical
-interventions without parental consent does not reduce suicide rates—in fact,
-it likely leads to higher rates of suicide among young people in states that
-adopt these changes. States should instead adopt parental bills of rights that
-affirm the fact that parents have primary responsibility for their children’s
-education and health, and that require school officials and health professionals
-to receive permission from parents before administering health services, including
-medication and “gender-affirming” counseling, to children under 18. States should
-also tighten the criteria for receiving cross-sex treatments, including raising
-the minimum eligibility age.
+interventions without parental consent does not reduce suicide rates—
+```
+needs proof
+```
+in fact, it likely leads to higher rates of suicide among young people in states
+that adopt these changes.
+```
+needs proof
+```
+States should instead adopt parental bills of rights that affirm the fact that
+parents have primary responsibility for their children’s education and health,
+```
+on face value, this sounds like a good idea, but there are possible issues that
+will propegate up if given the change, such as an increase in sex-abuse, and an
+increase in homophobia/transphobia. This also may increase the neglect that kids
+face if more responsability is put upon parents to educate their children. All
+of this is heresay though, because no actual 'bill of rights' is proposed. This
+is just an idea at this point. An actual draft would need to be provided in order
+for it to be considered. I'm not inheritly against a bill of rights for parents,
+but the language used does give me pause.
+```
+and that require school officials and health professionals to receive permission
+from parents before administering health services,
+```
+I see this argument a lot. Several issues appear when something like this is
+implemented though, including a refusal from parents for life saving medical
+services. Jehovah's Witnesses refuse blood transfusions. However, despite religous
+beliefes i belive it is imperitive to save the lives of those kids. This idea is
+shown througout HIPA.
+```
+including medication and “gender-affirming” counseling, to children under 18.
+```
+What is the definition of 'medication' here? Too broad. "gender-affirming"
+counseling has been something proposed by the Right as something that should be
+required by law before recieving gender-affirming medical care. I really hope
+that at the very least, this article stays philosophically consistent with being
+anti-gender-affirming counseling. In any case though, I may be wrong about this,
+but I don't believe that parents currently have the right to know what is talked
+about between child and counselor unless the child gives permission. I know that
+this article is for chainging that, however this separation between child and
+parents is for a reason. I believe that parents should NOT be privy to private
+conversations between child and counselor because there are things that said
+children should have a right to privacy about. If a child's secrets are forced
+to be shared with parents, a window of abusive opens up within the home, creating
+a deeply unsafe situation between parents and children.
 
+```
+States should also tighten the criteria for receiving cross-sex treatments,
+including raising the minimum eligibility age.
+```
+so are we pro-states rights, or are we not? again, it seems that the Right will
+take positions that favor the Right's beliefs when it comes to states' rights,
+but will call daddy Fed when a state is violating what the Right believes in.
+I really hope this author stays consitent in what he believes in...
+
+# 15 June 2022
