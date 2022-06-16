@@ -4054,3 +4054,5 @@ lazy (and one can only assume bigoted) in their mish-mash of academic terms,
 colloquial terms, and made up terms, and #4 used politically charged language at
 every corner (in the sneakiest ways possible) in order to make being trans appear
 to be nothing more than a raw mental illness.
+
+# 16 June 2022
