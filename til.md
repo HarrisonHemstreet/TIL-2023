@@ -4063,21 +4063,19 @@ to be nothing more than a raw mental illness.
 
 # 21 June 2022
 
-
-# 21 June 2022
-
-# 21 June 2022
-
-# 21 June 2022
-
-# 21 June 2022
-
-# 21 June 2022
-
-# 21 June 2022
-
 # 22 June 2022
+I also cannot believe I didn't catch this before, but the term 'cross-sex' is
+super wrong, even in the context of this article. Sex is biological, while gender
 
-# 22 June 2022
+I also cannot believe I didn't catch this before, but the term 'cross-sex' is
+super wrong, even In the context of this article. Sex is biological, while gender
+
+I also cannot believe I didn't catch this before, but the term 'cross-sex' is
+super wrong, even In the context of this article. but the term 'cross-sex' is
+
+I also cannot believe I didn't catch this before, but the term 'cross-sex' is
+I also cannot believe I didn't catch this before, but the term 'cross-sex' is
+I also cannot believe I didn't catch this before, but the term 'cross-sex' is
+I also cannot believe I didn't catch this before, but the term 'cross-sex' is
 
 # 22 June 2022
