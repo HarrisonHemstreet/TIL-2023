@@ -4077,3 +4077,29 @@ super wrong, even in the context of this article. Sex is biological, while gende
 
 # 28 June 2022
 buy a built in monitor/hub (look for a KVM display)
+
+c/crontab
+ 1   # Edit this file to introduce tasks to be run by cron.
+   1 # # Each task to run has to be defined through a single line
+   2 # indicating with different fields when the task will be run
+   3 # and what command to run for the task
+   4 #
+   5 # To define the time you can provide concrete values for
+   6 # minute (m), hour (h), day of month (dom), month (mon),
+   7 # and day of week (dow) or use '*' in these fields (for 'any').
+   8 #
+   9 # Notice that tasks will be started based on the cron's system # daemon's notion of time and timezones.
+  10 #
+  11 # Output of the crontab jobs (including errors) is sent through
+  12 # email to the user the crontab file belongs to (unless redirected).
+  13 #
+  14 # For example, you can run a backup of all your user accounts
+  15 # at 5 a.m every week with:
+  16 # 0 5 * * 1 tar -zcf /var/backups/home.tgz /home/
+  17 #
+  18 # For more information see the manual pages of crontab(5) and cron(8)
+  19 #
+  20 # m h  dom mon dow   command
+  21 6 * * * * ~/til/git-daily.sh
+
+# 28 June 2022
