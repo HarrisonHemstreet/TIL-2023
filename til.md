@@ -4102,8 +4102,6 @@ c/crontab
   20 # m h  dom mon dow   command
   21 6 * * * * ~/til/git-daily.sh
 
-# 28 June 2022
-
-# 28 June 2022
+when I get home, I need to make sure that I get done what I need to get done
 
 # 28 June 2022
