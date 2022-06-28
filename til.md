@@ -4067,63 +4067,13 @@ to be nothing more than a raw mental illness.
 I also cannot believe I didn't catch this before, but the term 'cross-sex' is
 super wrong, even in the context of this article. Sex is biological, while gender
 
-
-# 22 June 2022
-
-# 22 June 2022
-
-# 22 June 2022
-
 # 22 June 2022
 
 # 23 June 2022
 
-# 23 June 2022
-
-# 23 June 2022
-
-# 23 June 2022
-
-# 23 June 2022
-
-# 23 June 2022
-
-# 23 June 2022
-
 # 24 June 2022
-
-# 24 June 2022
-
-# 24 June 2022
-
-# 24 June 2022
-
-# 24 June 2022
-
-# 24 June 2022
-
-# 24 June 2022
-
-# 24 June 2022
-
-# 24 June 2022
-
-# 24 June 2022
-
-# 24 June 2022
-
-# 27 June 2022
-
-# 27 June 2022
-
-# 27 June 2022
-
-# 27 June 2022
-
-# 27 June 2022
-
-# 27 June 2022
 
 # 27 June 2022
 
 # 28 June 2022
+buy a built in monitor/hub (look for a KVM display)
