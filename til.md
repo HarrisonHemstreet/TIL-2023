@@ -4134,3 +4134,5 @@ sqlx - when making a new database interaction, make sure that the URI is correct
 whats after the slash is very important. That is the database name, not the table. Very important.
 So this is using PostgreSQL, the username is 'postgres', the password is 'password' the server is pointing to 'localhost', and the database being used is 'postgres' from which, the
 table 'todos' lives
+
+# 06 July 2022
