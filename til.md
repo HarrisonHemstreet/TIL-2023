@@ -4120,104 +4120,17 @@ FormFire (exploro's benefits site) security codes:
 77150843
 84052890
 
-# 02 July 2022
-
-# 02 July 2022
-
-# 02 July 2022
-
-# 02 July 2022
-
-# 02 July 2022
-
-# 02 July 2022
-
-# 02 July 2022
-
-# 02 July 2022
-
-# 03 July 2022
-
-# 03 July 2022
-
-# 03 July 2022
-
-# 03 July 2022
-
-# 03 July 2022
-
-# 03 July 2022
-
-# 03 July 2022
-
-# 03 July 2022
-
-# 03 July 2022
-
 # 03 July 2022
 
 # 04 July 2022
 
-# 04 July 2022
-
-# 04 July 2022
-
-# 04 July 2022
-
-# 04 July 2022
-
-# 04 July 2022
-
-# 04 July 2022
-
-# 04 July 2022
-
-# 04 July 2022
-
-# 04 July 2022
-
-# 05 July 2022
-
-# 05 July 2022
-
-# 05 July 2022
-
-# 05 July 2022
-
-# 05 July 2022
-
-# 05 July 2022
-
-# 05 July 2022
-
-# 05 July 2022
-
-# 05 July 2022
-
-# 05 July 2022
-
-# 05 July 2022
-
-# 05 July 2022
-
-# 05 July 2022
-
-# 05 July 2022
+ 05 July 2022
 
 # 05 July 2022
 
 # 06 July 2022
-
-# 06 July 2022
-
-# 06 July 2022
-
-# 06 July 2022
-
-# 06 July 2022
-
-# 06 July 2022
-
-# 06 July 2022
-
-# 06 July 2022
+sqlx - when making a new database interaction, make sure that the URI is correct. for example, this is an example of what a good URI looks like:
+`"postgres://postgres:password@localhost/postgres"`
+whats after the slash is very important. That is the database name, not the table. Very important.
+So this is using PostgreSQL, the username is 'postgres', the password is 'password' the server is pointing to 'localhost', and the database being used is 'postgres' from which, the
+table 'todos' lives
