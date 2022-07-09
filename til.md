@@ -4138,4 +4138,21 @@ table 'todos' lives
 # 08 July 2022
 
 # 09 July 2022
+Rust notes:
+1. A generic is a way of defining new types to make your code more clear. For example, if I wanted to draw on a map, I would use longitude and latitude. If I want
+to make sure I'm using them both, I could parameterize data like so:
 
+```rust
+struct Point<Longetude, Latitude> {
+    x: Longetude,
+    y: Latitude,
+}
+
+fn main() {
+    let both_integer = Point { x: 5, y: 10 };
+    let both_float = Point { x: 1.0, y: 4.0 };
+    let integer_and_float = Point { x: 5, y: 4.0 };
+}
+```
+
+# 09 July 2022
