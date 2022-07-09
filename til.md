@@ -4124,8 +4124,6 @@ FormFire (exploro's benefits site) security codes:
 
 # 04 July 2022
 
- 05 July 2022
-
 # 05 July 2022
 
 # 06 July 2022
@@ -4135,52 +4133,9 @@ whats after the slash is very important. That is the database name, not the tabl
 So this is using PostgreSQL, the username is 'postgres', the password is 'password' the server is pointing to 'localhost', and the database being used is 'postgres' from which, the
 table 'todos' lives
 
-# 06 July 2022
-
-# 06 July 2022
-
-# 06 July 2022
-
-# 06 July 2022
-
-# 06 July 2022
-
-# 06 July 2022
-
-# 06 July 2022
-
 # 07 July 2022
-
-# 07 July 2022
-
-# 07 July 2022
-
-# 07 July 2022
-
-# 07 July 2022
-
-# 07 July 2022
-
-# 07 July 2022
-
-# 07 July 2022
-
-# 08 July 2022
-
-# 08 July 2022
-
-# 08 July 2022
-
-# 08 July 2022
 
 # 08 July 2022
 
 # 09 July 2022
 
-# 09 July 2022
-
-# 09 July 2022
-
-# 09 July 2022
-
-# 09 July 2022
