@@ -4154,9 +4154,7 @@ fn main() {
     let integer_and_float = Point { x: 5, y: 4.0 };
 }
 ```
+now of course this is not the greatest example, because :
 
-# 09 July 2022
+# 19 July 2022
 
-# 09 July 2022
-
-# 09 July 2022
