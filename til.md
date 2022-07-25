@@ -4158,119 +4158,17 @@ now of course this is not the greatest example, because :
 
 # 19 July 2022
 
-
-# 19 July 2022
-
-# 19 July 2022
-
-# 19 July 2022
-
-# 19 July 2022
-
-# 19 July 2022
-
-# 19 July 2022
-
-# 19 July 2022
-
 # 20 July 2022
 
 # 21 July 2022
 
-# 21 July 2022
-
-# 21 July 2022
-
-# 21 July 2022
-
-# 21 July 2022
-
-# 21 July 2022
-
-# 21 July 2022
-
-# 21 July 2022
-
-# 21 July 2022
-
-# 21 July 2022
-
-# 21 July 2022
-
-# 22 July 2022
-
-# 22 July 2022
-
-# 22 July 2022
-
-# 22 July 2022
-
-# 22 July 2022
-
-# 22 July 2022
-
-# 22 July 2022
-
-# 22 July 2022
-
-# 22 July 2022
-
-# 22 July 2022
-
-# 22 July 2022
-
-# 22 July 2022
-
-# 22 July 2022
-
-# 22 July 2022
-
-# 22 July 2022
-
-# 22 July 2022
-
-# 22 July 2022
-
-# 22 July 2022
-
-# 22 July 2022
-
-# 22 July 2022
-
-# 22 July 2022
-
 # 22 July 2022
 
 # 23 July 2022
-
-# 23 July 2022
-
-# 23 July 2022
-
-# 23 July 2022
-
-# 23 July 2022
-
-# 23 July 2022
-
-# 23 July 2022
-
-# 23 July 2022
-
-# 23 July 2022
-
-# 24 July 2022
-
-# 24 July 2022
-
-# 24 July 2022
-
-# 24 July 2022
 
 # 24 July 2022
 
 # 25 July 2022
 
-# 25 July 2022
-
-# 25 July 2022
+Drupal:
+if I want to change something in Drupal, then I will need to login, go to structure, then go to taxonomy. Hit the the thing that starts with 't' (i think? whatever word it is mean an item in Drupal terms). That should then open up all the airlines. I click on edit for one. Then I add an image or make whatever changes I need to. In order to see the change, I will need to then open that menu and that saves the changes and save them. I then ask Andrew to make a new bundle and move it over to the server. I then can ssh into the ec2 we have up using `ssh drupal` (or maybe `ssh Bastion`, then from within that I run the ssh drupal command. That's what Zach did). At that point I should be able to find the directory (somewhere under '3rd party') and look at the changes I made to the code. If the code has been updated correctly, I should be able to see the changes I've made.
