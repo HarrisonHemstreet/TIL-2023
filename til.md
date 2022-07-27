@@ -4177,3 +4177,5 @@ if I want to change something in Drupal, then I will need to login, go to struct
 
 # 27 July 2022
 Todo: move exploro logo down and put space between 'powered by' and exploro logo (just a little!)
+
+# 27 July 2022
