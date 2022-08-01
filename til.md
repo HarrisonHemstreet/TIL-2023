@@ -4203,3 +4203,11 @@ const EVERY_MUNDO_ENUM = Object.freeze({
     red: "yo!"
   })
 ```
+
+2. this project should be completly sustainable. I want this plugin and the way we add it in to allow us to have an easier time adding in new plgins
+* Use Axios-http in the most orthodox way possible.
+* Do I ONLY base location off of ip-address? Or do I have them input it?
+* On second thought, we are going to need a totally different mockup that allows for user input on all of the fields, and probably create enums for all of them in order
+to prevent faulty user input...
+
+# 01 August 2022
