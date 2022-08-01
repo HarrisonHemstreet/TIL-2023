@@ -4211,3 +4211,25 @@ const EVERY_MUNDO_ENUM = Object.freeze({
 to prevent faulty user input...
 
 # 01 August 2022
+
+my task: recursively go through drupal's prvate airline config directory and replace all custom files in there with the files found on master while doing the bundle
+
+dprupal/ CMS-Prod Directory:
+web mods/ custom/ airline_bundler. Thats where the custom airline bundeler is from
+
+The steps for running the bundel are located in line 347 AirlineBundelerForm.php. Find the execution path for prepare bundle
+
+register oppperations
+
+each file is namespaced
+
+add or extend opperation
+
+right now the generate app bundle is 
+
+copyArchiveFiles needs work potentially
+
+copy the gde-frontend files, merge the custom files, run the dist basically with npm run build. 
+* conteny -> Airline Bundler
+
+# 01 August 2022
