@@ -4188,5 +4188,18 @@ Todo: move exploro logo down and put space between 'powered by' and exploro logo
 
 # 01 August 2022
 
+Drupal todos:
+1. get the same level of access Zach has
+2. make custom logos sustainable
+* turn every logo into a vector SVG. We should combine both the airline logo and ours into one SVG logo. If we don't, then we will have to do a log of custom
+programming. Another thing we could do is lay the fonts on top of each other with exploro's being more subdued and in the backgrond, while keeping the airline's
+in front and have it pop more.
+3. make custom fonts sustainable. I think the way we are handling it is fine for right now with two files
 
-# 01 August 2022
+EveryMundo:
+1. use an Enum in node to pre-validate the request. do this like so:
+```javascript
+const EVERY_MUNDO_ENUM = Object.freeze({
+    red: "yo!"
+  })
+```
