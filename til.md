@@ -4232,12 +4232,4 @@ copyArchiveFiles needs work potentially
 copy the gde-frontend files, merge the custom files, run the dist basically with npm run build. 
 * conteny -> Airline Bundler
 
-# 01 August 2022
-
-# 01 August 2022
-
-# 01 August 2022
-
-# 01 August 2022
-
 # 02 August 2022
