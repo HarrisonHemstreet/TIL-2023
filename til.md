@@ -4265,3 +4265,6 @@ copy the gde-frontend files, merge the custom files, run the dist basically with
 # 03 August 2022
 
 # 03 August 2022
+when we merge to master, make a custom hook that talks to jenkins or something. It will go through all custom files for an airline and then write it to the local filesystem
+
+# 03 August 2022
