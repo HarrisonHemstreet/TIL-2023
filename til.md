@@ -4438,3 +4438,5 @@ when we merge to master, make a custom hook that talks to jenkins or something. 
 # 11 August 2022
 I need to basically do the mobile view, prioritizing the video so that we are showing the whole thing instead of cutting off both sides and just showing the middle. I
 also need to take a screenshot of the about component and send that over to Kaden
+
+# 12 August 2022
