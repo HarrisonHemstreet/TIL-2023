@@ -4440,3 +4440,5 @@ I need to basically do the mobile view, prioritizing the video so that we are sh
 also need to take a screenshot of the about component and send that over to Kaden
 
 # 12 August 2022
+
+# 12 August 2022
