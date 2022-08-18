@@ -4568,3 +4568,10 @@ also need to take a screenshot of the about component and send that over to Kade
 # 17 August 2022
 
 # 17 August 2022
+mobile: teal background
+desktop: logo-large push down from top a bit
+mobile only push search bar down below local date and time AND the dropdown AND add a close button for the dropdown (red x)
+prevent the dropdown from hiding the logo
+prevent scroll bars from showing on dropdown
+
+# 18 August 2022
