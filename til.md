@@ -4613,3 +4613,13 @@ prevent scroll bars from showing on dropdown
 # 22 August 2022
 
 # 22 August 2022
+we can run npm run dev and then pass a cli argument, we need to pull in custom javascript files
+how do 
+o
+npm run dev airline=spirit
+is there a file(s) for the airline passed?
+investigate this a lot. will be using webpack
+
+this project: styling, custom code, drupal stuff, make sp
+
+# 22 August 2022
