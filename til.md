@@ -4622,41 +4622,13 @@ investigate this a lot. will be using webpack
 
 this project: styling, custom code, drupal stuff, make sp
 
-# 22 August 2022
-
-# 22 August 2022
-
 # 23 August 2022
-
-# 23 August 2022
-
-# 23 August 2022
-
-# 23 August 2022
-
-# 23 August 2022
-
-# 23 August 2022
-
-# 23 August 2022
-
-# 23 August 2022
-
-# 23 August 2022
-
-# 23 August 2022
-
-# 23 August 2022
-
-# 23 August 2022
-
-# 24 August 2022
-
-# 24 August 2022
 
 # 24 August 2022
 under a gig for the size. the dedup puts us about under the line
 ddh will find coppies of files regardless of the file name
 every file has  been hashed. We need to find the dups and delete them. every hash is located in the database. We also need to rewrite all the locations our files we are using in order to point it at only one instead of the copies
 
-# 24 August 2022
+custom js files task:
+1. we will be using webpack to watch for the files we need. we will ONLY be adding in both the directories and the files if there are custom files we need to pull. All airline specific files will follow the same directory pattern as in the vanilla section from src down
+2. make a README in this directory explaining all this jazz
