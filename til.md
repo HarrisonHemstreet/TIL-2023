@@ -4633,20 +4633,7 @@ custom js files task:
 1. we will be using webpack to watch for the files we need. we will ONLY be adding in both the directories and the files if there are custom files we need to pull. All airline specific files will follow the same directory pattern as in the vanilla section from src down
 2. make a README in this directory explaining all this jazz
 
-# 24 August 2022
-
-# 24 August 2022
-
-# 24 August 2022
-
-# 24 August 2022
-
-# 24 August 2022
-
-# 24 August 2022
-
 # 25 August 2022
-
-# 25 August 2022
+We are going to need to be okay with adding in more files if the import statements are busted...
 
 # 25 August 2022
