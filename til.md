@@ -4677,3 +4677,123 @@ We are going to need to be okay with adding in more files if the import statemen
 # 26 August 2022
 
 # 26 August 2022
+
+this one is without any added componets from anywhere: control
+pluginArr [
+   LoadablePlugin {
+     handleEmit: [Function (anonymous)],
+     writeAssetsFile: [Function (anonymous)],
+     opts: {
+       filename: 'loadable-stats.json',
+       writeToDisk: undefined,
+       outputAsset: true,
+       path: undefined,
+       chunkLoadingGlobal: '__LOADABLE_LOADED_CHUNKS__'
+     },
+     compiler: null
+   },
+   MiniCssExtractPlugin {
+     options: { filename: '[name].css', chunkFilename: '[name].css' }
+   },
+   CopyPlugin {
+     patterns: [ [Object], [Object], [Object] ],
+     options: {}
+   }
+ ]
+
+
+
+adding directly the modification: WORKING
+pluginArr [
+   LoadablePlugin {
+     handleEmit: [Function (anonymous)],
+     writeAssetsFile: [Function (anonymous)],
+     opts: {
+       filename: 'loadable-stats.json',
+       writeToDisk: undefined,
+       outputAsset: true,
+       path: undefined,
+       chunkLoadingGlobal: '__LOADABLE_LOADED_CHUNKS__'
+     },
+     compiler: null
+   },
+   MiniCssExtractPlugin {
+     options: { filename: '[name].css', chunkFilename: '[name].css' }
+   },
+   CopyPlugin {
+     patterns: [ [Object], [Object], [Object] ],
+     options: {}
+   },
+   NormalModuleReplacementPlugin {
+     resourceRegExp: /src\/app\/components\/react-components\/footer\.js/,
+     newResource: '/home/harry/exploro/gde-frontend/custom_code/spirit/app/components/react-components/footer.js'
+   }
+ ]
+
+[1]   NormalModuleReplacementPlugin {
+[1]     resourceRegExp: /src\/app\/components\/react-components\/footer\.js/,
+[1]     newResource: '/home/harry/exploro/gde-frontend/custom_code/spirit/app/components/react-components/footer.js'
+[1]   },
+[1]   NormalModuleReplacementPlugin {
+[1]     resourceRegExp: /src\/app\/components\/test\.js/,
+[1]     newResource: '/home/harry/exploro/gde-frontend/custom_code/spirit/app/components/test.js'
+[1]   }
+
+
+modular concept: this one is broken
+pluginArr [
+   LoadablePlugin {
+     handleEmit: [Function (anonymous)],
+     writeAssetsFile: [Function (anonymous)],
+     opts: {
+       filename: 'loadable-stats.json',
+       writeToDisk: undefined,
+       outputAsset: true,
+       path: undefined,
+       chunkLoadingGlobal: '__LOADABLE_LOADED_CHUNKS__'
+     },
+     compiler: Compiler {
+       _pluginCompat: [SyncBailHook],
+       hooks: [Object],
+       name: 'node',
+       parentCompilation: undefined,
+       outputPath: '/home/harry/exploro/gde-frontend/public/dist/node',
+       outputFileSystem: [NodeOutputFileSystem],
+       inputFileSystem: [CachedInputFileSystem],
+       recordsInputPath: undefined,
+       recordsOutputPath: undefined,
+       records: {},
+       removedFiles: Set(0) {},
+       fileTimestamps: Map(0) {},
+       contextTimestamps: Map(0) {},
+       resolverFactory: [ResolverFactory],
+       infrastructureLogger: [Function: logger],
+       resolvers: [Object],
+       options: [Object],
+       context: '/home/harry/exploro/gde-frontend',
+       requestShortener: [RequestShortener],
+       running: true,
+       watchMode: true,
+       _assetEmittingSourceCache: [WeakMap],
+       _assetEmittingWrittenFiles: Map(0) {},
+       watchFileSystem: [NodeWatchFileSystem],
+       dependencies: undefined
+     }
+   },
+   MiniCssExtractPlugin {
+     options: { filename: '[name].css', chunkFilename: '[name].css' }
+   },
+   CopyPlugin {
+     patterns: [ [Object], [Object], [Object] ],
+     options: {}
+   },
+   NormalModuleReplacementPlugin {
+     resourceRegExp: /src\/app\/components\/react-components\/footer\.js/,
+     newResource: '/home/harry/exploro/gde-frontend/custom_code/spirit/app/components/react-components/footer.js'
+   },
+   NormalModuleReplacementPlugin {
+     resourceRegExp: /src\/app\/components\/test\.js/,
+     newResource: '/home/harry/exploro/gde-frontend/custom_code/spirit/app/components/test.js'
+   }
+
+# 26 August 2022
