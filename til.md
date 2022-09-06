@@ -4636,46 +4636,6 @@ custom js files task:
 # 25 August 2022
 We are going to need to be okay with adding in more files if the import statements are busted...
 
-# 25 August 2022
-
-# 25 August 2022
-
-# 25 August 2022
-
-# 25 August 2022
-
-# 25 August 2022
-
-# 25 August 2022
-
-# 25 August 2022
-
-# 25 August 2022
-
-# 25 August 2022
-
-# 25 August 2022
-
-# 25 August 2022
-
-# 25 August 2022
-
-# 25 August 2022
-
-# 25 August 2022
-
-# 25 August 2022
-
-# 25 August 2022
-
-# 26 August 2022
-
-# 26 August 2022
-
-# 26 August 2022
-
-# 26 August 2022
-
 # 26 August 2022
 
 this one is without any added componets from anywhere: control
@@ -4796,199 +4756,25 @@ pluginArr [
      newResource: '/home/harry/exploro/gde-frontend/custom_code/spirit/app/components/test.js'
    }
 
-# 26 August 2022
-
-# 26 August 2022
-
-# 26 August 2022
-
-# 26 August 2022
-
-# 26 August 2022
-
-# 26 August 2022
-
-# 26 August 2022
-
-# 26 August 2022
-
-# 26 August 2022
-
-# 26 August 2022
-
-# 26 August 2022
-
-# 26 August 2022
-
-# 26 August 2022
-
-# 26 August 2022
-
-# 26 August 2022
-
-# 26 August 2022
-
-# 26 August 2022
-
-# 26 August 2022
-
-# 26 August 2022
-
-# 27 August 2022
-
-# 27 August 2022
-
-# 27 August 2022
-
-# 27 August 2022
-
-# 27 August 2022
-
-# 27 August 2022
-
-# 27 August 2022
-
-# 27 August 2022
-
-# 27 August 2022
-
-# 27 August 2022
-
 # 27 August 2022
 
 # 28 August 2022
 
-# 28 August 2022
-
 # 29 August 2022
-
-# 29 August 2022
-
-# 29 August 2022
-
-# 29 August 2022
-
-# 29 August 2022
-
-# 29 August 2022
-
-# 29 August 2022
-
-# 29 August 2022
-
-# 29 August 2022
-
-# 30 August 2022
-
-# 30 August 2022
 
 # 30 August 2022
 make sure that Lucida Sans and Interstate are being used
 
-# 30 August 2022
-
-# 30 August 2022
-
-# 30 August 2022
-
-# 30 August 2022
-
-# 31 August 2022
-
-# 31 August 2022
-
-# 31 August 2022
-
-# 31 August 2022
-
-# 31 August 2022
-
-# 31 August 2022
-
 # 31 August 2022
 
 # 01 September 2022
 
-# 01 September 2022
-
-# 01 September 2022
-
-# 01 September 2022
-
-# 01 September 2022
-
-# 01 September 2022
-
 # 02 September 2022
-
-# 02 September 2022
-
-# 02 September 2022
-
-# 02 September 2022
-
-# 02 September 2022
-
-# 02 September 2022
-
-# 02 September 2022
-
-# 02 September 2022
-
-# 02 September 2022
-
-# 02 September 2022
-
-# 02 September 2022
-
-# 02 September 2022
-
-# 02 September 2022
-
-# 03 September 2022
-
-# 03 September 2022
-
-# 03 September 2022
-
-# 03 September 2022
-
-# 03 September 2022
-
-# 03 September 2022
 
 # 03 September 2022
 
 # 05 September 2022
 
 # 05 September 2022
-
-# 05 September 2022
-
-# 05 September 2022
-
-# 05 September 2022
-
-# 05 September 2022
-
-# 05 September 2022
-
-# 06 September 2022
-
-# 06 September 2022
-
-# 06 September 2022
-
-# 06 September 2022
-
-# 06 September 2022
-
-# 06 September 2022
-
-# 06 September 2022
-
-# 06 September 2022
-
-# 06 September 2022
 
 # 06 September 2022
