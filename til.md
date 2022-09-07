@@ -4793,10 +4793,12 @@ how to add a homepage to an airline in drupal:
 5. hit save
 6. when you go to Airline bundler, you should be able to see the option to choose the chosen homepage in the drop down
 
-# 07 September 2022
-
-# 07 September 2022
-
-# 07 September 2022
+    // Hide Exploro Logo
+    if (isset($term->get('field_hide_exploro_logo')->value)) {
+      $hideExploroLogo = $term->get('field_hide_exploro_logo')->value;
+      $content .= "\nwindow.HIDE_EXPLORO_LOGO = ${hideExploroLogo}";
+    } else {
+      $content .= "\nwindow.HIDE_EXPLORO_LOGO = false";
+    }
 
 # 07 September 2022
