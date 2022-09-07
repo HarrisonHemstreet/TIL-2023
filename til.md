@@ -4778,3 +4778,6 @@ make sure that Lucida Sans and Interstate are being used
 # 05 September 2022
 
 # 06 September 2022
+In order to add a checkbox, I actually added it in via the Drupal gui. I did add in the backend code in cms-prod/web/modules/custom/airline_bundler/src/Batch/AirlineBundlerBatch.php
+
+# 06 September 2022
