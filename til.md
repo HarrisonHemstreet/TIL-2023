@@ -4792,3 +4792,5 @@ how to add a homepage to an airline in drupal:
 4. scroll down, find the drop down, and change it from "Draft" to "Publish"
 5. hit save
 6. when you go to Airline bundler, you should be able to see the option to choose the chosen homepage in the drop down
+
+# 07 September 2022
