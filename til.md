@@ -4785,3 +4785,10 @@ In order to add a checkbox, I actually added it in via the Drupal gui. I did add
 # 06 September 2022
 
 # 07 September 2022
+how to add a homepage to an airline in drupal:
+1. click on "Content"
+2. choose page
+3 hit edit
+4. scroll down, find the drop down, and change it from "Draft" to "Publish"
+5. hit save
+6. when you go to Airline bundler, you should be able to see the option to choose the chosen homepage in the drop down
