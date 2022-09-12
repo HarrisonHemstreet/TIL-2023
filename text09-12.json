@@ -988,7 +988,7 @@
       "id": "FrontendFormComponent",
       "name": "FrontendForm",
       "form_name": "formSubscribe",
-      "title": "Get discounts on restaurants, hotels, attractions and get inspiration for your next holiday"
+      "title": "norwegian string"
     }
   ],
   "udo": null,
@@ -998,7 +998,7 @@
         "components_5_title": "Get discounts on restaurants, hotels, attractions and get inspiration for your next holiday"
       },
       "nw": {
-        "components_8_title": "norwegian string",
+        "components_8_title": "norwegian string"
       }
     }
   }
