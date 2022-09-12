@@ -1,124 +1,1005 @@
 {
-  name: 'Nairobi 2',
-  url: '/nairobi-2',
-  nid: '494',
-  status: true,
-  'in-flight': 0,
-  'main-nav': 'http: //drupal.gdexplorer.com/sites/default/files/public/json/menu/main.json',
-  'meta-canonical-url': '',
-  'meta-title': ' | Global Onboard Partners',
-  'meta-description': '',
-  'meta-og-image': 'http: //drupal.gdexplorer.com/sites/default/files/default-banner.png',
-  affinities: [
+  "name": "Nairobi 2",
+  "url": "/nairobi-2",
+  "nid": "494",
+  "status": true,
+  "in-flight": 0,
+  "main-nav": "http://drupal.gdexplorer.com/sites/default/files/public/json/menu/main.json",
+  "meta-canonical-url": "",
+  "meta-title": " | Global Onboard Partners",
+  "meta-description": "",
+  "meta-og-image": "http://drupal.gdexplorer.com/sites/default/files/default-banner.png",
+  "affinities": [
     {
-      id: 'AffinitiesComponent',
-      name: 'Affinities',
-      tid: '2',
-      label: 'Destinations'
+      "id": "AffinitiesComponent",
+      "name": "Affinities",
+      "tid": "2",
+      "label": "Destinations"
     }
   ],
-  airline: {
-    id: 'AirlineComponent',
-    name: 'Airline',
-    tid: '26',
-    label: 'Global Destination Explorer',
-    image: [
-      [Object
-      ]
+  "airline": {
+    "id": "AirlineComponent",
+    "name": "Airline",
+    "tid": "26",
+    "label": "Global Destination Explorer",
+    "image": [
+      {
+        "alt": "GDE logo",
+        "width": "100",
+        "height": "64",
+        "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global%20Destination%20Explorer/images/airlines/OldGDELogo_1.png",
+        "srcSetMobile": "",
+        "srcSetWebpMobile": "",
+        "srcSetJp2Mobile": "",
+        "srcSetJxrMobile": "",
+        "srcSetSvgMobile": "",
+        "srcSetWebp": "",
+        "srcSetJp2": "",
+        "srcSetJxr": "",
+        "srcSetSvg": ""
+      }
     ],
-    image_secondary: [
-      [Object
-      ]
+    "image_secondary": [
+      {
+        "alt": "GDE logo",
+        "width": "100",
+        "height": "64",
+        "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global%20Destination%20Explorer/images/airlines/OldGDELogo_2.png",
+        "srcSetMobile": "",
+        "srcSetWebpMobile": "",
+        "srcSetJp2Mobile": "",
+        "srcSetJxrMobile": "",
+        "srcSetSvgMobile": "",
+        "srcSetWebp": "",
+        "srcSetJp2": "",
+        "srcSetJxr": "",
+        "srcSetSvg": ""
+      }
     ]
   },
-  page_type: 'destination',
-  components: [
+  "page_type": "destination",
+  "components": [
     {
-      id: 'AnchorLinksComponent',
-      name: 'AnchorLinks',
-      title: 'Nairobi',
-      url: '/nairobi-2',
-      list: [Array
+      "id": "AnchorLinksComponent",
+      "name": "AnchorLinks",
+      "title": "Nairobi",
+      "url": "/nairobi-2",
+      "list": [
+        {
+          "id": "AnchorLink-1",
+          "name": "AnchorLink",
+          "url": "/about-nairobi-0",
+          "text": "About ",
+          "className": "",
+          "iconClass": ""
+        },
+        {
+          "id": "AnchorLink-2",
+          "name": "AnchorLink",
+          "url": "/hotels-nairobi-0",
+          "text": "Hotels",
+          "className": "",
+          "iconClass": ""
+        },
+        {
+          "id": "AnchorLink-3",
+          "name": "AnchorLink",
+          "url": "/restaurants-nairobi-0",
+          "text": "Restaurants",
+          "className": "",
+          "iconClass": ""
+        },
+        {
+          "id": "AnchorLink-4",
+          "name": "AnchorLink",
+          "url": "/attractions-nairobi-0",
+          "text": "Attractions",
+          "className": "",
+          "iconClass": ""
+        }
       ],
-      active: ''
+      "active": ""
     },
     {
-      id: 'HeroComponent',
-      name: 'Hero',
-      continent: 'Asia',
-      search_widget_type: 'mini',
-      show_local_date: true,
-      show_local_time: true,
-      title: 'Nairobi',
-      video: [Object
-      ],
-      imgSrc: [Object
-      ],
-      timezone: 'Africa/Nairobi'
+      "id": "HeroComponent",
+      "name": "Hero",
+      "continent": "Asia",
+      "search_widget_type": "mini",
+      "show_local_date": true,
+      "show_local_time": true,
+      "title": "Nairobi",
+      "video": {
+        "id": "VideoComponent",
+        "name": "Video",
+        "media_video_file": {
+          "url": "http://drupal.gdexplorer.com/sites/default/files/2021-12/Nairobi%20Hero.mp4"
+        }
+      },
+      "imgSrc": {
+        "alt": "nairobi",
+        "width": "1440",
+        "height": "630",
+        "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/banner/image/1440_630_Home.png",
+        "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/banner/mobile/375_374_Home.png",
+        "srcSetWebpMobile": "",
+        "srcSetJp2Mobile": "",
+        "srcSetJxrMobile": "",
+        "srcSetSvgMobile": "",
+        "srcSetWebp": "",
+        "srcSetJp2": "",
+        "srcSetJxr": "",
+        "srcSetSvg": ""
+      },
+      "timezone": "Africa/Nairobi"
     },
     {
-      id: 'ContentComponent',
-      name: 'Content',
-      body: '<p>Nairobi is the capital and largest city of Kenya. The name comes from the Maasai phrase Enkare Nairobi, which translates to "cool water". This is in reference to the Nairobi River. The city proper had a population of 4.4 million in 2019, while the metropolitan area had a population of 9.3. Nairobi receives many tourists anxious to experience all it has to offer, referring to it as “The Green City in the Sun”. Nairobi is an established location for culture and business. The Nairobi National Park, which has a huge game reserve is also located in Nairobi.</p>\r\n',
-      call_to_action: [Object
+      "id": "ContentComponent",
+      "name": "Content",
+      "body": "<p>Nairobi is the capital and largest city of Kenya. The name comes from the Maasai phrase Enkare Nairobi, which translates to \"cool water\". This is in reference to the Nairobi River. The city proper had a population of 4.4 million in 2019, while the metropolitan area had a population of 9.3. Nairobi receives many tourists anxious to experience all it has to offer, referring to it as “The Green City in the Sun”. Nairobi is an established location for culture and business. The Nairobi National Park, which has a huge game reserve is also located in Nairobi.</p>\r\n",
+      "call_to_action": {
+        "uri": "/about-nairobi-0",
+        "title": "Explore Nairobi",
+        "options": []
+      }
+    },
+    {
+      "id": "GalleryComponent",
+      "name": "Gallery",
+      "background": "secondary-1",
+      "imgSrc": [
+        {
+          "id": "GalleryImagesComponent",
+          "name": "GalleryImages",
+          "imgSrc": {
+            "alt": "Nairobi",
+            "width": "947",
+            "height": "646",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/gallery/image/947_646_Gallery_0.png",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/gallery/mobile/947_646_Gallery_0.png",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          }
+        },
+        {
+          "id": "GalleryImagesComponent",
+          "name": "GalleryImages",
+          "imgSrc": {
+            "alt": "Nairobi",
+            "width": "947",
+            "height": "646",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/gallery/image/947_646_Gallery2_1.png",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/gallery/mobile/947_646_Gallery2_1.png",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          }
+        },
+        {
+          "id": "GalleryImagesComponent",
+          "name": "GalleryImages",
+          "imgSrc": {
+            "alt": "Nairobi",
+            "width": "947",
+            "height": "646",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/gallery/image/947_646_Gallery3_0.png",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/gallery/mobile/947_646_Gallery3_0.png",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          }
+        },
+        {
+          "id": "GalleryImagesComponent",
+          "name": "GalleryImages",
+          "imgSrc": {
+            "alt": "Nairobi",
+            "width": "947",
+            "height": "646",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/gallery/image/947_646_Gallery4_1.png",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/gallery/mobile/947_646_Gallery4_1.png",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          }
+        },
+        {
+          "id": "GalleryImagesComponent",
+          "name": "GalleryImages",
+          "imgSrc": {
+            "alt": "Nairobi",
+            "width": "947",
+            "height": "646",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/gallery/image/947_646_Gallery5_1.png",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/gallery/mobile/947_646_Gallery5_1.png",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          }
+        }
       ]
     },
     {
-      id: 'GalleryComponent',
-      name: 'Gallery',
-      background: 'secondary-1',
-      imgSrc: [Array
-      ]
+      "id": "CardsComponent",
+      "name": "Cards",
+      "background": "secondary-1",
+      "best_of": true,
+      "filters": {
+        "tabs": [
+          {
+            "id": "hotels-17929",
+            "url": "",
+            "text": "Hotels",
+            "className": "",
+            "iconClass": "icon-hotels"
+          },
+          {
+            "id": "restaurants-17929",
+            "url": "",
+            "text": "Restaurants",
+            "className": "",
+            "iconClass": "icon-restaurants"
+          },
+          {
+            "id": "attractions-17929",
+            "url": "",
+            "text": "Attractions",
+            "className": "",
+            "iconClass": "icon-attractions"
+          }
+        ]
+      },
+      "cards": [
+        {
+          "id": "card-17929-1",
+          "name": "Slide",
+          "theme": "default",
+          "badges": [
+            {
+              "id": "hotels-17929",
+              "text": "",
+              "icon": "icon-hotels",
+              "theme": ""
+            }
+          ],
+          "continent": "Africa",
+          "title": "Trademark Hotel",
+          "imgSrc": {
+            "alt": "Trademark",
+            "width": "346",
+            "height": "268",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Trademark-thumbnail2_2_0.jpg",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Trademark-thumbnail2_2_0.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/trademark-hotel-2",
+          "buttonText": "",
+          "tags": [
+            "hotels-17929"
+          ]
+        },
+        {
+          "id": "card-17929-2",
+          "name": "Slide",
+          "theme": "default",
+          "badges": [
+            {
+              "id": "restaurants-17929",
+              "text": "",
+              "icon": "icon-restaurants",
+              "theme": ""
+            }
+          ],
+          "continent": "Africa",
+          "title": "Temptations Ice Cream & Coffee",
+          "imgSrc": {
+            "alt": "Temptations Ice Cream & Coffee",
+            "width": "346",
+            "height": "268",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/346_268_Temptations_1_0.png",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/346_268_Temptations_1_0.png",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/temptations-ice-cream-coffee",
+          "buttonText": "",
+          "tags": [
+            "restaurants-17929"
+          ]
+        },
+        {
+          "id": "card-17929-3",
+          "name": "Slide",
+          "theme": "default",
+          "badges": [
+            {
+              "id": "attractions-17929",
+              "text": "",
+              "icon": "icon-attractions",
+              "theme": ""
+            }
+          ],
+          "continent": "Africa",
+          "title": "Go Places Africa DMC",
+          "imgSrc": {
+            "alt": "Go Places Africa DMC",
+            "width": "346",
+            "height": "268",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/346_268_GoPlaces.png",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/346_268_GoPlaces.png",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/go-places-africa-dmc-0",
+          "buttonText": "",
+          "tags": [
+            "attractions-17929"
+          ]
+        }
+      ],
+      "title": "The Best Of Nairobi",
+      "carousel-theme": "carousel"
     },
     {
-      id: 'CardsComponent',
-      name: 'Cards',
-      background: 'secondary-1',
-      best_of: true,
-      filters: [Object
+      "id": "CardsComponent",
+      "name": "Cards",
+      "background": "secondary-1",
+      "cards": [
+        {
+          "id": "card-17940-1",
+          "name": "Slide",
+          "theme": "default",
+          "badges": [
+            {
+              "id": "hotels-17940",
+              "text": "",
+              "icon": "icon-hotels",
+              "theme": ""
+            }
+          ],
+          "continent": "Africa",
+          "title": "Trademark Hotel",
+          "imgSrc": {
+            "alt": "Trademark",
+            "width": "346",
+            "height": "268",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Trademark-thumbnail2_2_1.jpg",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Trademark-thumbnail2_2_1.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/trademark-hotel-2",
+          "buttonText": "",
+          "tags": [
+            "hotels-17940"
+          ]
+        },
+        {
+          "id": "card-17940-2",
+          "name": "Slide",
+          "theme": "default",
+          "continent": "Africa",
+          "title": "Temptations Ice Cream & Coffee",
+          "imgSrc": {
+            "alt": "Temptations Ice Cream & Coffee",
+            "width": "346",
+            "height": "268",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/temptations-ice-cream-coffee.jpg",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/temptations-ice-cream-coffee.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/temptations-ice-cream-coffee",
+          "buttonText": ""
+        },
+        {
+          "id": "card-17940-3",
+          "name": "Slide",
+          "theme": "default",
+          "badges": [
+            {
+              "id": "attractions-17940",
+              "text": "",
+              "icon": "icon-attractions",
+              "theme": ""
+            }
+          ],
+          "continent": "Africa",
+          "title": "Go Places Africa DMC",
+          "imgSrc": {
+            "alt": "Go Places Africa Dmc",
+            "width": "346",
+            "height": "268",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/go-places-africa-dmc.jpg",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/go-places-africa-dmc.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/go-places-africa-dmc-0",
+          "buttonText": "",
+          "tags": [
+            "attractions-17940"
+          ]
+        }
       ],
-      cards: [Array
-      ],
-      title: 'The Best Of Nairobi',
-      'carousel-theme': 'carousel'
+      "title": "Check These Out",
+      "carousel-theme": "carousel"
     },
     {
-      id: 'CardsComponent',
-      name: 'Cards',
-      background: 'secondary-1',
-      cards: [Array
+      "id": "CardsComponent",
+      "name": "Cards",
+      "background": "primary",
+      "cards": [
+        {
+          "id": "card-17951-1",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Europe",
+          "location": {
+            "langcode": null,
+            "country_code": "MY",
+            "administrative_area": null,
+            "locality": "Ipoh",
+            "dependent_locality": null,
+            "postal_code": null,
+            "sorting_code": null,
+            "address_line1": null,
+            "address_line2": null,
+            "organization": null,
+            "given_name": null,
+            "additional_name": null,
+            "family_name": null,
+            "country_name": "Malaysia"
+          },
+          "subTitle": "Netherlands",
+          "title": "Amsterdam",
+          "imgSrc": {
+            "alt": "Amsterdam",
+            "width": "740",
+            "height": "900",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Amsterdam-Footer-Thumbnail_9.jpg",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Amsterdam-Footer-Thumbnail_9.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/amsterdam",
+          "buttonText": ""
+        },
+        {
+          "id": "card-17951-2",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Asia",
+          "subTitle": "Thailand",
+          "title": "Bangkok",
+          "imgSrc": {
+            "alt": "Bangkok",
+            "width": "740",
+            "height": "900",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Bangkok-Thumbnail_9.jpg",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Bangkok-Thumbnail_9.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/bangkok-2",
+          "buttonText": ""
+        },
+        {
+          "id": "card-17951-3",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Australia",
+          "subTitle": "Australia",
+          "title": "Darwin",
+          "imgSrc": {
+            "alt": "Darwin",
+            "width": "740",
+            "height": "900",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Darwin-Footer-Thumbnail_44.jpg",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Darwin-Footer-Thumbnail_43.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/darwin",
+          "buttonText": ""
+        },
+        {
+          "id": "card-17951-4",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Asia",
+          "subTitle": "India",
+          "title": "Delhi",
+          "imgSrc": {
+            "alt": "Delhi",
+            "width": "740",
+            "height": "900",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Delhi-Footer-Thumbnail_6.jpg",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Delhi-Footer-Thumbnail_6.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/delhi-0",
+          "buttonText": ""
+        },
+        {
+          "id": "card-17951-5",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Asia",
+          "location": {
+            "langcode": null,
+            "country_code": "MY",
+            "administrative_area": null,
+            "locality": "Langkawi",
+            "dependent_locality": null,
+            "postal_code": null,
+            "sorting_code": null,
+            "address_line1": null,
+            "address_line2": null,
+            "organization": null,
+            "given_name": null,
+            "additional_name": null,
+            "family_name": null,
+            "country_name": "Malaysia"
+          },
+          "subTitle": "United Arab Emirates",
+          "title": "Dubai",
+          "imgSrc": {
+            "alt": "Dubai",
+            "width": "740",
+            "height": "900",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Dubai-Footer-Thumbnail_7.jpg",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Dubai-Footer-Thumbnail_7.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/dubai-0",
+          "buttonText": ""
+        },
+        {
+          "id": "card-17951-6",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Europe",
+          "subTitle": "Germany",
+          "title": "Hamburg",
+          "imgSrc": {
+            "alt": "Hamburg",
+            "width": "740",
+            "height": "900",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Hamburg_Footer_Thumbnail_60.jpg",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Hamburg_Footer_Thumbnail_60.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/hamburg",
+          "buttonText": ""
+        },
+        {
+          "id": "card-17951-7",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Asia",
+          "subTitle": "Vietnam",
+          "title": "Ho Chi Minh City",
+          "imgSrc": {
+            "alt": "Ho Chi Minh",
+            "width": "740",
+            "height": "900",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Ho_Chi_Minh-Footer-Thumbnail_5.jpg",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Ho_Chi_Minh-Footer-Thumbnail_5.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/ho-chi-minh-city",
+          "buttonText": ""
+        },
+        {
+          "id": "card-17951-8",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Australia",
+          "subTitle": "Australia",
+          "title": "Hobart",
+          "imgSrc": {
+            "alt": "Hobart",
+            "width": "740",
+            "height": "900",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Hobart-Footer-Thumbnail_43.jpg",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Hobart-Footer-Thumbnail_42.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/hobart",
+          "buttonText": ""
+        },
+        {
+          "id": "card-17951-9",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Asia",
+          "location": {
+            "langcode": null,
+            "country_code": "MY",
+            "administrative_area": null,
+            "locality": "Bengton",
+            "dependent_locality": null,
+            "postal_code": null,
+            "sorting_code": null,
+            "address_line1": null,
+            "address_line2": null,
+            "organization": null,
+            "given_name": null,
+            "additional_name": null,
+            "family_name": null,
+            "country_name": "Malaysia"
+          },
+          "subTitle": "Malaysia",
+          "title": "Kuala Lumpur",
+          "imgSrc": {
+            "alt": "Kuala Lumpur",
+            "width": "740",
+            "height": "900",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Kuala%20Lumpur-Thumbnail_4.jpg",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Kuala%20Lumpur-Thumbnail_4.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/kuala-lumpur-2",
+          "buttonText": ""
+        },
+        {
+          "id": "card-17951-10",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Europe",
+          "location": {
+            "langcode": null,
+            "country_code": "MY",
+            "administrative_area": null,
+            "locality": "Pahang",
+            "dependent_locality": null,
+            "postal_code": null,
+            "sorting_code": null,
+            "address_line1": null,
+            "address_line2": null,
+            "organization": null,
+            "given_name": null,
+            "additional_name": null,
+            "family_name": null,
+            "country_name": "Malaysia"
+          },
+          "subTitle": "United Kingdom",
+          "title": "London",
+          "imgSrc": {
+            "alt": "London",
+            "width": "740",
+            "height": "900",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/London-Footer-Thumbnail_8.jpg",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/London-Footer-Thumbnail_8.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/london-0",
+          "buttonText": ""
+        },
+        {
+          "id": "card-17951-11",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Australia",
+          "subTitle": "Australia",
+          "title": "Melbourne",
+          "imgSrc": {
+            "alt": "Melbourne",
+            "width": "740",
+            "height": "900",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Melbourne-Footer-Thumbnail_41.jpg",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Melbourne-Footer-Thumbnail_41.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/melbourne",
+          "buttonText": ""
+        },
+        {
+          "id": "card-17951-12",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "North America",
+          "subTitle": "Mexico",
+          "title": "Mexico City",
+          "imgSrc": {
+            "alt": "Mexico",
+            "width": "740",
+            "height": "900",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Mexico%20City-Footer-Thumbnail_9.jpg",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Mexico%20City-Footer-Thumbnail_8.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/mexico-city",
+          "buttonText": ""
+        },
+        {
+          "id": "card-17951-13",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "North America",
+          "subTitle": "United States",
+          "title": "New York",
+          "imgSrc": {
+            "alt": "New York",
+            "width": "740",
+            "height": "900",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/New%20York-Footer-Thumbnail_8.jpg",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/New%20York-Footer-Thumbnail_8.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/new-york",
+          "buttonText": ""
+        },
+        {
+          "id": "card-17951-14",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Europe",
+          "subTitle": "Norway",
+          "title": "Oslo",
+          "imgSrc": {
+            "alt": "Oslo",
+            "width": "740",
+            "height": "900",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Oslo-Footer-Thumbnail_9.jpg",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Oslo-Footer-Thumbnail_9.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/oslo",
+          "buttonText": ""
+        },
+        {
+          "id": "card-17951-15",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Europe",
+          "subTitle": "France",
+          "title": "Paris",
+          "imgSrc": {
+            "alt": "Paris",
+            "width": "740",
+            "height": "900",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Paris-Footer-Thumbnail2_27.jpg",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Paris-Footer-Thumbnail2_27.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/paris",
+          "buttonText": ""
+        },
+        {
+          "id": "card-17951-16",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "North America",
+          "subTitle": "United States",
+          "title": "Salt Lake City",
+          "imgSrc": {
+            "alt": "Salt Lake",
+            "width": "740",
+            "height": "900",
+            "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Salt%20Lake%20City-Footer-Thumbnail_9.jpg",
+            "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Salt%20Lake%20City-Footer-Thumbnail_9.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/salt-lake-city",
+          "buttonText": ""
+        }
       ],
-      title: 'Check These Out',
-      'carousel-theme': 'carousel'
+      "title": "Cities you might also be interested in",
+      "carousel-theme": "carousel"
     },
     {
-      id: 'CardsComponent',
-      name: 'Cards',
-      background: 'primary',
-      cards: [Array
-      ],
-      title: 'Cities you might also be interested in',
-      'carousel-theme': 'carousel'
+      "id": "AdvertisingComponent",
+      "name": "Advertising",
+      "internal_link": {
+        "uri": "/tour-operators-society-kenya",
+        "title": "",
+        "options": []
+      },
+      "imgSrc": {
+        "alt": "tsok",
+        "width": "1140",
+        "height": "220",
+        "srcSet": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/advertising/image/ad%20banner-desktop%20%282%29_5.png",
+        "srcSetMobile": "http://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/advertising/mobile/ad%20banner-mobile_5.png",
+        "srcSetWebpMobile": "",
+        "srcSetJp2Mobile": "",
+        "srcSetJxrMobile": "",
+        "srcSetSvgMobile": "",
+        "srcSetWebp": "",
+        "srcSetJp2": "",
+        "srcSetJxr": "",
+        "srcSetSvg": ""
+      }
     },
     {
-      id: 'AdvertisingComponent',
-      name: 'Advertising',
-      internal_link: [Object
-      ],
-      imgSrc: [Object
-      ]
-    },
-    {
-      id: 'FrontendFormComponent',
-      name: 'FrontendForm',
-      form_name: 'formSubscribe',
-      title: 'norwegian string'
+      "id": "FrontendFormComponent",
+      "name": "FrontendForm",
+      "form_name": "formSubscribe",
+      "title": "Get discounts on restaurants, hotels, attractions and get inspiration for your next holiday"
     }
   ],
-  udo: null,
-  meta: { languages: { 'en-us': [Object
-      ], nw: [Object
-      ]
+  "udo": null,
+  "meta": {
+    "languages": {
+      "en-us": {
+        "components_5_title": "Get discounts on restaurants, hotels, attractions and get inspiration for your next holiday"
+      },
+      "nw": {
+        "components_8_title": "norwegian string",
+      }
     }
   }
 }
