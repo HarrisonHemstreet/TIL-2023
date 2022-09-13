@@ -5832,3 +5832,5 @@ cd gde
 (this may not be a step for long, but currently we need to check the config file) cat config.js
 make sure every line has valid config key pair values in there. fix them if they don't
 Check the site. newest bundle should be live
+
+# 13 September 2022
