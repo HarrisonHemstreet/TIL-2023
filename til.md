@@ -5819,24 +5819,16 @@ const baseJson = {
 
 # 12 September 2022
 
-# 12 September 2022
-
-# 12 September 2022
-
-# 12 September 2022
-
-# 12 September 2022
-
 # 13 September 2022
-
-# 13 September 2022
-
-# 13 September 2022
-
-# 13 September 2022
-
-# 13 September 2022
-
-# 13 September 2022
-
-# 13 September 2022
+If I were to deploy a new JamboJet bundle:
+build bundel in drupal gui
+move the zipped bundle to the correct directory on the ec2:
+ssh ec2-user@drupal
+cd /var/www/drupal/private/bundles
+mv Jambojet-YY-MM-DD-randomnumber.zip /var/www/html/jambojet/3rdparty
+unzip Jambojet-YY-MM-DD-randomnumber.zip
+mv gde gde8 # gde[next number] (for example, if the last one is 5, then you would instead name it gd6)
+cd gde
+(this may not be a step for long, but currently we need to check the config file) cat config.js
+make sure every line has valid config key pair values in there. fix them if they don't
+Check the site. newest bundle should be live
