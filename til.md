@@ -5833,24 +5833,7 @@ cd gde
 make sure every line has valid config key pair values in there. fix them if they don't
 Check the site. newest bundle should be live
 
-# 13 September 2022
-
-# 13 September 2022
-
-# 13 September 2022
-
-# 13 September 2022
-
-# 13 September 2022
-
-# 13 September 2022
-
 # 14 September 2022
-
-# 14 September 2022
-
-# 14 September 2022
-
-# 14 September 2022
+data/json/menu/footer
 
 # 14 September 2022
