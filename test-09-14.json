@@ -1,0 +1,894 @@
+{
+  "name": "AIX About Delhi",
+  "url": "/aix-about-delhi",
+  "nid": "1209",
+  "status": true,
+  "in-flight": 0,
+  "main-nav": "http://drupal.gdexplorer.com/sites/default/files/public/json/menu/main.json",
+  "meta-canonical-url": "",
+  "meta-title": " | Global Onboard Partners",
+  "meta-description": "",
+  "meta-og-image": "http://drupal.gdexplorer.com/sites/default/files/default-banner.png",
+  "airline": {
+    "id": "AirlineComponent",
+    "name": "Airline",
+    "tid": "29",
+    "label": "AIXdemo"
+  },
+  "page_type": "normal",
+  "components": [
+    {
+      "id": "AnchorLinksComponent",
+      "name": "AnchorLinks",
+      "title": "Delhi",
+      "url": "/aix-delhi",
+      "list": [
+        {
+          "id": "AnchorLink-1",
+          "name": "AnchorLink",
+          "url": "/aix-about-delhi",
+          "text": "About",
+          "className": "active",
+          "iconClass": ""
+        },
+        {
+          "id": "AnchorLink-2",
+          "name": "AnchorLink",
+          "url": "/aix-hotels-delhi",
+          "text": "Hotels",
+          "className": "",
+          "iconClass": ""
+        },
+        {
+          "id": "AnchorLink-3",
+          "name": "AnchorLink",
+          "url": "/aix-restaurants-delhi",
+          "text": "Restaurants",
+          "className": "",
+          "iconClass": ""
+        },
+        {
+          "id": "AnchorLink-4",
+          "name": "AnchorLink",
+          "url": "/aix-attractions-delhi",
+          "text": "Attractions",
+          "className": "",
+          "iconClass": ""
+        }
+      ],
+      "active": "AnchorLink-1",
+      "geoLoc": null
+    },
+    {
+      "id": "HeroComponent",
+      "name": "Hero",
+      "search_widget_type": "mini",
+      "title": "ABOUT DELHI",
+      "imgSrc": {
+        "alt": "Delhi",
+        "width": "1440",
+        "height": "630",
+        "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/banner/image/delhi-about.jpg",
+        "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/banner/mobile/delhi-about-mobile.jpg",
+        "srcSetWebpMobile": "",
+        "srcSetJp2Mobile": "",
+        "srcSetJxrMobile": "",
+        "srcSetSvgMobile": "",
+        "srcSetWebp": "",
+        "srcSetJp2": "",
+        "srcSetJxr": "",
+        "srcSetSvg": ""
+      },
+      "geoLoc": null
+    },
+    {
+      "id": "AnchorLinksComponent",
+      "name": "AnchorLinks",
+      "list": [
+        {
+          "id": "AnchorLink-56947",
+          "name": "AnchorLink",
+          "url": "#component--id--overview",
+          "text": "Overview",
+          "className": "",
+          "iconClass": ""
+        },
+        {
+          "id": "AnchorLink-56948",
+          "name": "AnchorLink",
+          "url": "#component--id--getting-around",
+          "text": "Getting around",
+          "className": "",
+          "iconClass": ""
+        },
+        {
+          "id": "AnchorLink-56949",
+          "name": "AnchorLink",
+          "url": "#component--id--food-drink",
+          "text": "Food & drink",
+          "className": "",
+          "iconClass": ""
+        },
+        {
+          "id": "AnchorLink-56950",
+          "name": "AnchorLink",
+          "url": "#component--id--facts",
+          "text": "Facts",
+          "className": "",
+          "iconClass": ""
+        },
+        {
+          "id": "AnchorLink-56951",
+          "name": "AnchorLink",
+          "url": "#component--id--when-to-go",
+          "text": "Things to See",
+          "className": "",
+          "iconClass": ""
+        }
+      ],
+      "geoLoc": null
+    },
+    {
+      "id": "CrossContentsComponent",
+      "name": "CrossContents",
+      "cross_contents": [
+        {
+          "id": "component--id--overview",
+          "name": "CrossContent",
+          "body": "<p>Delhi is a beautiful megacity. If you have never been to a megacity before, prepare for a bit of culture shock. You may find Delhi to be overly chaotic and very crowded for much of the year. However, this city holds tremendous cultural and historical value. As you wander through the sites and interact with the locals, you can catch a glimpse of order beneath all the chaos.</p>\r\n",
+          "title": "Overview ",
+          "imgSrc": {
+            "alt": "Delhi",
+            "width": "1440",
+            "height": "630",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/cross_content/image/delhi-overview.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/cross_content/mobile/delhi-overview-mobile.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          }
+        },
+        {
+          "id": "component--id--getting-around",
+          "name": "CrossContent",
+          "body": "<p>Getting from one point to another in Delhi is often an adventure. There are cars, motorcycles, and bicycles everywhere, along with a high volume of pedestrian traffic. The best way to travel is by using the Metro, which can take you to many places. It is clean, efficient, and typically used by affluent middle-class students or commuters en route to/from work. Taxis are available but may take a while to arrive. Drivers may charge tourists a higher rate, so ensure you negotiate a rate before the ride.&nbsp;</p>\r\n",
+          "title": "Getting Around in the City",
+          "imgSrc": {
+            "alt": "Delhi",
+            "width": "1440",
+            "height": "630",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/cross_content/image/delhi-getting.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/cross_content/mobile/delhi-getting-mobile.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          }
+        },
+        {
+          "id": "component--id--food-drink",
+          "name": "CrossContent",
+          "body": "<p>Food is a highlight in Delhi. Not only can you find some of the best Indian food on the subcontinent, but there is also an increasing number of excellent (often pricey) international restaurants offering cuisines from everywhere in the world. In addition, you can find McDonald's, KFC, Subway, and Pizza Hut in malls and throughout the city. The Indian menu without beef and with many vegetable options can be interesting, even if you would otherwise eat differently.</p>\r\n",
+          "title": "Food and Drink",
+          "imgSrc": {
+            "alt": "Delhi",
+            "width": "1440",
+            "height": "630",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/cross_content/image/delhi-fnb.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/cross_content/mobile/delhi-c5-mobile.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          }
+        },
+        {
+          "id": "component--id--facts",
+          "name": "CrossContent",
+          "body": "<p>Delhi covers an area of 1,484 square kilometers (573 sq. mi)</p>\r\n\r\n<p>Delhi's metro area population is over 32 million.</p>\r\n\r\n<p>Hindi is the official language of Delhi.</p>\r\n\r\n<p>Temperatures in Delhi usually range from 2 to 47 °C (35.6 to 116.6 °F), with the lowest and highest temperatures ever recorded being −2.2 and 48.4 °C (28.0 and 119.1 °F); what a range!</p>\r\n",
+          "title": "Facts",
+          "imgSrc": {
+            "alt": "Delhi",
+            "width": "1440",
+            "height": "630",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/cross_content/image/delhi-facts.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/cross_content/mobile/delhi-facts-mobile.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          }
+        }
+      ],
+      "geoLoc": null
+    },
+    {
+      "id": "component--id--when-to-go",
+      "name": "Features",
+      "background": "primary",
+      "feature": [
+        {
+          "id": "FeatureComponent",
+          "name": "Feature",
+          "body": "<p>If you love historical forts, you should definitely visit The Red Fort in the heart of the city. Suppose you come on Independence Day of India. In that case, the Prime Minister will hoist the Indian \"tricolor flag\" at the fort's main gate and deliver a nationally broadcast speech from its ramparts. The Red Fort is a popular attraction, so if you visit, ensure you get there early.&nbsp;</p>\r\n",
+          "title": "The Red Fort ",
+          "imgSrc": {
+            "alt": "The Red Fort ",
+            "width": "800",
+            "height": "800",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/feature/image/delhi-red-fort.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/features/mobile/delhi-red-fort-mobile.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          }
+        },
+        {
+          "id": "FeatureComponent",
+          "name": "Feature",
+          "body": "<p>The Qutb Minar, also spelled Qutab Minar or Qutub Minar is a tower that forms part of the Qutb complex. It is considered a \"victory tower\" located at the site of Lal Kot, Delhi's oldest fortified city. Of particular note is its designation as a UNESCO World Heritage Site. It is relatively large, standing 73-meters (2,372 feet) tall with a large tower at the top. The base is 14.3 meters (or 47 feet) in diameter, and the top is only 2.7 meters (9 feet). It looks like a massive tree trunk torn from its branches, towering high into the sky.</p>\r\n",
+          "title": "The Qutb Minar",
+          "imgSrc": {
+            "alt": "The Qutb Minar",
+            "width": "800",
+            "height": "800",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/feature/image/delhi-qutb-minar.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/features/mobile/delhi-qutb-minar-mobile.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          }
+        },
+        {
+          "id": "FeatureComponent",
+          "name": "Feature",
+          "body": "<p>In 1569, Humayun's first wife, Empress Bega Begum (also known as Haji Begum), commissioned Humayun's Tomb for Mughal Emperor Humayun. Persian architects Mirak Mirza Ghiyas and his son, Sayyid Muhammad, were chosen by the Empress to design the tomb.</p>\r\n",
+          "title": "Humayun's Tomb",
+          "imgSrc": {
+            "alt": "Humayun's Tomb",
+            "width": "800",
+            "height": "800",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/feature/image/delhi-humayuns-tomb.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/features/mobile/delhi-humayuns-tomb-mobile.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          }
+        },
+        {
+          "id": "FeatureComponent",
+          "name": "Feature",
+          "body": "<p>The All India War Memorial is now known as India Gate. You can find it on the eastern edge of the \"ceremonial axis\" of New Delhi, which was once called the Kingsway. It is a memorial to the 70,000 British Indian soldiers who lost their lives between 1914-1921 in the First World War and the Second Anglo-Afghan War.&nbsp;</p>\r\n",
+          "title": "India Gate",
+          "imgSrc": {
+            "alt": "The India Gate",
+            "width": "800",
+            "height": "800",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/feature/image/delhi-india-gate.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/features/mobile/delhi-india-gate-mobile.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          }
+        },
+        {
+          "id": "FeatureComponent",
+          "name": "Feature",
+          "body": "<p>The Masjid-i Jehan-Numa is commonly known as the Jama Masjid of Delhi and is one of the largest mosques in the country. It is a beautiful building constructed of white marble and red sandstone. The Mughal Emperor Shah Jahan started building the mosque in 1650 and finished it in 1656, costing over one million Rupees. The courtyard is vast and accommodates 25,000 people.</p>\r\n",
+          "title": "Jama Masjid of Delhi",
+          "imgSrc": {
+            "alt": "Jama Masjid of Delhi",
+            "width": "800",
+            "height": "800",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/feature/image/delhi-jama-masjid.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/features/mobile/delhi-jama-masjid-mobile.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          }
+        }
+      ],
+      "title": "Things To See",
+      "geoLoc": null
+    },
+    {
+      "id": "CardsComponent",
+      "name": "Cards",
+      "background": "secondary-2",
+      "cards": [
+        {
+          "id": "card-56975-1",
+          "name": "Slide",
+          "badges": [
+            {
+              "id": "hotels-56975",
+              "text": "",
+              "icon": "icon-hotels",
+              "theme": ""
+            }
+          ],
+          "continent": "Asia",
+          "title": "Leela Palace Hotel",
+          "imgSrc": {
+            "alt": "Leela Palace Hotel",
+            "width": "346",
+            "height": "268",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/leela-palace_1.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/leela-palace_1.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/aix-leela-palace-hotel",
+          "buttonText": "",
+          "tags": [
+            "hotels-56975"
+          ]
+        },
+        {
+          "id": "card-56975-2",
+          "name": "Slide",
+          "badges": [
+            {
+              "id": "restaurants-56975",
+              "text": "",
+              "icon": "icon-restaurants",
+              "theme": ""
+            }
+          ],
+          "continent": "Asia",
+          "title": "Artjuna Cafe",
+          "imgSrc": {
+            "alt": "Artjuna ",
+            "width": "346",
+            "height": "268",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/artjuna-cafe_1.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/artjuna-cafe_1.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/aix-artjuna-cafe",
+          "buttonText": "",
+          "tags": [
+            "restaurants-56975"
+          ]
+        },
+        {
+          "id": "card-56975-3",
+          "name": "Slide",
+          "badges": [
+            {
+              "id": "attractions-56975",
+              "text": "",
+              "icon": "icon-attractions",
+              "theme": ""
+            }
+          ],
+          "continent": "Asia",
+          "title": "Kingdom Of Dreams",
+          "imgSrc": {
+            "alt": "Kingdom Of Dreams",
+            "width": "346",
+            "height": "268",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/kingdom-of-dreams_1.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/kingdom-of-dreams_1.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/aix-kingdom-dreams",
+          "buttonText": "",
+          "tags": [
+            "attractions-56975"
+          ]
+        }
+      ],
+      "title": "There's something for everyone in Delhi",
+      "carousel-theme": "offset",
+      "geoLoc": null
+    },
+    {
+      "id": "CardsComponent",
+      "name": "Cards",
+      "background": "primary",
+      "cards": [
+        {
+          "id": "card-56995-1",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Europe",
+          "subTitle": "Netherlands",
+          "title": "Amsterdam",
+          "imgSrc": {
+            "alt": "Amsterdam",
+            "width": "740",
+            "height": "900",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Amsterdam-Footer-Thumbnail_2.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Amsterdam-Footer-Thumbnail_2.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/amsterdam",
+          "buttonText": "",
+          "className": "background"
+        },
+        {
+          "id": "card-56995-2",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Asia",
+          "subTitle": "Thailand",
+          "title": "Bangkok",
+          "imgSrc": {
+            "alt": "Bangkok",
+            "width": "740",
+            "height": "900",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Bangkok-Thumbnail.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Bangkok-Thumbnail.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/bangkok-2",
+          "buttonText": "",
+          "className": "background"
+        },
+        {
+          "id": "card-56995-3",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Australia",
+          "subTitle": "Australia",
+          "title": "Darwin",
+          "imgSrc": {
+            "alt": "Darwin",
+            "width": "740",
+            "height": "900",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Darwin-Footer-Thumbnail_19.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Darwin-Footer-Thumbnail_19.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/darwin",
+          "buttonText": "",
+          "className": "background"
+        },
+        {
+          "id": "card-56995-4",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Asia",
+          "subTitle": "United Arab Emirates",
+          "title": "Dubai",
+          "imgSrc": {
+            "alt": "Dubai",
+            "width": "740",
+            "height": "900",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Dubai-Footer-Thumbnail_2.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Dubai-Footer-Thumbnail_2.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/dubai-0",
+          "buttonText": "",
+          "className": "background"
+        },
+        {
+          "id": "card-56995-5",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Europe",
+          "subTitle": "Germany",
+          "title": "Hamburg",
+          "imgSrc": {
+            "alt": "Hamburg",
+            "width": "740",
+            "height": "900",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Hamburg_Footer_Thumbnail_24.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Hamburg_Footer_Thumbnail_24.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/aix-hamburg",
+          "buttonText": "",
+          "className": "background"
+        },
+        {
+          "id": "card-56995-6",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Asia",
+          "subTitle": "Vietnam",
+          "title": "Ho Chi Minh City",
+          "imgSrc": {
+            "alt": "Ho Chi Minh",
+            "width": "740",
+            "height": "900",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Ho_Chi_Minh-Footer-Thumbnail_0.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Ho_Chi_Minh-Footer-Thumbnail_0.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/ho-chi-minh-city",
+          "buttonText": "",
+          "className": "background"
+        },
+        {
+          "id": "card-56995-7",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Australia",
+          "subTitle": "Australia",
+          "title": "Hobart",
+          "imgSrc": {
+            "alt": "Hobart",
+            "width": "740",
+            "height": "900",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Hobart-Footer-Thumbnail_19.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Hobart-Footer-Thumbnail_19.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/hobart",
+          "buttonText": "",
+          "className": "background"
+        },
+        {
+          "id": "card-56995-8",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Asia",
+          "subTitle": "Malayasia",
+          "title": "Kuala Lumpur",
+          "imgSrc": {
+            "alt": "Kuala Lumpur",
+            "width": "740",
+            "height": "900",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Kuala%20Lumpur-Thumbnail_0.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Kuala%20Lumpur-Thumbnail_0.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/kuala-lumpur-2",
+          "buttonText": "",
+          "className": "background"
+        },
+        {
+          "id": "card-56995-9",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Europe",
+          "subTitle": "United Kingdom",
+          "title": "London",
+          "imgSrc": {
+            "alt": "London",
+            "width": "740",
+            "height": "900",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/London-Footer-Thumbnail_2.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/London-Footer-Thumbnail_2.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/london-0",
+          "buttonText": "",
+          "className": "background"
+        },
+        {
+          "id": "card-56995-10",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Australia",
+          "subTitle": "Australia",
+          "title": "Melbourne",
+          "imgSrc": {
+            "alt": "Melbourne",
+            "width": "740",
+            "height": "900",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Melbourne-Footer-Thumbnail_19.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Melbourne-Footer-Thumbnail_19.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/melbourne",
+          "buttonText": "",
+          "className": "background"
+        },
+        {
+          "id": "card-56995-11",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "North America",
+          "subTitle": "Mexico",
+          "title": "Mexico City",
+          "imgSrc": {
+            "alt": "Mexico",
+            "width": "740",
+            "height": "900",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Mexico%20City-Footer-Thumbnail_2.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Mexico%20City-Footer-Thumbnail_2.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/mexico-city",
+          "buttonText": "",
+          "className": "background"
+        },
+        {
+          "id": "card-56995-12",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Africa",
+          "subTitle": "Kenya",
+          "title": "Nairobi",
+          "imgSrc": {
+            "alt": "Nairobi",
+            "width": "740",
+            "height": "900",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Tile-Nairobi-740x900XL_2.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Tile-Nairobi-740x900XL_2.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/nairobi-2",
+          "buttonText": "",
+          "className": "background"
+        },
+        {
+          "id": "card-56995-13",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "North America",
+          "subTitle": "United States",
+          "title": "New York",
+          "imgSrc": {
+            "alt": "New York",
+            "width": "740",
+            "height": "900",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/New%20York-Footer-Thumbnail_2.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/New%20York-Footer-Thumbnail_2.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/new-york",
+          "buttonText": "",
+          "className": "background"
+        },
+        {
+          "id": "card-56995-14",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Europe",
+          "subTitle": "Norway",
+          "title": "Oslo",
+          "imgSrc": {
+            "alt": "Oslo",
+            "width": "740",
+            "height": "900",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Oslo-Footer-Thumbnail_2.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Oslo-Footer-Thumbnail_2.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/oslo",
+          "buttonText": "",
+          "className": "background"
+        },
+        {
+          "id": "card-56995-15",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "Europe",
+          "subTitle": "France",
+          "title": "Paris",
+          "imgSrc": {
+            "alt": "Paris",
+            "width": "740",
+            "height": "900",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Paris-Footer-Thumbnail2_35.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Paris-Footer-Thumbnail2_35.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/paris",
+          "buttonText": "",
+          "className": "background"
+        },
+        {
+          "id": "card-56995-16",
+          "name": "Slide",
+          "theme": "background",
+          "continent": "North America",
+          "subTitle": "United States",
+          "title": "Salt Lake City",
+          "imgSrc": {
+            "alt": "Salt Lake",
+            "width": "740",
+            "height": "900",
+            "srcSet": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/image/Salt%20Lake%20City-Footer-Thumbnail_2.jpg",
+            "srcSetMobile": "https://drupal.gdexplorer.com/sites/default/files/Global-Destination-Explorer/images/slide/mobile/Salt%20Lake%20City-Footer-Thumbnail_2.jpg",
+            "srcSetWebpMobile": "",
+            "srcSetJp2Mobile": "",
+            "srcSetJxrMobile": "",
+            "srcSetSvgMobile": "",
+            "srcSetWebp": "",
+            "srcSetJp2": "",
+            "srcSetJxr": "",
+            "srcSetSvg": ""
+          },
+          "href": "/salt-lake-city",
+          "buttonText": "",
+          "className": "background"
+        }
+      ],
+      "title": "Cities you might also be interested in",
+      "carousel-theme": "carousel",
+      "geoLoc": null
+    },
+    {
+      "id": "FrontendFormComponent",
+      "name": "FrontendForm",
+      "form_name": "formSubscribe",
+      "success": "<p>Thank you for subscribing!</p>\r\n",
+      "title": "Get discounts on restaurants, hotels, attractions and get inspiration for your next holiday",
+      "geoLoc": null
+    }
+  ],
+  "udo": null,
+  "meta": {
+    "languages": {
+      "en-us": {
+        "components_5_title": "test"
+      },
+      "nw": {
+        "components_5_title": "norwegian test"
+      }
+    }
+  }
+}
