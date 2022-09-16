@@ -5887,3 +5887,13 @@ data/json/menu/footer
 # 16 September 2022
 
 # 16 September 2022
+250 life insurance
+28 paycheck protection
+500 roth ira
+
+mutual investment: $1250
+
+total: ~$2020
+
+
+# 16 September 2022
