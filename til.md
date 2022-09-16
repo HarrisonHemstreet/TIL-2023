@@ -5895,9 +5895,10 @@ mutual investment: $1250
 
 total: ~$2020
 
+ameri
 
-# 16 September 2022
-
-# 16 September 2022
+roths 1k
+defensive planning 280
+non-qualified 720
 
 # 16 September 2022
