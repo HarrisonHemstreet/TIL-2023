@@ -1,0 +1,16 @@
+name: Perform Regression
+
+on:
+  push:
+    branches: [staging]
+
+jobs:
+  merge-staging-to-master:
+    name: Merge staging -> master
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: merge staging -> master
+        run: |
+          git merge staging
+          git commit -m "Regression: "
