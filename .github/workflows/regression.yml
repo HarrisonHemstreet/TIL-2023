@@ -14,6 +14,6 @@ jobs:
         uses: devmasx/merge-branch@master
         with:
           type: now
-          from_branch: staging
+          from_branch: prod
           target_branch: master
           github_token: ${{ github.token }}
