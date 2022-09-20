@@ -1,8 +1,8 @@
 name: Sync dev and master
-on:
-  push:
-    branches:
-      - '*'
+on: [workflow_dispatch]
+  # push:
+  #   branches:
+  #     - '*'
 jobs:
   sync-branch:
     runs-on: ubuntu-latest
