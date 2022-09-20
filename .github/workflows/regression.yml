@@ -1,21 +1,18 @@
-name: Perform Regression
-
+name: Sync dev and master
 on:
-  pull_request_target:
-    types:
-      - closed
+  push:
     branches:
-      - staging2
-
+      - '*'
 jobs:
-  if_merged:
-    name: Merge staging -> master
-    if: github.event.pull_request.merged == true
+  sync-branch:
     runs-on: ubuntu-latest
     steps:
-    - name: merge staging -> master
-    - run: |
-        git checkout master
-        git merge staging2
-        git commit -m "Regression: "
+      - uses: actions/checkout@master
 
+      - name: Merge dev -> master
+        uses: devmasx/merge-branch@master
+        with:
+          type: now
+          from_branch: dev
+          target_branch: master
+          github_token: ${{ github.token }}
