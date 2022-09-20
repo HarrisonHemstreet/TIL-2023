@@ -4,6 +4,8 @@ on:
   pull_request_target:
     types:
       - closed
+    branches:
+      - staging2
 
 jobs:
   if_merged:
@@ -13,8 +15,7 @@ jobs:
     steps:
     - name: merge staging -> master
     - run: |
-        run: |
-          git checkout master
-          git merge staging2
-          git commit -m "Regression: "
+        git checkout master
+        git merge staging2
+        git commit -m "Regression: "
 
