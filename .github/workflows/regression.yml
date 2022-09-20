@@ -1,18 +1,19 @@
-name: Sync dev and master
-on: [workflow_dispatch]
-  # push:
-  #   branches:
-  #     - '*'
+name: Sync staging and master
+on:
+  # schedule:
+  #   - cron: '0 22 * * *'
+  [workflow_dispatch]
+
 jobs:
   sync-branch:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
 
-      - name: Merge dev -> master
+      - name: Merge staging -> master
         uses: devmasx/merge-branch@master
         with:
           type: now
-          from_branch: dev50
+          from_branch: staging
           target_branch: master
           github_token: ${{ github.token }}
