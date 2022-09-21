@@ -6024,50 +6024,19 @@ test dev50 haha
 test git
 prod test
 
-# 20 September 2022
-
-# 20 September 2022
-
-# 20 September 2022
-
-# 20 September 2022
-
-# 20 September 2022
-
-# 20 September 2022
-
-# 20 September 2022
-
-# 20 September 2022
-
-# 20 September 2022
-
 # 21 September 2022
+inventory notes - matthias rieger
+we are going to stick with zoho until after Oct 6th (launch day)
+we are prob going to use salesforce after that...
 
-# 21 September 2022
+there are left overs containing GOBP stuff we need to update
+we need a tool that will show a breakdown of how many promotions we are offering
 
-# 21 September 2022
+when do we want them to start selling?:
+October 6th
 
-# 21 September 2022
+write airline_config/airline_name/dist
 
-# 21 September 2022
-
-# 21 September 2022
-
-# 21 September 2022
-
-# 21 September 2022
-
-# 21 September 2022
-
-# 21 September 2022
-
-# 21 September 2022
-
-# 21 September 2022
-
-# 21 September 2022
-
-# 21 September 2022
-
-# 21 September 2022
+generation process:
+0. read through AirlineBundleBatch.php and document the flow of how we build bundles
+1. the main idea is that we essentially have our assets (photos, text, videos, etc) and we have our dist (our bundled )
