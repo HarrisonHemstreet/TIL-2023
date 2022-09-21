@@ -6042,3 +6042,6 @@ generation process:
 1. the main idea is that we essentially have our assets (photos, text, videos, etc) and we have our dist (our bundled )
 
 # 21 September 2022
+cc- custom code directory
+
+# 21 September 2022
