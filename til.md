@@ -6040,3 +6040,5 @@ write airline_config/airline_name/dist
 generation process:
 0. read through AirlineBundleBatch.php and document the flow of how we build bundles
 1. the main idea is that we essentially have our assets (photos, text, videos, etc) and we have our dist (our bundled )
+
+# 21 September 2022
