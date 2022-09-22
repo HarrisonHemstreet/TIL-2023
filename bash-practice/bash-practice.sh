@@ -1,5 +1,8 @@
 #!/bin/bash
 
+airlineName=$1;
+echo "$airlineName";
+
 gdeArray=();
 
 for i in *; do
@@ -31,9 +34,9 @@ else
 fi
 
 # now we will go through and rename the directories, and delete any we don't need
-mv "$gdePrime" "gde2";
-mv "$gdeTwo" "gde3";
 rm -rf "$gdeThree";
+mv "$gdeTwo" "gde3";
+mv "$gdePrime" "gde2";
 
 # rename the unzipped directory that is default named after the airline
 mv "$airlineName" "gde"
@@ -43,7 +46,11 @@ exit 0;
 # gde1="gde";
 # gde2="gde2";
 # gde3="gde3";
+# gdeTEN="gde10";
 
 # mv "$gde1" "gdeONE";
 # mv "$gde2" "gdeTWO";
 # mv "$gde3" "gdeTHREE";
+# rm -rf "$gdeTEN";
+
+
