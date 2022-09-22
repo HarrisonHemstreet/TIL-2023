@@ -34,16 +34,17 @@ if [[ $gde_prime == "gde" && $gde_two == "gde2" && $gde_three == "gde3" ]]; then
   # gather up every gde* directory that is not included in prime, two or three so we can delete them
   old_gdes=(${gde_array[@]:3:$count});
 elif
-  printf "You must manually fix the directory structure within /var/www/html/$airline_name/3rdparty.\n
+  printf "
+  You must manually fix the directory structure within /var/www/html/AIRLINE_NAME/3rdparty.\n
   Make sure you have directories named 'gde', 'gde2', 'gde3'.
   If you don't then manually generate the directories.
   You can follow these steps:\n
   1. SSH Tunnel into the Drupal Prod EC2: ssh ec2-user@10.0.21.116\n
   2. cd /var/www/html/jambojet/3rdparty\n
-  3. mv /var/www/drupal/private/bundles/$zipped_file_name .\n
-  4. unzip $zipped_file_name\n
+  3. mv /var/www/drupal/private/bundles/ZIPPED_FILE_NAME .\n
+  4. unzip ZIPPED_FILE_NAME\n
   5. mv gde gde8 # gde[next number] (for example, if the last one is 5, then you would instead name it gd6)\n
-  6. mv $airline_name gde # (the JamboJet directory is created after unziping the ziped file that we brought over)\n
+  6. mv AIRLINE_NAME gde # (the JamboJet directory is created after unziping the ziped file that we brought over)\n
   7. cd gde\n
   8. (this may not be a step for long, but currently we need to check the config file) cat config.js\n
   9. make sure every line has valid config key pair values in there. fix them if they don't\n
