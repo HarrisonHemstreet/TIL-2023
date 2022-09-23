@@ -3,14 +3,12 @@
 
 # We probably should not pass around the variables $1 and $2, so we will
 # pass around actual descriptive names so we don't get confused
-airline_name=$1;
+airline_directory_name=$1;
 zipped_file_name=$2;
-
-airline_name_lower_case="${airline_name,,}"
-airline_directory_name="${airline_name,,}"
+bundle_name="${zipped_file_name%%-*}"
 
 # make sure we are in the right directory
-cd "/var/www/html/$airline_name_lower_case/3rdparty"
+cd "/var/www/html/$airline_directory_name/3rdparty"
 
 # move zip file to current directory
 mv "/var/www/drupal/private/bundles/$zipped_file_name" "."
@@ -30,8 +28,9 @@ gde_prime=${gde_array[0]};
 gde_two=${gde_array[1]};
 gde_three=${gde_array[2]};
 
-old_gdes=();
 count=$((${#gde_array[@]} - 3))
+
+old_gdes=();
 
 if [[ $gde_prime == "gde" && $gde_two == "gde2" && $gde_three == "gde3" ]]; then
   # gather up every gde* directory that is not included in prime, two or three so we can delete them
@@ -59,7 +58,6 @@ fi
 # check to see if there are any old directories we need to delete
 if [[ ${#old_gdes} ]]; then
   for i in "${old_gdes[@]}"; do
-    echo "hi, $i";
     rm -rf "$i";
   done
   # ... if so delete them here. loop through here and just rm -rf each directory name
@@ -71,9 +69,9 @@ mv "$gde_two" "gde3";
 mv "$gde_prime" "gde2";
 
 # rename the unzipped directory that is default named after the airline
-mv "$airline_name" "gde"
+mv "$bundle_name" "gde"
 
 exit 0;
 
 # put this script inside the AirlineBatchBundler.php file (create bundle button?) like this:
-# shell_exec('./bash_script.sh airline_name zipped_file_name');
+# shell_exec('./bash_script.sh airline_directory_name zipped_file_name');
