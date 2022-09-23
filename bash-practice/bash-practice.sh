@@ -7,6 +7,7 @@ airline_name=$1;
 zipped_file_name=$2;
 
 airline_name_lower_case="${airline_name,,}"
+airline_directory_name="${airline_name,,}"
 
 # make sure we are in the right directory
 cd "/var/www/html/$airline_name_lower_case/3rdparty"
