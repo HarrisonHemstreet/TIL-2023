@@ -4,14 +4,15 @@
 # We probably should not pass around the variables $1 and $2, so we will
 # pass around actual descriptive names so we don't get confused
 airline_name=$1;
-airline_name_lower_case="${airline_name,,}"
 zipped_file_name=$2;
+
+airline_name_lower_case="${airline_name,,}"
 
 # make sure we are in the right directory
 cd "/var/www/html/$airline_name_lower_case/3rdparty"
 
 # move zip file to current directory
-mv "/var/www/drupal/private/bundles/$zipped_file_name" .
+mv "/var/www/drupal/private/bundles/$zipped_file_name" "."
 
 unzip "$zipped_file_name";
 

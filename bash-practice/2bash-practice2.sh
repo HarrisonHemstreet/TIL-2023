@@ -1,4 +1,3 @@
 #!/bin/bash
-
-cd "~/til";
-mv "~/til/bash-practice/gde9" "."
+cd "/home/harry/til/bash-practice/";
+mv "/home/harry/til/gde9" "."
