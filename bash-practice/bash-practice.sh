@@ -35,7 +35,7 @@ count=$((${#gde_array[@]} - 3))
 if [[ $gde_prime == "gde" && $gde_two == "gde2" && $gde_three == "gde3" ]]; then
   # gather up every gde* directory that is not included in prime, two or three so we can delete them
   old_gdes=(${gde_array[@]:3:$count});
-elif
+  else
   printf "
   You must manually fix the directory structure within /var/www/html/AIRLINE_NAME/3rdparty.\n
   Make sure you have directories named 'gde', 'gde2', 'gde3'.
@@ -57,7 +57,10 @@ fi
 
 # check to see if there are any old directories we need to delete
 if [[ ${#old_gdes} ]]; then
-  echo "not empty";
+  for i in "${old_gdes[@]}"; do
+    echo "hi, $i";
+    rm -rf "$i";
+  done
   # ... if so delete them here. loop through here and just rm -rf each directory name
 fi
 
