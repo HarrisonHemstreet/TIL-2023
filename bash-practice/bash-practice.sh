@@ -74,3 +74,5 @@ mv "$airline_name" "gde"
 
 exit 0;
 
+# put this script inside the AirlineBatchBundler.php file (create bundle button?) like this:
+# shell_exec('./bash_script.sh airline_name zipped_file_name');
