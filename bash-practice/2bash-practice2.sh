@@ -8,15 +8,30 @@
 # echo "this in the end: $end"
 
 # # echo $tmp
+if [ -z ${1+x} ];
+then
+    echo "Missing variable: airline_directory_name"
+    exit 1;
+fi
 
-# if [ -z ${1+x} ];
-# then
-#     echo "if was true"
-# else
-#     echo "if was false"
-# fi
+if [ -z $1 ];
+then
+    echo "empty variable: airline_directory_name"
+    exit 1;
+fi
 
-# exit 0;
+
+if [ -z ${2+x} ];
+then
+    echo "Missing variable: zipped_file_name"
+    exit 1;
+fi
+
+if [ -z $2 ];
+then
+    echo "empty variable: zipped_file_name"
+    exit 1;
+fi
 
 
 airline_directory_name=$1;

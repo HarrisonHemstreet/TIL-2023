@@ -3,6 +3,31 @@
 
 # We probably should not pass around the variables $1 and $2, so we will
 # pass around actual descriptive names so we don't get confused
+if [ -z ${1+x} ];
+then
+    echo "Missing variable: airline_directory_name"
+    exit 1;
+fi
+
+if [ -z $1 ];
+then
+    echo "empty variable: airline_directory_name"
+    exit 1;
+fi
+
+
+if [ -z ${2+x} ];
+then
+    echo "Missing variable: zipped_file_name"
+    exit 1;
+fi
+
+if [ -z $2 ];
+then
+    echo "empty variable: zipped_file_name"
+    exit 1;
+fi
+
 airline_directory_name=$1;
 zipped_file_name="${2##*/}"
 bundle_name="${zipped_file_name%%-*}"
