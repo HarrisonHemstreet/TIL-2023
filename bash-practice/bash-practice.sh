@@ -4,7 +4,7 @@
 # We probably should not pass around the variables $1 and $2, so we will
 # pass around actual descriptive names so we don't get confused
 airline_directory_name=$1;
-zipped_file_name=$2;
+zipped_file_name="${2##*/}"
 bundle_name="${zipped_file_name%%-*}"
 
 # make sure we are in the right directory
