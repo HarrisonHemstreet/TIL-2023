@@ -6178,5 +6178,6 @@ cleanest way: use an api on drupal
 # 25 September 2022
 
 # 25 September 2022
+server folders: aix, airasia, exploro, exploro-new, kenya-airways, spirit, wideroe, explorogroup, jambojet, sales, vistara
 
 # 25 September 2022
