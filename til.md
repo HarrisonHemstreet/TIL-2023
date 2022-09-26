@@ -6204,3 +6204,5 @@ look at prepare bundle...
 put a static guy that has all the parameters batchbuilder = BatchBuilder::(params)
 
 # 26 September 2022
+
+# 26 September 2022
