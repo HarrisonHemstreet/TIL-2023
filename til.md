@@ -6208,3 +6208,20 @@ put a static guy that has all the parameters batchbuilder = BatchBuilder::(param
 # 26 September 2022
 
 # 26 September 2022
+exploro.com/bestrestaurant/{insert 1 of 240 cities + 1 for the main page}
+
+all we are doing is dropping in pre-built code 
+
+have a custom dropdown on the side that contains all 240 locations ( maybe a search bar too )
+
+react with mongodb 
+
+submit:
+1. 
+
+we need to make a drop down for all 240 locations
+wee may need to look into lang translations? maybe talk about that with kaden
+october 15th
+the tech/cdn that we will be working on is Gigg
+
+# 26 September 2022
