@@ -6300,3 +6300,5 @@ the tech/cdn that we will be working on is Gigg
 1. add a location block in nginx that will 
 
 # 28 September 2022
+
+# 28 September 2022
