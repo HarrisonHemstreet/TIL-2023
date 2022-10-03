@@ -6304,5 +6304,4 @@ custom party builder (flow kinda like wix.com):
 2. venue page
 3. food page
 4. music/entertainment page
-
-# 03 October 2022
+5. a final page (either add the selected options to checkout or )
