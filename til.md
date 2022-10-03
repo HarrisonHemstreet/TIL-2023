@@ -6286,3 +6286,11 @@ the tech/cdn that we will be working on is Gigg
 # 03 October 2022
 
 # 03 October 2022
+steps for making a new dist and then moving it into the ec2 in the right place
+```
+cd ~/exploro/gde-frontend/public
+npm run build
+scp -r dist ec2-user@10.0.21.116:/var/www/drupal/private/Archive
+```
+
+# 03 October 2022
