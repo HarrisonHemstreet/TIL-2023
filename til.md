@@ -6293,8 +6293,16 @@ npm run build
 scp -r dist ec2-user@10.0.21.116:/var/www/drupal/private/Archive
 ```
 
-# 03 October 2022
+celebrate web app pages:
+1. home page/ welcome page
+2. products page (show all products with fast filtering)
+3. login page
+4. checkout page
 
-# 03 October 2022
+custom party builder (flow kinda like wix.com):
+1. what size of party: based on the size, there will be pages that ask specfics about other item:
+2. venue page
+3. food page
+4. music/entertainment page
 
 # 03 October 2022
