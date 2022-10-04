@@ -6203,11 +6203,6 @@ submitform in the form folnder in that file put the new code inside the service 
 look at prepare bundle... 
 put a static guy that has all the parameters batchbuilder = BatchBuilder::(params)
 
-# 26 September 2022
-
-# 26 September 2022
-
-# 26 September 2022
 exploro.com/bestrestaurant/{insert 1 of 240 cities + 1 for the main page}
 
 all we are doing is dropping in pre-built code 
@@ -6224,8 +6219,6 @@ wee may need to look into lang translations? maybe talk about that with kaden
 october 15th
 the tech/cdn that we will be working on is Gigg
 
-# 26 September 2022
-
 # 27 September 2022
 
 # 28 September 2022
@@ -6235,55 +6228,7 @@ the tech/cdn that we will be working on is Gigg
 
 # 30 September 2022
 
-# 30 September 2022
-
-# 30 September 2022
-
-# 30 September 2022
-
-# 30 September 2022
-
-# 30 September 2022
-
-# 30 September 2022
-
-# 30 September 2022
-
-# 30 September 2022
-
-# 30 September 2022
-
-# 30 September 2022
-
-# 30 September 2022
-
-# 30 September 2022
-
-# 30 September 2022
-
 # 01 October 2022
-
-# 01 October 2022
-
-# 01 October 2022
-
-# 01 October 2022
-
-# 01 October 2022
-
-# 01 October 2022
-
-# 01 October 2022
-
-# 01 October 2022
-
-# 01 October 2022
-
-# 01 October 2022
-
-# 03 October 2022
-
-# 03 October 2022
 
 # 03 October 2022
 steps for making a new dist and then moving it into the ec2 in the right place
@@ -6306,44 +6251,5 @@ custom party builder (flow kinda like wix.com):
 4. music/entertainment page
 5. a final page (either add the selected options to checkout or )
 
-# 03 October 2022
-
-# 03 October 2022
-
-# 03 October 2022
-
-# 03 October 2022
-
-# 03 October 2022
-
-# 03 October 2022
-
-# 03 October 2022
-
-# 03 October 2022
-
 # 04 October 2022
 
-# 04 October 2022
-
-# 04 October 2022
-
-# 04 October 2022
-
-# 04 October 2022
-
-# 04 October 2022
-
-# 04 October 2022
-
-# 04 October 2022
-
-# 04 October 2022
-
-# 04 October 2022
-
-# 04 October 2022
-
-# 04 October 2022
-
-# 04 October 2022
