@@ -6258,3 +6258,5 @@ custom party builder (flow kinda like wix.com):
 move dist into ec2 drupal:
 `scp -r dist ec2-user@10.0.21.116:/var/www/drupal/private/Archive`
 
+
+# 05 October 2022
