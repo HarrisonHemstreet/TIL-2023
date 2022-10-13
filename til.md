@@ -6447,4 +6447,9 @@ handleauthentiocation function needs to be fixed maybe
 objective B:
 we should also mock zoho
 
+how we mock stuff:
+awsCognitoProvider line 125
+
+index.js serverMode is created. just checks if we are on mock, prod, or staging(dev)
+
 # 13 October 2022
