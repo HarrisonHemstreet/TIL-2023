@@ -6430,3 +6430,21 @@ move dist into ec2 drupal:
 # 13 October 2022
 
 # 13 October 2022
+
+mock will setup a user identifier af 12345 and then seed the data
+puts something on the session that will allow the user to make api queries
+in staging, the login hits the auth-controler-auth-endpoint
+we want to bypass hitting aws when sigingin
+the bug that just popped up, (internal server error [the bug that pops up in the node-manager-mock logs: Error Handler: handleAuthentication - Cannot read properties of undefined (reading 'cognitoUser') - October 13, 2022 at 9:55 PM UTC]), needs to be solved:
+look here: lib/integrations/awscognito/awscognitoprovider.js line 179 getUser?
+and here: controllers/authController.js line 11
+and here: routes.js line 48
+the function getUser is suss look more in
+AuthProvider implements the 
+checks if we are logged in, if not will reoute to login
+handleauthentiocation function needs to be fixed maybe
+
+objective B:
+we should also mock zoho
+
+# 13 October 2022
