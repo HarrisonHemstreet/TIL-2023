@@ -6452,44 +6452,6 @@ awsCognitoProvider line 125
 
 index.js serverMode is created. just checks if we are on mock, prod, or staging(dev)
 
-# 13 October 2022
-
-# 13 October 2022
-
-# 13 October 2022
-
-# 13 October 2022
-
-# 13 October 2022
-
-# 13 October 2022
-
-# 13 October 2022
-
-# 14 October 2022
-
-# 14 October 2022
-
-# 14 October 2022
-
-# 14 October 2022
-
-# 14 October 2022
-
-# 14 October 2022
-
-# 14 October 2022
-
-# 14 October 2022
-
-# 14 October 2022
-
-# 14 October 2022
-
-# 14 October 2022
-
-# 14 October 2022
-
-# 14 October 2022
+authController.js line 59?, line 170 signinwithcustomtoken
 
 # 14 October 2022
