@@ -6306,8 +6306,5 @@ authController.js line 59?, line 170 signinwithcustomtoken
 EXP-749
 the problem is happening at AwsCognitoProvider.js line 180. In order to fix it, I should make a dummy cognito response
 
-# 17 October 2022
+`docker run --name rust-mongo -p 8089:27017 -d mongo:latest`
 
-# 17 October 2022
-
-# 17 October 2022
