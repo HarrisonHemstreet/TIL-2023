@@ -6308,3 +6308,5 @@ the problem is happening at AwsCognitoProvider.js line 180. In order to fix it, 
 
 `docker run --name rust-mongo -p 8089:27017 -d mongo:latest`
 
+
+# 17 October 2022
