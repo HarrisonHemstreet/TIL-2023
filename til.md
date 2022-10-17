@@ -6270,6 +6270,7 @@ move dist into ec2 drupal:
 
 # 13 October 2022
 
+EXP-749
 mock will setup a user identifier af 12345 and then seed the data
 puts something on the session that will allow the user to make api queries
 in staging, the login hits the auth-controler-auth-endpoint
@@ -6300,5 +6301,9 @@ authController.js line 59?, line 170 signinwithcustomtoken
 # 16 October 2022
 
 # 17 October 2022
+
+# 17 October 2022
+EXP-749
+the problem is happening at AwsCognitoProvider.js line 180. In order to fix it, I should make a dummy cognito response
 
 # 17 October 2022
