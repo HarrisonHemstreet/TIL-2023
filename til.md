@@ -6258,176 +6258,15 @@ custom party builder (flow kinda like wix.com):
 move dist into ec2 drupal:
 `scp -r dist ec2-user@10.0.21.116:/var/www/drupal/private/Archive`
 
-
-# 05 October 2022
-
-# 06 October 2022
-
-# 06 October 2022
-
-# 06 October 2022
-
-# 06 October 2022
-
-# 06 October 2022
-
-# 06 October 2022
-
-# 06 October 2022
-
 # 06 October 2022
 
 # 07 October 2022
 
-# 07 October 2022
-
-# 07 October 2022
-
-# 07 October 2022
-
-# 07 October 2022
-
-# 07 October 2022
-
-# 07 October 2022
-
-# 07 October 2022
-
-# 10 October 2022
-
-# 10 October 2022
-
-# 10 October 2022
-
-# 10 October 2022
-
-# 10 October 2022
-
-# 10 October 2022
-
-# 10 October 2022
-
-# 10 October 2022
-
-# 10 October 2022
-
-# 10 October 2022
-
-# 10 October 2022
-
-# 10 October 2022
-
-# 10 October 2022
-
 # 10 October 2022
 
 # 11 October 2022
 
-# 11 October 2022
-
-# 11 October 2022
-
-# 11 October 2022
-
-# 11 October 2022
-
-# 11 October 2022
-
-# 11 October 2022
-
-# 11 October 2022
-
-# 11 October 2022
-
-# 11 October 2022
-
-# 11 October 2022
-
-# 11 October 2022
-
-# 11 October 2022
-
-# 11 October 2022
-
-# 11 October 2022
-
 # 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 12 October 2022
-
-# 13 October 2022
-
-# 13 October 2022
-
-# 13 October 2022
-
-# 13 October 2022
-
-# 13 October 2022
-
-# 13 October 2022
-
-# 13 October 2022
-
-# 13 October 2022
-
-# 13 October 2022
-
-# 13 October 2022
-
-# 13 October 2022
-
-# 13 October 2022
-
-# 13 October 2022
-
-# 13 October 2022
-
-# 13 October 2022
 
 # 13 October 2022
 
@@ -6456,26 +6295,6 @@ authController.js line 59?, line 170 signinwithcustomtoken
 
 # 14 October 2022
 
-# 14 October 2022
-
-# 14 October 2022
-
 # 15 October 2022
-
-# 15 October 2022
-
-# 15 October 2022
-
-# 15 October 2022
-
-# 15 October 2022
-
-# 15 October 2022
-
-# 15 October 2022
-
-# 16 October 2022
-
-# 16 October 2022
 
 # 16 October 2022
