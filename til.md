@@ -6308,45 +6308,15 @@ the problem is happening at AwsCognitoProvider.js line 180. In order to fix it, 
 
 `docker run --name rust-mongo -p 8089:27017 -d mongo:latest`
 
-
-# 17 October 2022
-
-# 17 October 2022
-
-# 17 October 2022
-
 # 18 October 2022
-
-# 18 October 2022
-
-# 18 October 2022
-
-# 18 October 2022
-
-# 18 October 2022
-
-# 18 October 2022
-
-# 18 October 2022
-
-# 19 October 2022
-
-# 19 October 2022
-
-# 19 October 2022
-
-# 19 October 2022
-
-# 19 October 2022
-
-# 19 October 2022
 
 # 19 October 2022
 
 # 20 October 2022
 
-# 20 October 2022
 
-# 20 October 2022
+Deserializing means to convert your on-wire data(often times a JSON-encoded string) into a datatype(often times a struct).
+Serialization is to transform some structured data, often of an arbitrary structure, into a form that can be transmitted as a sequence, from one application to another.
+
 
 # 20 October 2022
