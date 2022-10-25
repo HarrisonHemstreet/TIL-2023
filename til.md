@@ -6382,3 +6382,5 @@ in order to purchase a campaign, I need to do this:
 7. when I want to pay for another campaign, all I need to do is switch the status from "paid" to "pending" back to "paid"
 8. I also need to delete the new record from the node-manager database from the microsites and campaigns tables in order to get everything looking to tho code like we have a fully newrecord
 9. in order to see any changes, I need to pull the newest code in ad_portal_part_a_functions (or campain_backend), if that doesnt change, then I need to run npx tsc 
+
+# 25 October 2022
