@@ -6330,3 +6330,13 @@ Serialization is to transform some structured data, often of an arbitrary struct
 put authprovider in the services folder instead
 
 # 25 October 2022
+we will put everything inot a private registry on aws and then pull from there in the template folder
+eventually we will be pushing our images to Thales' private registry
+
+When we are ready, we will have another meeting where we will talk about next steps with the more-live tech from thales
+
+thales notes:
+1. I need to make sure I have a kubernetes config file on my local at ~/.kube/config. I can get these values from the virtual machine at ./vagrant/.osdk/kube-config
+2. 
+
+# 25 October 2022
