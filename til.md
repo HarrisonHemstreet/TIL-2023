@@ -6354,3 +6354,5 @@ thales notes:
 * http://192.168.100.2:30001/#/rgw/bucket
 * https://kubebyexample.com/learning-paths/kubernetes-fundamentals/what-kubernetes-3-minutes
 * https://helm.sh/docs/
+
+# 25 October 2022
