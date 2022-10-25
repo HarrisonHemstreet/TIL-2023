@@ -6355,8 +6355,13 @@ thales notes:
 * https://kubebyexample.com/learning-paths/kubernetes-fundamentals/what-kubernetes-3-minutes
 * https://helm.sh/docs/
 
-# 25 October 2022
+node notes:
+1. template cration stuff, at the end (when the continue button is clicked) the answers provided goes through the process and picks and chooses exactly what data should be added in teh users json in the db
 
-# 25 October 2022
+2. at a certain time, the json is checked. meta prorety canupload video is checked. there will be a video and abackup image. the builder needs to then take that array wa talaked abeot exactly what kind of aray needs to be pulled. based on weather or not the video is enabled, the video willbe shown
+3 for all videos, we NEED to set a backup video. ONLY for the hero image. make it required that if a video is selected, an image also needs to be selected.
+4. keep canUploadVideo! this is set by other stuff
+5. the server needs to take a record of the package mappnig. takes it from frontend and saves it to drupal via json and then can be processed by exploro web app. jsonconverter.js?
+6.
 
 # 25 October 2022
