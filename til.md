@@ -6337,6 +6337,19 @@ When we are ready, we will have another meeting where we will talk about next st
 
 thales notes:
 1. I need to make sure I have a kubernetes config file on my local at ~/.kube/config. I can get these values from the virtual machine at ./vagrant/.osdk/kube-config
-2. 
-
-# 25 October 2022
+2. important commands:
+* ./osdk info
+* get the password and username for the ceph dashboard: ./osdk credentials ceph-dashboard
+* merge the vm and my local's kubernetes set up?: ./osdk merge
+* list all kubernetes pods: kubectl get pod
+* i had a problem where my vm was not getting the .kube directory and neither was my local machine. the thing that fixed this for me was running two commands:
+  - vagrant destroy
+  - vagrant up
+  I basically just needed to try the vagrant provissioning process again
+3. the ip address is located within /etc/hosts HHOWEVER, it's broken. I need to fix that file so that my hosts work. I need to do that in order to use the addresses provided by the
+.osdk info command. this url is broken for me until I can fix my etc/hosts file: http://192.168.100.2/pax
+4 important urls:
+* http://osdk-exploro.io:8080/
+* http://192.168.100.2:30001/#/rgw/bucket
+* https://kubebyexample.com/learning-paths/kubernetes-fundamentals/what-kubernetes-3-minutes
+* https://helm.sh/docs/
