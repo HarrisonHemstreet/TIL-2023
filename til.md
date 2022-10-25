@@ -6370,7 +6370,7 @@ package_month_year_mapping
 change it back and forth from paid and pending to test purchasing new stuff
 apicapaignts new
 microsites and campaigns are the tables
-delete from them everytim I want another campaign
+delete from them every time I want another campaign
 
 in order to purchase a campaign, I need to do this:
 1. set up campaign portal frontend and backend
@@ -6383,3 +6383,5 @@ in order to purchase a campaign, I need to do this:
 8. I also need to delete the new record from the node-manager database from the microsites and campaigns tables in order to get everything looking to tho code like we have a fully newrecord
 9. in order to see any changes, I need to pull the newest code in ad_portal_part_a_functions (or campain_backend), if that doesnt change, then I need to run npx tsc 
 
+
+# 25 October 2022
