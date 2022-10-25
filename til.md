@@ -6362,6 +6362,8 @@ node notes:
 3 for all videos, we NEED to set a backup video. ONLY for the hero image. make it required that if a video is selected, an image also needs to be selected.
 4. keep canUploadVideo! this is set by other stuff
 5. the server needs to take a record of the package mappnig. takes it from frontend and saves it to drupal via json and then can be processed by exploro web app. jsonconverter.js?
-6.
+6. update the check for when it allows video to be uploadede. only allow 
+
+package_month_year_mapping
 
 # 25 October 2022
