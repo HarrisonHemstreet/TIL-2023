@@ -6369,3 +6369,7 @@ package_month_year_mapping
 # 25 October 2022
 
 # 25 October 2022
+change it back and forth from paid and pending to test purchasing new stuff
+apicapaignts new
+microsites and campaigns are the tables
+delete from them everytim I want another campaign
