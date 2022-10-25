@@ -6339,6 +6339,7 @@ thales notes:
 1. I need to make sure I have a kubernetes config file on my local at ~/.kube/config. I can get these values from the virtual machine at ./vagrant/.osdk/kube-config
 2. important commands:
 * ./osdk info
+* ./osdk ssh
 * get the password and username for the ceph dashboard: ./osdk credentials ceph-dashboard
 * merge the vm and my local's kubernetes set up?: ./osdk merge
 * list all kubernetes pods: kubectl get pod
