@@ -6498,14 +6498,42 @@ self serve something and reviews
 
 # 01 November 2022
 
-# 01 November 2022
+I moved the dist from my local machine to the ec2. here's how I did it:
+checked out the main branch of gde-frontend/exploro-web-app and pull down
+setup my .env like so: 
+BUILD_NUMBER = "1"
+PORT = 8082
 
-# 01 November 2022
 
-# 01 November 2022
+# use for local reading from prod
 
-# 01 November 2022
+# BASE_DATA = "https://drupal.gdexplorer.com/sites/default/files/public"
+# BASE_CMS = "https://drupal.gdexplorer.com"
+# BASE_URL = ""
+# ASSET_PATH=""
 
-# 01 November 2022
+# use for local reading from staging
 
-# 01 November 2022
+# BASE_DATA = "https://drupal.gdexplorer.com:444/sites/default/files/public"
+# BASE_CMS = "https://drupal.gdexplorer.com:444"
+# BASE_URL = ""
+# ASSET_PATH=""
+
+# use for local reading from local cms
+
+# BASE_DATA = "http://localhost:7005/sites/default/files/public"
+# BASE_CMS = "http://localhost:7005"
+# BASE_URL = ""
+# ASSET_PATH=""
+# USE_LOCAL_CMS=1
+
+
+# use for prod builds
+
+BASE_DATA = "https://drupal.gdexplorer.com/sites/default/files/public"
+BASE_CMS = "https://drupal.gdexplorer.com"
+BASE_URL = "/3rdparty/gde"
+ASSET_PATH="/3rdparty/gde"
+3. cd gde-frontend/public
+4. ssh ec2-user@10.0.21.116 and cd /var/www/drupal/private/Archive and rm -rf dist
+5. back on local: scp -r dist ec2-user@10.0.21.116:/var/www/drupal/private/Archive
