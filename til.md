@@ -6539,3 +6539,5 @@ ASSET_PATH="/3rdparty/gde"
 5. back on local: scp -r dist ec2-user@10.0.21.116:/var/www/drupal/private/Archive
 
 # 02 November 2022
+
+# 02 November 2022
