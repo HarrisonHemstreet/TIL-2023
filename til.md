@@ -6538,15 +6538,5 @@ ASSET_PATH="/3rdparty/gde"
 4. ssh ec2-user@10.0.21.116 and cd /var/www/drupal/private/Archive and rm -rf dist
 5. back on local: scp -r dist ec2-user@10.0.21.116:/var/www/drupal/private/Archive
 
-# 02 November 2022
-
-# 03 November 2022
-
-# 04 November 2022
-
-# 05 November 2022
-
-# 06 November 2022
-
 # 10 November 2022
 
