@@ -6806,3 +6806,11 @@ ASSET_PATH="/3rdparty/gde"
 # 09 December 2022
 
 # 09 December 2022
+
+2 sections:
+1. webpack: newhtmlwebpackplugins
+2. webpack entry object -> points at an entry.js file
+3. public html file for new page
+4. make a new vue file
+
+# 09 December 2022
