@@ -6795,3 +6795,6 @@ ASSET_PATH="/3rdparty/gde"
 # 08 December 2022
 
 # 08 December 2022
+## make a password reset page. should model a basic page after the homepage: src/vue/AboutGDE.vue
+
+# 09 December 2022
