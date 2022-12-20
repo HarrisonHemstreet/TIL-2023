@@ -6995,3 +6995,5 @@ final: cloudwatch waits until a health check has NOT passed for 5 min. then the 
 I need to put a trigger (via the aws sns sdk) a trigger that enters the above path at the sns topic
 
 # 20 December 2022
+
+# 20 December 2022
