@@ -6984,3 +6984,12 @@ ASSET_PATH="/3rdparty/gde"
 # 20 December 2022
 
 # 20 December 2022
+
+1. look in handleErr in nodemanager
+2. setup the cloudwatch reporting to nodemanager
+3. we only have the cloud watch in aws. looks at the health checks. those health checks are in lambda?
+we have a cloud watch alarm setup, runs a health check. after 5 min, hits an SNS/lambda that sends the error to slack
+4. cloudwatch 
+
+final: cloudwatch waits until a health check has NOT passed for 5 min. then the sns topic is hit which calls the lambda for slack which sends us a slack message.
+I need to put a trigger (via the aws sns sdk) a trigger that enters the above path at the sns topic
