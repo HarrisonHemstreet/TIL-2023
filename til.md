@@ -6993,3 +6993,5 @@ we have a cloud watch alarm setup, runs a health check. after 5 min, hits an SNS
 
 final: cloudwatch waits until a health check has NOT passed for 5 min. then the sns topic is hit which calls the lambda for slack which sends us a slack message.
 I need to put a trigger (via the aws sns sdk) a trigger that enters the above path at the sns topic
+
+# 20 December 2022
