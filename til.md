@@ -7061,3 +7061,4 @@ I need to put a trigger (via the aws sns sdk) a trigger that enters the above pa
 # 26 December 2022
 
 # 26 December 2022
+check the slurpFile.js basically, the error is popping up bc the pathing is wrong since it's in a docker container. make a pr that will fix the issue and submit it via aws github
