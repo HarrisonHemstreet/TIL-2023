@@ -128,3 +128,7 @@ check the slurpFile.js basically, the error is popping up bc the pathing is wron
 # 05 January 2023
 
 # 05 January 2023
+1. majority of rust is statically dispatched
+2. you write a trait when you feel like you need to
+
+# 05 January 2023
