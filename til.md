@@ -25,10 +25,9 @@ why did you put derive default at the top of the playground file
 # 09 January 2023
 
 # 10 January 2023
+
+# 11 January 2023
 AWS: we are using dev-exploro-app and prod-exploro-app for the new stuff
-
-# 11 January 2023
-
-# 11 January 2023
+we are using the s3 bucket: exploro-backend-ui-stage us-west-2 and global. most of our stuff is in us-west-1&2
 
 # 11 January 2023
