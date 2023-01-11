@@ -1,1 +1,0 @@
-Hello, world. first var= spirit, sec var = ishere.zip
