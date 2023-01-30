@@ -531,3 +531,8 @@ we are using the s3 bucket: exploro-backend-ui-stage us-west-2 and global. most 
 # 27 January 2023
 
 # 27 January 2023
+Capitilize all headings
+destination of the day has grammatical errors- we can put anything in there. just needs to be grammatically correct
+explore vistara destination by city
+
+# 30 January 2023
