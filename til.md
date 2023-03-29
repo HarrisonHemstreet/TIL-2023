@@ -1508,3 +1508,13 @@ explore vistara destination by city
 # 29 March 2023
 
 # 29 March 2023
+
+the ds_immage and ds_imagefile will always be removed.
+1. delete, just testing
+2. addedit, check the column list, make suser that id_mmedia and id_image are optional params (only include if necessary)
+3. make sure to validate that id_media actually exists 
+modify the base array of data...
+^ id_media acutally im_image
+look at line 63 of Norman's new changes on system/activity, that's how we are essentially determining if we will be adding data or adding it.
+
+# 29 March 2023
