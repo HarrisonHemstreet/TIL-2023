@@ -1483,29 +1483,7 @@ explore vistara destination by city
 
 # 27 March 2023
 
-# 27 March 2023
-
-# 27 March 2023
-
-# 27 March 2023
-
-# 27 March 2023
-
-# 27 March 2023
-
-# 27 March 2023
-
 # 28 March 2023
-
-# 28 March 2023
-
-# 28 March 2023
-
-# 28 March 2023
-
-# 29 March 2023
-
-# 29 March 2023
 
 # 29 March 2023
 
@@ -1517,122 +1495,21 @@ modify the base array of data...
 ^ id_media acutally im_image
 look at line 63 of Norman's new changes on system/activity, that's how we are essentially determining if we will be adding data or adding it.
 
-# 29 March 2023
-
-# 29 March 2023
-
-# 29 March 2023
-
-# 29 March 2023
-
-# 29 March 2023
-
-# 29 March 2023
-
-# 29 March 2023
-
-# 29 March 2023
-
-# 30 March 2023
-
-# 30 March 2023
-
-# 30 March 2023
-
-# 30 March 2023
-
 # 30 March 2023
 
 # 31 March 2023
 
-# 31 March 2023
-
-# 31 March 2023
-
-# 31 March 2023
-
-# 31 March 2023
-
-# 31 March 2023
-
-# 31 March 2023
-
-# 31 March 2023
-
-# 31 March 2023
-
 # 03 April 2023
-
-# 03 April 2023
-
-# 03 April 2023
-
-# 03 April 2023
-
-# 03 April 2023
-
-# 03 April 2023
-
-# 03 April 2023
-
-# 03 April 2023
-
-# 03 April 2023
-
-# 03 April 2023
-
-# 03 April 2023
-
-# 03 April 2023
-
-# 04 April 2023
-
-# 04 April 2023
-
-# 04 April 2023
-
-# 04 April 2023
-
-# 04 April 2023
-
-# 04 April 2023
-
-# 04 April 2023
-
-# 04 April 2023
-
-# 04 April 2023
-
-# 04 April 2023
 
 # 04 April 2023
 1. upload files after changing name to uuid
 2. fix validateData function on all PRs to have id media check, also remove the idmedia field in the columns object in the processAction
 
-# 04 April 2023
-
-# 04 April 2023
-
-# 04 April 2023
-
-# 04 April 2023
-
-# 04 April 2023
-
-# 04 April 2023
-
-# 04 April 2023
-
-# 04 April 2023
-
-# 04 April 2023
-
-# 04 April 2023
-
-# 04 April 2023
-
-# 04 April 2023
-
 # 05 April 2023
+check default props?
+check to see if something is hard coded somewhere
+
+places where links are broken:
+* "The Brooklyn Bridge"
 
 # 05 April 2023
