@@ -1555,3 +1555,20 @@ places where links are broken:
 # 11 April 2023
 
 # 11 April 2023
+I used this SQL to get all unique destinationtypes (in english and not a UUID).
+```sql
+select distinct
+  desttype.ds_name ds_destinationtype_elementtype
+from
+  (
+    destination destitem
+      left outer join
+        media m on destitem.id_mediacard = m.id_media
+  )
+inner join
+  destinationtype desttype
+on
+  destitem.id_destinationtype = desttype.id_destinationtype
+and
+  destitem.en_state >=0;
+```
