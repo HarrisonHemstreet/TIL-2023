@@ -205,3 +205,6 @@ on
 and
   destitem.en_state >=0;
 ```
+
+I got the SQL from just following the endpoint and seeing how it was all generated. The way you get more data into your response is by making sure #1,
+we are selecting for it in our SQL query, AND #2, making sure the response enum/type contains the data column we want.
