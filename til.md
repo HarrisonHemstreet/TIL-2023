@@ -227,4 +227,17 @@ take node-manager and campaign-portal-backend, and the db that gets spun up and 
 basically translate the nosql tables over to postgres tables
 then implement that
 
-# 12 April 2023
+admin portal
+microsite creator
+
+we will collapse the microsite stuff.
+
+admin portal will be interacting with a lot of stuff that the cust portal also interacts with.
+
+if possible, make  adistinction between stuff that is either only admin, only customer, or both
+
+start by going through by spinning up the local emulators and then go through and document stuff.
+
+Get the local emulator up and running and follow the path the data takes when purchasing a campaign.
+
+maybe look into if firebase has a "describe all " function/functionality that will just return the table definitions for each
