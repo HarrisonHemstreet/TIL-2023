@@ -243,3 +243,5 @@ Get the local emulator up and running and follow the path the data takes when pu
 maybe look into if firebase has a "describe all " function/functionality that will just return the table definitions for each
 
 # 12 April 2023
+
+# 12 April 2023
