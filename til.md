@@ -241,3 +241,5 @@ start by going through by spinning up the local emulators and then go through an
 Get the local emulator up and running and follow the path the data takes when purchasing a campaign.
 
 maybe look into if firebase has a "describe all " function/functionality that will just return the table definitions for each
+
+# 12 April 2023
