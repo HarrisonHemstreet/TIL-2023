@@ -218,3 +218,13 @@ we are selecting for it in our SQL query, AND #2, making sure the response enum/
 # 12 April 2023
 
 # 12 April 2023
+
+we need to replace node-manager...
+we need to merge the frontend from microsite and campaign asap
+take the tables, functionality etc, and move them over to a postgres database.
+bc it's nosql in firebase, we need to work to move things over
+take node-manager and campaign-portal-backend, and the db that gets spun up and do a mapping
+basically translate the nosql tables over to postgres tables
+then implement that
+
+# 12 April 2023
