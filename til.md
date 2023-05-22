@@ -1221,3 +1221,5 @@ make a list of things we need to validate in ad portal. get all funct in gohighl
 what ways can we extend this tool? can we create content for social media w/ this tool? can we manage several social media tools at the same time?
 
 # 22 May 2023
+
+# 22 May 2023
