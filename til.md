@@ -1255,3 +1255,7 @@ what ways can we extend this tool? can we create content for social media w/ thi
 # 23 May 2023
 
 # 23 May 2023
+We can deprecate the microsite portal / campaign portal / ad portal. The Backend UI is going to do it all. we just need to build a payment gateway that will give access
+to the backend UI when they pay
+
+# 23 May 2023
