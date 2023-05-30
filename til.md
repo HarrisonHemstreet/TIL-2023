@@ -1270,22 +1270,52 @@ $180/month -> mailgun
 $320 - $468/year -> webflow
 $12/year or more -> domain name
 $600/year -> zappier
-$50 (one time) -> themeforest (dbui)
+$150 (one time) -> themeforest (dbui)
+$240/year -> Airtable
 
 just gohighlevel + webflow:
 $3600 + 320 = $3920 / year
 
 everything above (low end):
-$4954
+$5294
 
 everything above (high end):
-$5102
+$5442
 
 misc:
-$??? -> g-suite: (google email)
+$2880 (20 employees / year) -> g-suite: (google email)
 $??? -> google maps api?
+static map: 400k req = $680
+dynamic map: 100k req = $700
 
 todo:
 1. call up gohighlevel and ask which membership we would need
+
+time estimates from joe:
+frontend only (w/ webflow CMS):
+  1. by yourself, no help, frontend only, webflow: 5 work days or 40 hours
+  2. theme forest template: 5 work days or 40 hours
+  3. other help: 5 work days or 40 hours
+
+backend:
+  1. best case: 2 weeks + 1 week of bug fixing
+  2. worst case: 5 weeks + 2 weeks of bug fixing
+
+best case:
+2 weeks frontend
+2 weeks backend
+2 weeks testing
+--launch--
+2 weeks for stakeholder's revisions
+
+worse case:
+4 weeks frontend (we get to the end of the 2 weeks, realize that we need to ditch webflow's CMS and go with Airtable)
+6 weeks backend (if gohighlevel ends up being tough)
+2 weeks testing
+--launch--
+2 weeks for stakeholder's revisions
+
+learning time estimates:
+
 
 # 30 May 2023
