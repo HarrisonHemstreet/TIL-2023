@@ -1263,3 +1263,29 @@ to the backend UI when they pay
 # 25 May 2023
 
 # 30 May 2023
+new thing:
+$3600/year -> gohighlevel
+$12/year + $180/year (scales higher depending on use)-> twilio
+$180/month -> mailgun
+$320 - $468/year -> webflow
+$12/year or more -> domain name
+$600/year -> zappier
+$50 (one time) -> themeforest (dbui)
+
+just gohighlevel + webflow:
+$3600 + 320 = $3920 / year
+
+everything above (low end):
+$4954
+
+everything above (high end):
+$5102
+
+misc:
+$??? -> g-suite: (google email)
+$??? -> google maps api?
+
+todo:
+1. call up gohighlevel and ask which membership we would need
+
+# 30 May 2023
