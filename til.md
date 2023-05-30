@@ -1290,6 +1290,9 @@ dynamic map: 100k req = $700
 
 todo:
 1. call up gohighlevel and ask which membership we would need
+2. have joe create a time estimate / money estimate for setting up gohighlevel/other backend stuff by outside workers
+3. ask someone to show how we ship our code to spirit
+4. create the "perfect" schema for the cms/database. think about how we can create a server that DOES NOT require the whole gparent, parent etc we have now
 
 time estimates from joe:
 frontend only (w/ webflow CMS):
@@ -1316,6 +1319,12 @@ worse case:
 2 weeks for stakeholder's revisions
 
 learning time estimates:
+me and Lucas:
+  1 week while Joe builds frontend on webflow, we learn how to do what we need to for the backend
 
+translate from NoCode to Code time estimate:
+frontend: 2 weeks
+backend ui: themeforest: 2 weeks
+test: 2 weeks
 
 # 30 May 2023
