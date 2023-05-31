@@ -1370,3 +1370,5 @@ test: 2 weeks
 # 31 May 2023
 
 # 31 May 2023
+=======
+1. I should make an app in Rust that is a CLI tool. You input your todos into a file and then that file gets read back and automatically printed in your open terminals every hour (or set time)
