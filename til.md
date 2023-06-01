@@ -389,3 +389,7 @@ I need to make a website that allows for an admin account to make super basic up
 # 31 May 2023
 
 # 31 May 2023
+that one game I played in APES where if everyone voted to win, everyone won, if even one person
+voted to screw everyone over, the reward doubled for the one who screwed everyone over but if two or more people voted to screw everyone over, then everyone lost
+
+# 31 May 2023
