@@ -399,3 +399,9 @@ voted to screw everyone over, the reward doubled for the one who screwed everyon
 # 03 June 2023
 
 # 04 June 2023
+
+# 15 June 2023
+I should make a debugging tool that essentially just returns a clean looking grid of all the vars defined
+
+# 28 June 2023
+
