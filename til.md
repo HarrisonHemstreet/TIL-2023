@@ -405,3 +405,5 @@ I should make a debugging tool that essentially just returns a clean looking gri
 
 # 28 June 2023
 
+# 1 July 2023
+check DigitalOcean, cancel anything active
