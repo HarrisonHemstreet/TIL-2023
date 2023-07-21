@@ -411,4 +411,51 @@ check DigitalOcean, cancel anything active
 # 11 July 2023
 
 # 18 July 2023
+how to test rustfmt:
+cargo run --bin rustfmt -- ~/test_rustfmt/src/main.rs
+
+Caleb Cartwright on how to work on rustfmt:
+i think there's two aspects to this question, so i'm going to try to respond to them separately and more generally/holistically for the benefit of any potential future readers (i've already chatted with Harrison in DM).
+
+the first is more of the general contributing flow:
+
+contributors are strongly encouraged to follow canonical contribution models on github (the fork/extend/pr flow), see https://docs.github.com/en/get-started/quickstart/contributing-to-projects and https://docs.github.com/en/get-started/quickstart/github-flow
+and as always it's an encouraged best practice to create your own topic branch off the default branch within your fork because that makes it easier to sync upstream changes & work on different things in parallel
+be sure to use a correct toolchain version, and grab the required components for that toolchain. you'll always need a nightly toolchain for working on rustfmt, but it can't just be any arbitrary nightly. there's typically a range of nightlies that will work, but recommendation is to just use what's specified in the toolchain file as that's guaranteed to work https://github.com/rust-lang/rustfmt/blob/master/rust-toolchain
+be sure to add tests to accompany any relevant code changes (https://github.com/rust-lang/rustfmt/blob/master/Contributing.md#create-test-cases). the contents of the test case files can typically be grabbed directly from the issue you're working against (and of course ask questions if you aren't sure how/what to test)
+be sure to run the tests locally (standard cargo test) before submitting a PR to try to catch things locally vs. eating CI cycles
+we encourage and appreciate PRs that have well structured commits, but not something we rigorously enforce. we may ask you to squash up commits or sometimes will squash them on merge to make it easier. one semi-exception to this is to avoid adding merge-commits to your fork-branch when updating it with the latest from rust-lang/rustfmt (grab the latest from the upstream and rebase)
+as with most repos across the Project, we use GitHub Actions for CI. it's neither the most thorough nor the speediest, but results should be fairly easily consumable. if you have questions or are just unsure why it's failing (there are rare occasions where there's failures unrelated to the PR diff, e.g. needing a different toolchain version)
+
+the second would be a bit more focused on what i usually refer to as the inner dev loop, which is inherently a bit more subjective
+
+debugging: highly depends on your environment and preferred way of working
+println! debug mode is always an option
+debug! with RUSTFMT_LOG=debug env var set is another
+full blown debugging with breakpoints and stepping through is of course another approach, though given the plethora of info on debugging Rust apps in various editors/IDEs i'll defer to the seach engines for specific instructions
+you don't need to install rustfmt from source as part of working on the codebase, and i'd strongly advise against installing rustfmt from source. you can "test" or evaluate your changes via the standard cargo ... commands, and that includes your basic cargo test as well as things like cargo run --bin rustfmt -- path/to/file.rs --check <<other rustfmt flags>>, or use rustfmt's interactive mode cargo run --bin rustfmt then type or copy/paste your snippet into the terminal and flush stdin
+there's a bit of a chicken vs. the egg problem with ensuring the current rustfmt codebase is properly formatted according to how rustfmt is currently coded. as such we don't really "run" an older version of rustfmt against itself, but instead rely on what's referred to as the "self test" that handles the complexities of that format-bootstrap process. so if you see that test fail, it just means that the formatting of the code you wrote is off and needs to be corrected, and yes, corrected by hand typically
+the Rust Playground (https://play.rust-lang.org/?version=stable&mode=debug&edition=2021) is also a fantastic resource I often use when hacking on rustfmt, or even just triaging issues and bug reports, because it's a quick, easy, and accessible way to check how a snippet is currently formatted across multiple toolchain versions
+
+finally, and preemptively, yes i'm aware such material is helpful to have in contributing.md style docs. we're long overdue for some doc overhauls and though i've some half-baked drafts scattered about, but i'm responding here for now since the question was posed in chat and will get this type of info incorporated as part of the broader doc update efforts
+
+# 19 July 2023
+Working on this issue:
+https://github.com/rust-lang/rustfmt/issues/5738
+Basically, I'm at a cross roads. Do I choose to change the function itself that is returning an Option<String>? Or Should I change every location that this function is being called in?
+
+Rust idea: add a debuging function that will tell you which line was last executed in a function. The purpose of this is to make debugging faster and more clear. It can be hard to immediately know where the function is failing or struggling or whatever
+
+5738 task: I think that IndentStyle::Block is the only option? at least I'm not thinking it's that significant/prob always on
+
+# 21 July 2023
+questions:
+1. how do you implement the Debug trait as quickly as possible on a type/thing that you did not make, just something you want to look at within the codebase? OR how do I debug types that do not implement debug?
+
+notes:
+1. live server for jamstack development:
+```html
+<script type="text/javascript" src="https://livejs.com/live.js"></script>
+```
+just add the block above to your html page, and you should see it auto reload while developing on it. It's also pure javascript, so that's nice. CSS, HTML, and JavaScript should auto reload on each change
 
