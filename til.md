@@ -451,6 +451,7 @@ Rust idea: add a debuging function that will tell you which line was last execut
 # 21 July 2023
 questions:
 1. how do you implement the Debug trait as quickly as possible on a type/thing that you did not make, just something you want to look at within the codebase? OR how do I debug types that do not implement debug?
+2. I'm thinking at this point that we might be able to get away w/ just skipping a bit of function calls and such by checking for the length of the generics, and if the length is too long, we don't worry about changing anything and just skip the line effectively
 
 notes:
 1. live server for jamstack development:
