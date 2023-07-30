@@ -465,3 +465,25 @@ just add the block above to your html page, and you should see it auto reload wh
 # 29 July 2023
 
 # 30 July 2023
+TIL:
+1. zero cost abstractions in Rust refers to how Rust is able to understand how if one creates an abstraction over another abstraction (for example, when all you're doing is hiding the interface with private/ public), the wrapper abstraction will not require more resources. The opperation of having a wrapper abstraction will not be more resource intensive than only having one abstraction with no wrapper.
+
+this is what chatgpt says about Rust's zero cost abstractions:
+In Rust, "zero-cost abstractions" refers to the language's design philosophy that allows developers to use high-level abstractions without incurring any runtime overhead. It means that using abstract constructs, such as functions, generics, traits, and other language features, should not lead to any additional performance penalties compared to writing lower-level code directly.
+
+The term "abstraction" refers to the practice of hiding implementation details and providing a higher-level interface to interact with a system or data structure. Abstractions make code more readable, maintainable, and reusable. However, in some programming languages, using abstractions can lead to runtime overhead because the compiler may generate additional instructions or data structures to support the abstraction.
+
+Rust, on the other hand, strives to maintain the performance benefits of low-level languages like C and C++ while offering high-level abstractions. This is achieved through a combination of language features, compiler optimizations, and strict control over memory safety.
+
+Some key aspects of Rust's zero-cost abstractions include:
+
+No runtime overhead for generics: Rust supports generic programming through the use of templates, called "generics." The compiler generates specialized code for each concrete type used with generics, avoiding any runtime type-checking or indirection.
+
+Trait-based polymorphism: Traits in Rust provide a way to define shared behavior across different types. Rust's trait system relies on static dispatch (monomorphization) rather than dynamic dispatch (runtime vtables), which means that trait methods are resolved at compile-time, avoiding runtime overhead.
+
+Ownership and borrowing model: Rust's ownership and borrowing system ensures memory safety without requiring garbage collection. This system allows the compiler to perform extensive static analysis and eliminate unnecessary runtime checks.
+
+Minimal runtime support: Rust doesn't have a heavy runtime or virtual machine like some other languages. It can run in resource-constrained environments and can be used for systems programming.
+
+By providing zero-cost abstractions, Rust encourages developers to write expressive and safe code without sacrificing performance. This is a significant advantage of the language, as it allows programmers to create efficient, maintainable, and secure software even in performance-critical domains.
+
