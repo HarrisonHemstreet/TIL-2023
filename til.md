@@ -461,3 +461,7 @@ notes:
 just add the block above to your html page, and you should see it auto reload while developing on it. It's also pure javascript, so that's nice. CSS, HTML, and JavaScript should auto reload on each change
 
 # 26 July 2023
+
+# 29 July 2023
+
+# 30 July 2023
