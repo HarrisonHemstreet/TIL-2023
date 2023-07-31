@@ -487,3 +487,7 @@ Minimal runtime support: Rust doesn't have a heavy runtime or virtual machine li
 
 By providing zero-cost abstractions, Rust encourages developers to write expressive and safe code without sacrificing performance. This is a significant advantage of the language, as it allows programmers to create efficient, maintainable, and secure software even in performance-critical domains.
 
+# 31 July 2023
+TIL:
+* I guess everything is a type in Rust..? https://rust-unofficial.github.io/too-many-lists/first-new.html
+-> context: "Self is an alias for "that type I wrote at the top next to impl". Great for not repeating yourself!"
