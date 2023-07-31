@@ -489,5 +489,17 @@ By providing zero-cost abstractions, Rust encourages developers to write express
 
 # 31 July 2023
 TIL:
+Rust: Too many linked lists notes:
 * I guess everything is a type in Rust..? https://rust-unofficial.github.io/too-many-lists/first-new.html
 -> context: "Self is an alias for "that type I wrote at the top next to impl". Great for not repeating yourself!"
+
+about self, &mut self, &self
+---------------------------------
+| self      | Value             |
+| &mut self | mutable reference |
+| &self     | shared reference  |
+---------------------------------
+
+self: true ownership. good for doing anything to the value. A func that takes in self represents the func consuming the self value. taking ownership
+
+&mut self: mostly used for when we want to change the value of &mut self. You can do anything to a &mut self as long as you return something to take it's place. Only one type can have a mutable reference and have exclusive access at a time. for errors associated with mutable refrences to self, check this error out. great explanation: rustc --explain E0507
