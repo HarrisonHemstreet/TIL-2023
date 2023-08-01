@@ -503,3 +503,8 @@ about self, &mut self, &self
 self: true ownership. good for doing anything to the value. A func that takes in self represents the func consuming the self value. taking ownership
 
 &mut self: mostly used for when we want to change the value of &mut self. You can do anything to a &mut self as long as you return something to take it's place. Only one type can have a mutable reference and have exclusive access at a time. for errors associated with mutable refrences to self, check this error out. great explanation: rustc --explain E0507
+
+# 1 August 2023
+TIL:
+too many linked lists - Rust notes:
+* the reason why Option can be used in every file without having to import it, is bc it's auto imported to every file along with other stuff... I need to figure out what else is auto-imported...
