@@ -507,4 +507,7 @@ self: true ownership. good for doing anything to the value. A func that takes in
 # 1 August 2023
 TIL:
 too many linked lists - Rust notes:
+chapter 2.5:
 * the reason why Option can be used in every file without having to import it, is bc it's auto imported to every file along with other stuff... I need to figure out what else is auto-imported...
+* interesting "never" return type: https://doc.rust-lang.org/nightly/book/ch19-04-advanced-types.html#the-never-type-that-never-returns
+* "match" arms must all return the same type
