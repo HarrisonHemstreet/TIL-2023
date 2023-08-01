@@ -19,3 +19,24 @@ this doesn't seem correct to me though! I would think there is a check going on 
 
 3. are DSTs (dynamically sized types) JIT (just in time) compiled? Do DSTs use JIT compilation? If not, then what determines if something is doing JIT or not?
 4. is the reason why macros have a "!" at the end is bc they result in a "never" type? If they do, it would make sense why I can use a println! statement in a match arm... I wonder if they made it a macro specifically to do this..?
+5. I really want to have a better mental model of this:
+
+about self, &mut self, &self
+---------------------------------
+| self      | Value             |
+| &mut self | mutable reference |
+| &self     | shared reference  |
+---------------------------------
+I should immediately know the differences between them all, but I don't feel 100% confident in my knowledge about all that right now.
+6. I also want to know the differnce in usage between all the different uses of self in this function:
+```rust
+pub fn pop(&mut self) -> Option<i32> {
+    match mem::replace(&mut self.head, Link::Empty) {
+        Link::Empty => None,
+        Link::More(node) => {
+            self.head = node.next;
+            Some(node.elem)
+        }
+    }
+}
+```
