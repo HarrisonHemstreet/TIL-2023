@@ -511,3 +511,16 @@ chapter 2.5:
 * the reason why Option can be used in every file without having to import it, is bc it's auto imported to every file along with other stuff... I need to figure out what else is auto-imported...
 * interesting "never" return type: https://doc.rust-lang.org/nightly/book/ch19-04-advanced-types.html#the-never-type-that-never-returns
 * "match" arms must all return the same type
+* from: https://doc.rust-lang.org/nightly/book/ch19-04-advanced-types.html#dynamically-sized-types-and-the-sized-trait
+```txt
+So what do we do? In this case, you already know the answer: we make the types of s1 and s2 a &str rather than a str. Recall from the “String Slices” section of Chapter 4 that the slice data structure just stores the starting position and the length of the slice. So although a &T is a single value that stores the memory address of where the T is located, a &str is two values: the address of the str and its length. As such, we can know the size of a &str value at compile time: it’s twice the length of a usize. That is, we always know the size of a &str, no matter how long the string it refers to is. In general, this is the way in which dynamically sized types are used in Rust: they have an extra bit of metadata that stores the size of the dynamic information. The golden rule of dynamically sized types is that we must always put values of dynamically sized types behind a pointer of some kind.
+```
+this is why it doesn't work when you just write this:
+```rust
+    let s1: str = "Hello there!";
+    let s2: str = "How's it going?";
+```
+bc "str" is a static type and "&str" is a dynamic type
+
+* this whole section is just great: https://doc.rust-lang.org/nightly/book/ch19-04-advanced-types.html#dynamically-sized-types-and-the-sized-trait
+
