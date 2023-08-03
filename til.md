@@ -530,3 +530,12 @@ too many linked lists - Rust notes:
 chapter 2.7:
 
 # 3 August 2023
+TIL:
+too many linked lists - Rust notes:
+chapter 3.4:
+* every iterator one makes should strive to implement three traits:
+1. IntoIter - T
+2. IterMut &mut T
+3. Iter - &T
+
+* you only need to put lifetime annotations on function and type signatures

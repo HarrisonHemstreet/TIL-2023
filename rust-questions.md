@@ -43,3 +43,8 @@ pub fn pop(&mut self) -> Option<i32> {
 
 7. is match a closure and it's returning type is whatever is put after the "match" keyword?
 8. does the #[] opperator have a name? specifically when used like so: #[derive(Copy)]
+9. Should I really implement three or 4 traits on every collection? If so, why and where do I find that?:
+Iterator - T
+IntoIter - T
+IterMut - &mut T
+Iter - &T
