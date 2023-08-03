@@ -40,3 +40,6 @@ pub fn pop(&mut self) -> Option<i32> {
     }
 }
 ```
+
+7. is match a closure and it's returning type is whatever is put after the "match" keyword?
+8. does the #[] opperator have a name? specifically when used like so: #[derive(Copy)]

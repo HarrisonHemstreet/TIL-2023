@@ -524,3 +524,9 @@ bc "str" is a static type and "&str" is a dynamic type
 
 * this whole section is just great: https://doc.rust-lang.org/nightly/book/ch19-04-advanced-types.html#dynamically-sized-types-and-the-sized-trait
 
+# 2 August 2023
+TIL:
+too many linked lists - Rust notes:
+chapter 2.7:
+
+# 3 August 2023
