@@ -539,3 +539,16 @@ chapter 3.4:
 3. Iter - &T
 
 * you only need to put lifetime annotations on function and type signatures
+
+# ? August 2023
+rustfmt task:
+1. I think that we are landing in line 284 in lists.rs
+```rust
+let inner_item = item.item.as_ref()?;
+```
+2. I need to figure out where this is happening up the chain
+* I think what's happening is that the "items" var in lists.rs "write_list" func has been misread. I think this is the case, bc every item.item === None
+* the last character in the not working example is at column 101. the limit in the code base is 100 columns. This might be a big hint...
+* I added an .unwrap_or("") (essintially) to the failing "?" in "write_list". This is almost working, except for the fact that we are now missing the last "\<S>\". instead, we are just getting everything alright except for the last angle bracket S is empty.
+* I think what's happening is that the last S generic is being missed bc the last column is after 100 columns.
+* I'm also seeing that it looks like the S generics are being processed in reverse. I'm seeing a "None" value get processed first and then an S<>. This makes me think that it's being processed in reverse.
