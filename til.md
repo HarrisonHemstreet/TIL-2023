@@ -552,3 +552,6 @@ let inner_item = item.item.as_ref()?;
 * I added an .unwrap_or("") (essintially) to the failing "?" in "write_list". This is almost working, except for the fact that we are now missing the last "\<S>\". instead, we are just getting everything alright except for the last angle bracket S is empty.
 * I think what's happening is that the last S generic is being missed bc the last column is after 100 columns.
 * I'm also seeing that it looks like the S generics are being processed in reverse. I'm seeing a "None" value get processed first and then an S<>. This makes me think that it's being processed in reverse.
+
+# 14 August 2023
+1.
