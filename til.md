@@ -555,3 +555,21 @@ let inner_item = item.item.as_ref()?;
 
 # 14 August 2023
 1.
+
+# 16 August 2023
+rust task:
+1. I'm noticing that the issue is popping up even with this example:
+```rust
+enum Node
+where
+    P::S<S<S<S<S<S<S<S<S<S<S<S<S<S<S<S<S<S<S<S<S<S<S<S<S>>>>>>>>>>>>>>>>>>>>>>>>: Clone,
+{
+    Cons,
+}
+```
+the weird thing that's happening is that the last \<S\> is getting turned into \<\> despite this row not going past 100 columns...
+
+Notes on rustfmt #5738:
+* code is failing on lists.rs line 284 (at least this line is most responsible since we are unwraping a ? which is bubbling up to the top at the original .unwrap())
+* I think it would be useful to maybe have more visability here: lists.rs line 781
+* that being said, at this point, I think that the issue is prob coming from before I even get to this point. Prob closer to the point at which we read the code. I'm thinking that the code is reading the file incorrectly at some point.
