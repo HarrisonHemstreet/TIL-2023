@@ -48,3 +48,20 @@ Iterator - T
 IntoIter - T
 IterMut - &mut T
 Iter - &T
+
+///////////////////////////
+
+why is there an _ in front of the if on this line?:
+https://github.com/rust-lang/rustfmt/blob/a57d57b16a2411e9081a083f25b25c7d76e2c2ff/src/overflow.rs#L533
+
+////////////////
+Aug 21
+I have realized that we are really missing the first generic and one angle bracket. NOT the first angle bracket. I need to figure out why this is. If you go to overflow.rs::rewrite_items, and if you print the spans to snippets, then you will see that we never see the first generic print. You can see this if your example starts with one letter, has many different letters in between and ends with another letter generic. You can see this in this example:
+```rust
+enum Node
+where
+    P::X<S<S<S<S<S<S<S<S<S<S<S<S<S<S<S<S<S<S<S<S<S<S<S<Z>>>>>>>>>>>>>>>>>>>>>>>>: Clone,
+{
+    Cons,
+}
+```
