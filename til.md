@@ -577,3 +577,7 @@ Notes on rustfmt #5738:
 # 25 August
 
 # 27 August
+
+# 2 September 2023
+* Two popular Rust time libraries: "chrono", "time"
+* build a function that allows structs to be built dynamically. Would take in the struct name or the struct itself, and a list of values, and then combine the two to output a struct dynamically
