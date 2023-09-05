@@ -581,3 +581,7 @@ Notes on rustfmt #5738:
 # 2 September 2023
 * Two popular Rust time libraries: "chrono", "time"
 * build a function that allows structs to be built dynamically. Would take in the struct name or the struct itself, and a list of values, and then combine the two to output a struct dynamically
+
+# 4 September 2023
+* look into actix_web::web::Json::serialize function. I might be able to get rid of my manual Serde shit in routes/mod.rs
+* I need to do a lot more testing. It's basically almost there. The thing I need to investingate is why I can't add the SystemTime to job_listing and blog on creation??? I think it's bc I'm trying to create temporary vals or something... need to investigate further...
