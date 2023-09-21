@@ -601,10 +601,5 @@ Things I'll need to add that also exist in other templates but not this one:
 2. leads/ lead management
 4. sales pipeline
 
-# 20 September 2023
-
-# 20 September 2023
-
-# 20 September 2023
 
 # 20 September 2023
