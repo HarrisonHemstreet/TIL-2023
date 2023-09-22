@@ -606,24 +606,17 @@ Things I'll need to add that also exist in other templates but not this one:
 
 # 21 September 2023
 
-# 21 September 2023
+# 22 September 2023
 
-# 21 September 2023
+JWT:
+1. authentication: logging into an app w/ username and password
+2. after login, make a session id (JWT) with crypto. store this in the database, replacing the last one. this token should be good for lets say 4 hours.
+3. send the JWT back to the front end and store in session. Every applicable API req, send the token so that we can check if the user was authenticated is authorized to run the specific route.
 
-# 21 September 2023
-
-# 21 September 2023
-
-# 21 September 2023
-
-# 21 September 2023
-
-# 21 September 2023
-
-# 21 September 2023
-
-# 21 September 2023
-
-# 21 September 2023
+what I can do before adding cryptography:
+in the SQL table, I can just add a column for the jwt (boolean) and then use that value as the middleware.
+I just need to make sure that the jwt session logic is actually running as middleware on every applicable route and that the program is doing two things:
+Inputs: 1. user's session token, 2. required security level for route
+output: nothing, just moving forward with whatever route is being called
 
 # 22 September 2023
