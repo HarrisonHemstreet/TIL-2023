@@ -622,4 +622,11 @@ output: nothing, just moving forward with whatever route is being called
 # 23 September 2023
 
 # 24 September 2023
-
+notes for tomorrow on where to go next with auth stuff in exploro/jake:
+* I need to clean up JWT logic on both routes. I'm thinking that I could prob even extract the logic into it's own function.
+* think about a way to standardize the Claims struct so that it's not so loosy goosy
+* improve account creation so that every applicable table has a record inserted
+* think about SQL table relationships
+* maybe investigate how I can make my routes protected without having to have a different "scope" (not have it start with "s")
+* copy all the auth stuff into celeyou's jake project
+* think about making my auth stuff into it's own crate
