@@ -636,3 +636,5 @@ notes for later on where to go next with auth stuff in exploro/jake:
 * add api req rate limiting
 * add env var and logic for bypassing authentication and authorization
 * take on the todos from yesterday
+
+# 25 September 2023
