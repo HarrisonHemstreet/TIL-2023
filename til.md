@@ -632,17 +632,7 @@ notes for tomorrow on where to go next with auth stuff in exploro/jake:
 * think about making my auth stuff into it's own crate
 
 # 25 September 2023
-
-# 25 September 2023
-
-# 25 September 2023
-
-# 25 September 2023
-
-# 25 September 2023
-
-# 25 September 2023
-
-# 25 September 2023
-
-# 25 September 2023
+notes for later on where to go next with auth stuff in exploro/jake:
+* add api req rate limiting
+* add env var and logic for bypassing authentication and authorization
+* take on the todos from yesterday
