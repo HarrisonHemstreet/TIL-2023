@@ -630,3 +630,5 @@ notes for tomorrow on where to go next with auth stuff in exploro/jake:
 * maybe investigate how I can make my routes protected without having to have a different "scope" (not have it start with "s")
 * copy all the auth stuff into celeyou's jake project
 * think about making my auth stuff into it's own crate
+
+# 25 September 2023
