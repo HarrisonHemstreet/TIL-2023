@@ -646,34 +646,4 @@ meeting notes:
 * add hero videos to the top of every page
 * iframe exploro.com inside explorogroup and have essentially an interactive demo
 
-# 27 September 2023
-
-# 27 September 2023
-
-# 27 September 2023
-
-# 27 September 2023
-
-# 27 September 2023
-
-# 27 September 2023
-
-# 28 September 2023
-
-# 28 September 2023
-
-# 28 September 2023
-
-# 28 September 2023
-
-# 28 September 2023
-
-# 28 September 2023
-
-# 28 September 2023
-
-# 28 September 2023
-
-# 28 September 2023
-
 # 28 September 2023
