@@ -640,5 +640,10 @@ notes for later on where to go next with auth stuff in exploro/jake:
 # 26 September 2023
 
 # 27 September 2023
+meeting notes:
+* we need to come up with our services
+* home page needs additions and we need to figure out what we are offering
+* add hero videos to the top of every page
+* iframe exploro.com inside explorogroup and have essentially an interactive demo
 
 # 27 September 2023
