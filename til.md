@@ -659,4 +659,17 @@ meeting notes:
 # 03 October 2023
 
 # 04 October 2023
+tags tables to make:
+* hotel category
+* hotel tags (misc) (currently "Facitilies" can be viewed on add new hotel)
+* room category
+* room inclusions
+* room amenities
+* room guest services
 
+on room (Hotel Details, "Facitily" tab)
+* (room) basic facility
+* payment modes accepted
+* security
+* food & drink
+* activities
