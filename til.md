@@ -673,3 +673,5 @@ on room (Hotel Details, "Facitily" tab)
 * security
 * food & drink
 * activities
+
+# 04 October 2023
