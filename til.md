@@ -674,34 +674,4 @@ on room (Hotel Details, "Facitily" tab)
 * food & drink
 * activities
 
-# 04 October 2023
-
-# 04 October 2023
-
-# 04 October 2023
-
-# 04 October 2023
-
-# 05 October 2023
-
-# 05 October 2023
-
-# 05 October 2023
-
-# 05 October 2023
-
-# 05 October 2023
-
-# 05 October 2023
-
-# 05 October 2023
-
-# 05 October 2023
-
-# 05 October 2023
-
-# 05 October 2023
-
-# 05 October 2023
-
 # 05 October 2023
