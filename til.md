@@ -681,3 +681,5 @@ on room (Hotel Details, "Facitily" tab)
 # 04 October 2023
 
 # 04 October 2023
+
+# 05 October 2023
