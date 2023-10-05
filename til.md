@@ -675,3 +675,5 @@ on room (Hotel Details, "Facitily" tab)
 * activities
 
 # 05 October 2023
+
+# 05 October 2023
