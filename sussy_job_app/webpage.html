@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="google-site-verification" content="Ty_uddsUiim55tteitR4CBf-iS7L7IrBrz_Aqt0hyF4" />
+  <title>Recruitment</title>
+
+  
+  <link href="https://static.workforcenow.adp.com/mas/mdf/23.45.13/styles/fonts.css" rel="stylesheet">
+  
+  <link href="https://static.workforcenow.adp.com/mas/mdf/23.45.13/styles/mdfCore.css" rel="stylesheet">
+  
+  <link href="https://static.workforcenow.adp.com/mas/mdf-components/23.45.23/styles/mdfComponents.css" rel="stylesheet">
+  
+  
+  <script src="https://static.workforcenow.adp.com/mas/mdf/23.45.13/vendorCore.js"></script>
+  
+  <script src="https://static.workforcenow.adp.com/mas/mdf/23.45.13/mdfCore.js"></script>
+  
+  <script src="https://static.workforcenow.adp.com/mas/mdf-components/23.45.23/vendorComponents.js"></script>
+  
+  <script src="https://static.workforcenow.adp.com/mas/mdf-components/23.45.23/adpComponents.js"></script>
+  
+  <script src="https://static.workforcenow.adp.com/mas/mdf-components/23.45.23/mdfComponents.js"></script>
+  
+
+  <script src="https://synerg.adp.com/config/synerg-config-3.24.0.js"></script>
+  <script src="https://synerg.adp.com/sdfx/config/sdfx-config-3.24.0.js"></script>
+  <script src="https://static.workforcenow.adp.com/mas/mdf-wc/dist/config/wfn-config-1.2.14.js"></script>
+
+  <script>
+    // Use an IIFE to scope the theme variable
+    (() => {
+      const theme = 'one';
+
+      if (theme === 'one') {
+        window.isADPUnified = true;
+      }
+
+      window.SynergConfig.initialize({ theme, skipFonts: theme === 'vdl' }).then((cfg) => {
+        // Something that has to be done to load grid styles
+        window.SynergConfig.getComponentThemeCSSHref('sdf-grid-v28').then((href) => {
+          const sheet = document.createElement('link');
+          sheet.type = 'text/css';
+          sheet.rel = 'stylesheet';
+          sheet.href = href;
+
+          document.head.appendChild(sheet);
+        });
+
+        // Now load the global styles for the default theme
+        return cfg.loadGlobalStyles(['sdf-global', 'sdf-utilities', 'sdf-variables']);
+      });
+
+      window.SDFXConfig.initialize({ theme });
+
+      window.WFNConfig.initialize({ theme });
+    })();
+  </script>
+  <style>
+    #recPageLoadWaitingIndicator {
+      display: flex;
+      z-index: 1000;
+      justify-content: center;
+      align-items: center;
+      left: 0;
+      top: 0;
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      padding-top: 50px;
+      color: #1a8099;
+    }
+  </style>
+</head>
+<body id="wfn_body" role="main" class="mdf recruitment-body one-ux">
+  <div class="mdf one-ux">
+    <div id="postLogin_root" class="recruitment recruitment_styles postLogin_root vdl-container-fluid"></div>
+    <div id="recPageLoadWaitingIndicator" class="vdl-busy-indicator vdl-busy-indicator--overlay vdl-busy-indicator--md" style="display: flex;z-index:1000;justify-content: center;align-items: center;left:0;top:0;position:absolute;height: 100%;width: 100%;padding-top: 50px;color:#1a8099;">
+      <svg version="1.1" x="0px" y="0px" width="40" height="40" viewBox="0 0 40 40" class="vdl-busy-indicator__icon"><defs><clipPath id="clipPath"><rect x="0" y="0" width="20" height="20"></rect></clipPath></defs><circle cx="20" cy="20" stroke-width="4" r="18"></circle><circle cx="20" cy="20" stroke-width="4" r="18" clip-path="url(#clipPath)"></circle></svg>
+    </div>
+    <div id='warning-block-wfn' style='display: none'>
+      Please switch to a supported browser listed
+      <a href="https://support.adp.com/pub/paas/login_page/common/en_US/empl/netscr/base/logon/wfn_req.htm">here</a>,
+      or some features may not work correctly.
+    </div>
+  </div>
+  <script>
+    window.onload = function () {
+      try {
+        checkBrowserSupport('postLogin_root');
+      }
+      catch(e) {
+        // Do nothing if it's not defined.
+      }
+    };
+
+    try {
+      try {
+        // This will not work starting with Chrome 115.
+        window.document.domain = 'adp.com';
+      }
+      catch(e) {
+        // Do nothing if fails.
+      }
+
+      if (!window['wfnCdnPath']) {
+        const currentPage = document.location.href;
+        const isProduction = currentPage.indexOf('workforcenow.adp.com') > -1 || currentPage.indexOf('wfn-prod-test.adp.com') > -1 || currentPage.indexOf('workforcenow.cloud.adp.com') > -1;
+        const cookies = document.cookie.match(new RegExp('WFNCDN=([^;]+)'));
+        let cdn = cookies && cookies[1] ? cookies[1] : 'wfn';
+        cdn = cdn.toLowerCase();
+        let cdnPath;
+
+        if (cdn === 'myadp') {
+          cdnPath = isProduction ? 'static.adp.com/mas' : 'static-iat.adp.com/mas';
+        }
+        else {
+          cdnPath = isProduction ? 'static.workforcenow.adp.com/mas' : 'static.wfn-iat.adp.com/mas';
+        }
+
+        window['wfnCdnPath'] = cdnPath;
+      }
+    }
+     catch (e) {
+      console.error('Error while setting domain ' + e);
+    }
+
+    // Workaround for Highcharts Error #16
+    if (window.Highcharts) {
+      window.SAVED_Highcharts = window.Highcharts;
+      delete window.Highcharts;
+    }
+
+    (function() {
+      // Dynamic CSS and JS loader
+      const mdfLoader = {
+        cssFiles: [
+          
+          '/mascsr/default/mdf/recruitment/styles/postLogin.963c837dadacae023341.css',
+          
+        ],
+        jsFiles: [
+          
+          '/mascsr/default/mdf/recruitment/postLogin.963c837dadacae023341.js',
+          
+          '/mascsr/default/mdf/recruitment/config-loader.js',
+          '/mascsr/default/mdf/recruitment/detectizr.min.js',
+          '/mascsr/default/mdf/recruitment/modernizr.min.js',
+          '/mascsr/default/mdf/recruitment/browser.js'
+        ],
+        loadMethods: [],
+        filesLoaded: [],
+        whenFinished: function() {
+          if (document.getElementById('recPageLoadWaitingIndicator')) {
+            document.getElementById('recPageLoadWaitingIndicator').style.display = 'none';
+          }
+
+          if (window.SAVED_Highcharts) {
+            window.Highcharts = window.SAVED_Highcharts;
+          }
+        },
+        mdfLoaded: false,
+        cdnPath: window['wfnCdnPath'] || 'static.workforcenow.adp.com/mas',
+        publicPath: 'https://cdn-path',
+        applicationPath: '/mascsr/default/mdf/recruitment',
+        applicationName: 'postLogin',
+
+        resetFileLists: function() {
+          if (!window.gapi) {
+            this.jsFiles.push('https://apis.google.com/js/api.js');
+          }
+
+          const langMap = {
+            en_US: 'en',
+            fr_CA: 'fr-CA',
+            es_US: 'es-US',
+            en_CA: 'en-CA'
+          };
+
+          let adpLang = this.getParameterByName('lang');
+
+          if (adpLang) {
+            const tempLang = langMap[adpLang];
+
+            if (!tempLang && adpLang.replace('-', '_').split('_').length > 1) {
+              let url = window.location.href;
+              let finalLang = adpLang.replace('-', '_').split('_')[0] + '_' + (adpLang.replace('-', '_').split('_')[1]).toUpperCase();
+              finalLang = finalLang.replace(/^\s+|\s+$/g, '');
+
+              if (langMap[finalLang]) {
+                adpLang = adpLang.match(/^\s|\s$/) ? encodeURIComponent(adpLang) : adpLang;
+                url = url.replace(adpLang, finalLang);
+                window.location.href = url;
+              }
+              else {
+                const firstPart = adpLang.replace('-', '_').split('_')[0];
+
+                if (firstPart.toLowerCase() === 'es') {
+                  url = url.replace(adpLang, 'es_US');
+                  window.location.href = url;
+                }
+                else if (firstPart.toLowerCase() === 'fr') {
+                  url = url.replace(adpLang, 'fr_CA');
+                  window.location.href = url;
+                }
+              }
+            }
+
+            if (document.getElementsByTagName('html') && document.getElementsByTagName('html')[0] && !document.getElementsByTagName('html')[0].lang) {
+              document.getElementsByTagName('html')[0].lang = adpLang.replace('-', '_').split('_')[0];
+            }
+          }
+        },
+
+        getParameterByName: function (name, url) {
+          if (!url) {
+            url = window.location.href;
+          }
+
+          name = name.replace(/[\[\]]/g, '\\$&');
+
+          const regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)');
+          const results = regex.exec(url);
+
+          if (!results) {
+            return null;
+          }
+
+          if (!results[2]) {
+            return '';
+          }
+
+          return decodeURIComponent(results[2].replace(/\+/g, ' '));
+        },
+
+        startsWith: function(str, prefix) {
+          return str.indexOf(prefix) === 0;
+        },
+
+        endsWith: function(str, suffix) {
+          // Strip off any ./ or ../ at the start of the suffix.
+          const firstSlash = suffix.indexOf('/');
+          suffix = suffix.substring(firstSlash);
+          // Do the comparison
+          return str.indexOf(suffix, str.length - suffix.length) !== -1;
+        },
+
+        hasXHR2: function() {
+          let x = new XMLHttpRequest();
+
+          return (typeof x['addEventListener'] !== 'undefined') && (typeof x['upload'] !== 'undefined');
+        },
+
+        fetchContent: function(url, onLoad, onError) {
+          let xhr = new XMLHttpRequest();
+          xhr.open('GET', url, false);
+
+          if (this.hasXHR2()) {
+            xhr.addEventListener('load', function(event) {
+              let response = event.target;
+
+              if (response.status === 200) {
+                onLoad(response.responseText, response);
+              }
+              else {
+                onError(response);
+              }
+            }, false);
+
+            xhr.addEventListener('error', function(event) {
+              onError(event.target);
+            }, false);
+          }
+          else {
+            xhr.onreadystatechange = function() {
+              if (xhr.readyState === 4) {
+                if (xhr.status === 200) {
+                  onLoad(xhr.responseText, xhr);
+                }
+                else {
+                  onError(xhr);
+                }
+              }
+            };
+          }
+
+          try {
+            xhr.send();
+          }
+          catch(e) {
+            if ('console' in window) {
+              console.log('xhr.send() error [' + e.message + ']');
+            }
+          }
+        },
+
+        isStyleSheetLoaded: function(url) {
+          let linkTags = document.getElementsByTagName('link');
+          let link;
+
+          for (let i = 0; i < linkTags.length; i++) {
+            link = linkTags[i];
+
+            if (this.endsWith(link.href, url)) {
+              return true;
+            }
+          }
+
+          return false;
+        },
+
+        isScriptLoaded: function(url) {
+          let scriptTags = document.getElementsByTagName('script');
+          let script;
+          let href;
+
+          for (let i = 0; i < scriptTags.length; i++) {
+            script = scriptTags[i];
+            href = script.src;
+
+            if (this.endsWith(href, url)) {
+              return true;
+            }
+          }
+
+          return false;
+        },
+
+        loadStyleSheet: function(url, media) {
+          let sheet = null;
+
+          // We want to load stylesheets under 2 conditions:
+          // 1. The stylesheet has not been loaded before.
+          // 2. The stylesheet is application-specific and needs to be reloaded when we return to the application.
+          if (!this.startsWith(url, this.publicPath) || !this.isStyleSheetLoaded(url)) {
+            console.log('mdfLoader.loadStyleSheet(): LOADING [' + url + ']');
+
+            sheet = document.createElement('link');
+            sheet.type = 'text/css';
+            sheet.rel = 'stylesheet';
+            sheet.href = url;
+
+            if (media) {
+              sheet.media = media;
+            }
+
+            document.head.appendChild(sheet);
+          }
+          else {
+            console.log('mdfLoader.loadStyleSheet(): SKIPPING [' + url + ']');
+          }
+        },
+
+        loadScript: function(url, language, onLoad) {
+          let script = null;
+          let _this = this;
+
+          // We want to load JavaScript files under 2 conditions:
+          // 1. The JavaScript has not been loaded before.
+          // 2. The JavaScript is application-specific and needs to be reloaded when we return to the application.
+          if (!this.startsWith(url, this.publicPath) || !this.isScriptLoaded(url)) {
+            console.log('mdfLoader.loadScript(): LOADING [' + url + ']');
+
+            this.filesLoaded.push(false);
+            let fileIndex = this.filesLoaded.length - 1;
+            script = document.createElement('script');
+
+            script.src = url;
+            script.async = false;
+
+            if (language) {
+              script.type = language;
+            }
+            else {
+              script.type = 'text/javascript';
+            }
+
+            script.onload = function() {
+              _this.filesLoaded[fileIndex] = true;
+
+              if (onLoad) {
+                onLoad(arguments);
+              }
+
+              if (_this.filesLoaded.every(function(item) { return item; })) {
+                _this.whenFinished();
+              }
+            };
+
+            document.head.appendChild(script);
+          }
+          else {
+            console.log('mdfLoader.loadScript(): SKIPPING [' + url + ']');
+          }
+        },
+
+        fixPath: function(path) {
+          return path.replace('cdn-path', this.cdnPath);
+        },
+
+        pageSetup: function() {
+          const isProduction = this.startsWith(this.publicPath, 'https');
+          this.publicPath = this.fixPath(this.publicPath);
+
+          if (!window.process) {
+            window.process = {};
+          }
+
+          if (isProduction) {
+            if (!window.process.env) {
+              window.process.env = {};
+            }
+
+            window.process.env.NODE_ENV = 'production';
+          }
+
+          let _this = this;
+
+          this.cssFiles.forEach(function(file) {
+            const itemUrl = _this.fixPath(file);
+
+            if (window['dojoConfig'] || window['angular']) {
+              if (file.indexOf('fonts') < 0) {
+                _this.loadStyleSheet(itemUrl);
+              }
+            }
+            else {
+              _this.loadStyleSheet(itemUrl);
+            }
+          });
+
+          this.jsFiles.forEach(function(file) {
+            const itemUrl = _this.fixPath(file);
+            _this.loadScript(itemUrl);
+          });
+        },
+      };
+
+      mdfLoader.resetFileLists();
+
+      // Code to run when all the scripts have loaded.
+      mdfLoader.whenFinished = function () {
+        if (document.getElementById('recPageLoadWaitingIndicator')) {
+          document.getElementById('recPageLoadWaitingIndicator').style.display = 'none';
+        }
+
+        if (window.SAVED_Highcharts) {
+          window.Highcharts = window.SAVED_Highcharts;
+        }
+      };
+
+      // Load the CSS and JS files based on the environment.
+      mdfLoader.pageSetup();
+    })();
+  </script>
+</body>
+</html>
